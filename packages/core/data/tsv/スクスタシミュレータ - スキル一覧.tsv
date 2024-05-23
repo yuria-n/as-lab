@@ -1,0 +1,70 @@
+effect	title	slug	fields	description
+appealUp	アピールを増加	アピールUP	notes: number, rate: number	${'notes'}ノーツの間アピールが${'rate'}％増加
+appealUpAndStaminaRecovery	アピールを増加＆スタミナを回復	アピールUP&スタミナ回復	notes: number, rate1: number, parameter: Parameter, rate2: number	${'notes'}ノーツの間アピールが${'rate1'}％増加 ${'parameter'}の${'rate2'}スタミナを回復
+appealUpType	アピールを増加	アピールUP	notes: number, type: Type ,rate: number	${'notes'}ノーツの間ライブ編成に含まれる${'type'}タイプの数×${'rate'}％アピール増加
+appealDown	アピールを減少	アピールDOWN	notes: number, rate: number	${'notes'}ノーツの間アピールが${'rate'}％減少
+appealDownTeam	アピールを減少	アピールDOWN	rate: number	作戦を切り替えるまでアピールを${'rate'}％減少
+appealPlus	基本アピールを増加	アピール＋	rate: number	基本アピールが${'rate'}％増加
+appealPlusStamina	基本アピールを増加	アピール＋（元気）	rate: number	ゲーム終了まで残りスタミナが多いほど基本アピールが増加（最大${'rate'}％）
+appealPlusAndStaminaPlus	基本アピール・スタミナを増加	アピール&スタミナ＋	rate1: number, rate2: number	基本アピールが${'rate1'}％増加 基本スタミナが${'rate2'}％増加
+appealPlusAndTechniquePlus	基本アピール・テクニックを増加	アピール&テクニック＋	rate1: number, rate2: number	基本アピールが${'rate1'}％増加 基本テクニックが${'rate2'}％増加
+appealMinus	基本アピールを減少	アピールMINUS	rate: number	基本アピールを${'rate'}％減少
+voltageUp	獲得ボルテージを増加	ボルテージUP	notes: number, rate: number	${'notes'}ノーツの間獲得ボルテージが${'rate'}％増加
+voltageUpAc	獲得ボルテージを増加	ボルテージUP	rate: number	AC終了まで獲得ボルテージが${'rate'}％増加
+voltagePlus	基本獲得ボルテージを増加	ボルテージ＋	rate: number	基本獲得ボルテージが${'rate'}％増加
+voltageLimitPlus	基本獲得ボルテージの上限を増加	ボルテージ上限＋	rate: number	ゲーム終了まで獲得する基本獲得ボルテージの上限が${'rate'}％増加
+voltageLimitPlusCritical	クリティカル時ボルテージ上限解放	クリティカル時ボルテージ上限解放	rate: number	ゲーム終了までクリティカル時のみ獲得ボルテージの上限が${'rate'}％増加
+voltageGain	ボルテージを獲得	ボルテージ獲得	parameter: Parameter, rate: number	${'parameter'}の${'rate'}％のボルテージを獲得
+voltageGainAndAppealUp	ボルテージ獲得＆アピール増加	ボルテージ獲得＆アピール増加	parameter: Parameter, rate1: number, notes: number, rate2: number	${'parameter'}の${'rate1'}％のボルテージを獲得し${'notes'}ノーツの間アピールが${'rate2'}％増加
+techniqueUp	テクニックを増加	テクニックUP	notes: number, rate: number	${'notes'}ノーツの間テクニックが${'rate'}％上昇
+techniquePlus	基本テクニックを増加	テクニック＋	rate: number	基本テクニックが${'rate'}％増加
+techniquePlusAndStaminaPlus	基本テクニック・スタミナを増加	テクニック&スタミナ＋	rate1: number, rate2: number	基本テクニックが${'rate1'}％増加 基本スタミナが${'rate2'}％増加
+criticalUp	クリティカル値を上昇	クリティカル値UP	notes: number, value: number	${'notes'}ノーツの間クリティカル値が${'value'}％上昇
+criticalUpAc	クリティカル値を上昇	クリティカル値UP	value: number	AC終了までクリティカル値が${'value'}％上昇
+criticalUpType	クリティカル値を上昇	クリティカルUP	notes: number, type: Type ,rate: number	${'notes'}ノーツの間ライブ編成に含まれる${'type'}タイプの数×${'rate'}％クリティカル率上昇
+criticalPlus	基本クリティカル値を上昇	クリティカル＋	rate: number	基本クリティカル値が${'rate'}％上昇
+criticalPlusCombo	基本クリティカル値を上昇	クリティカル＋	rate: number	ゲーム終了まで残りコンボ数に応じて基本クリティカル値が上昇（最大${'rate'}％）
+criticalPlusStamina	基本クリティカル値を上昇	クリティカル＋（元気）	rate: number	ゲーム終了まで残りスタミナが多いほど基本クリティカル値が上昇（最大${'rate'}％）
+criticalRateUp	クリティカル率を上昇	クリティカルUP（%）	notes: number, rate: number	${'notes'}ノーツの間クリティカル率が${'rate'}％上昇
+criticalRateAc	クリティカル率を上昇	クリティカルUP（%）	rate: number	AC終了までクリティカル率${'rate'}％上昇
+criticalRatePlus	クリティカル率を上昇	クリティカル＋（%）	rate: number	基本クリティカル率が${'rate'}％上昇
+criticalRateUpAndCriticalUp	クリティカル率・クリティカル値増加	クリティカル率&クリティカル値UP	notes: number,rate1: number,rate2: number	${'notes'}ノーツの間クリティカル率が${'rate1'}％上昇し、クリティカル値が${'rate2'}％上昇
+criticalRateUpAndVoltageUp	クリティカル率・ボルテージ増加	クリティカル率＆ボルテージ増加	notes: number,rate1: number,rate2: number	${'notes'}ノーツの間クリティカル率が${'rate1'}％上昇し、獲得ボルテージが${'rate2'}％増加
+comboCount	コンボ数を増加	コンボ数UP	value: number	コンボ数を${'value'}増加
+skillInvocationUp	特技発動率を上昇	特技発動率UP	notes: number, rate: number	${'notes'}ノーツの間特技発動率が${'rate'}%上昇
+skillInvocationUpAc	特技発動率を上昇	特技発動率UP	rate: number	AC終了まで特技発動率が${'rate'}%上昇
+skillInvocationPlus	基本特技発動率を上昇	特技発動率＋	rate: number	基本特技発動率が${'rate'}％上昇
+skillInvocationPlusStamina	基本特技発動率を上昇	特技発動率＋（元気）	rate: number	ゲーム終了まで残りスタミナが多いほど基本特技発動率が上昇（最大${'rate'}％）
+skillInvocationDown	特技発動率を減少	特技発動率DOWN	notes: number, rate: number	${'notes'}ノーツの間特技発動率が${'rate'}%減少
+spSkillUp	SP特技獲得ボルテージを増加	SP特技UP	parameter: Parameter, rate: number	次に発動するSP特技で獲得するボルテージが${'parameter'}の${'rate'}％増加
+spSkillPlus	SP特技獲得ボルテージを増加	SP特技＋	rate: number	SP特技の獲得ボルテージを${'rate'}％増加
+spSkillPlusParam	SP特技獲得ボルテージを増加	SP特技＋	parameter: Parameter, rate: number	SP特技の獲得ボルテージを${'parameter'}の${'rate'}％増加
+spSkillPlusType	SP特技獲得ボルテージを増加	SP特技＋	type: Type, rate: number	${'type'}タイプの数×${'rate'}基本SP特技の獲得ボルテージ増加
+spGaugeGainUp	SPゲージ獲得量を上昇	SPゲージ獲得UP	notes: number, rate: number	${'notes'}ノーツの間SPゲージ獲得量が${'rate'}％上昇
+spGaugeGainUpAc	SPゲージ獲得量を上昇	SPゲージ獲得UP	rate: number	AC終了までSPゲージ獲得量が${'rate'}％上昇
+spGaugeGainPlus	基本SPゲージ獲得量を上昇	SPゲージ獲得＋	rate: number	ゲーム終了時まで基本SPゲージ獲得量が${'rate'}％上昇
+spGaugeGainMinus	基本SPゲージ獲得量を減少	SPゲージ獲得ー	rate: number	ゲーム終了時まで基本SPゲージ獲得量が${'rate'}％減少
+spGaugeGainPlusStamina	基本SPゲージ獲得量を上昇	SPゲージ獲得＋（元気）	rate: number	ゲーム終了まで残りスタミナが多いほど基本SPゲージ獲得量が上昇（最大${'rate'}％）
+spGaugeGain	SPゲージを獲得	SPゲージ獲得	value: number	SPゲージを${'value'}獲得
+spGaugeGainRate	SPゲージを獲得	SPゲージ獲得	parameter: Parameter, rate: number	${'parameter'}の${'rate'}％のSPゲージを獲得
+spGaugeGainRateAndSpSkillUp	SP獲得＆SP特技ボルテージ増加	SP獲得＆SP特技ボルテージ増加	parameter1: Parameter, rate1: number, parameter2: Parameter, rate2: number	${'parameter1'}の${'rate1'}％ゲージを獲得し次に発動するSP特技で獲得するボルテージが${'parameter2'}の${'rate2'}％増加
+staminaPlus	基本スタミナを増加	スタミナ＋	rate: number	基本スタミナが${'rate'}％増加
+staminaRecovery	スタミナを回復	スタミナ回復	parameter: Parameter, rate: number	${'parameter'}の${'rate'}％のスタミナを回復
+staminaRecoveryCombo	スタミナを回復	スタミナ回復	value: number	発動時のコンボ数に応じてスタミナを回復（最大${'value'}）
+staminaRecoveryType	スタミナを回復	スタミナ回復	type: Type, value: number	ライブ編成に含まれる${'type'}タイプの数×${'value'}スタミナを回復
+staminaRecoveryAndShieldGain	スタミナを回復＆シールド獲得	スタミナを回復＆シールド獲得	parameter1: Parameter, rate1: number, parameter2: Parameter, rate2: number	${'parameter1'}の${'rate1'}％スタミナを回復し${'parameter2'}の${'rate2'}％シールドを獲得
+damage	スタミナを減少	スタミナ減少	value: number	${'value'}スタミナを減少
+damageReduction	スタミナダメージを軽減	スタミナダメージ軽減	notes: number, rate: number	${'notes'}ノーツの間スタミナダメージを${'rate'}％軽減
+damageReductionPlus	スタミナダメージを軽減	スタミナダメージ軽減	rate: number	ゲーム終了までスタミナダメージを${'rate'}％軽減
+damageReductionPlusStamina	スタミナダメージを軽減	スタミナダメージ軽減（元気）	rate: number	ゲーム終了まで残りスタミナが多いほどスタミナダメージを軽減（最大${'rate'}％）
+damageReductionAc	スタミナダメージを軽減	スタミナダメージ軽減	rate: number	AC終了までスタミナダメージを${'rate'}％軽減
+shieldGain	シールドを獲得	シールド獲得	parameter: Parameter, rate: number	${'parameter'}の${'rate'}％のシールドを獲得
+shieldGainValue	シールドを獲得	シールド獲得	value: number	シールドを${'value'}獲得
+shieldGainValueCombo	シールドを獲得	シールド獲得	value: number	発動時のコンボ数に応じてシールドを獲得（最大${'value'}）
+deactivation	低下・減少効果を解除	効果解除		すべての低下/減少効果を解除（基本低下/基本減少を除く）
+revival	スタミナが0になった場合に回復	復活	rate: number	スタミナが0になると${'rate'}％回復し復活する効果を付与する
+changeTeamNotesLose	作戦切り替えボーナス	切替効果UP	value: number	作戦切替に必要なノーツが${'value'}減る
+changeTeamPlus	作戦切り替えボーナス	切替効果UP	rate: number	作戦切替ボーナスによるスタミナ回復量を${'rate'}％上昇
+teamEffectReductionPlus	マイナス作戦効果の軽減	マイナス作戦効果軽減	type: Type, rate: number	${'type'}のマイナス作戦効果を${'rate'}％軽減
+attributeBonusPlus	属性一致ボーナスアップ	属性一致ボーナスアップ	rate: number	属性一致ボーナスを${'rate'}％上昇
+spSkillOverChargeAndSpSkillUpEx	SP特技オーバーチャージ＆SP特技UPEX	SP特技オーバーチャージ＆SP特技UPEX	rate1: number, rate2: number	SP特技ゲージを${'rate1'}％までオーバーチャージ可能となり、SP特技ゲージの消費量に応じてSP特技で獲得するボルテージが最大${'rate2'}％増加

@@ -1,0 +1,13 @@
+id	title	effect	target	effectType	effectValue	memo
+passive_appealPlus_sameType	アピール+:タイプ	appealPlus	sameType	rate	2	基本アピールが2%増加
+passive_appealPlus_friend	アピール+:仲間	appealPlus	friend	rate	1	基本アピールが1%増加
+passive_appealPlus_everyone	アピール+:全員	appealPlus	everyone	rate	4.2	基本アピールが4.2%増加
+passive_appealPlus_sameTeam	アピール+:同作戦	appealPlus	sameTeam	rate	7	基本アピールが7%増加
+passive_appealPlus_sameAttribute	アピール+:同属性	appealPlus	sameAttribute	rate	5.2	基本アピールが5.2%増加
+passive_staminaPlus_everyone	スタミナ+:全員	staminaPlus	everyone	rate	4.2	基本スタミナが4.2%増加
+passive_staminaPlus_sameTeam	スタミナ+:同作戦	staminaPlus	sameTeam	rate	7	基本スタミナが7%増加
+passive_techniquePlus_sameAttribute	スタミナ+:同属性	techniquePlus	sameAttribute	rate	5.2	基本スタミナが5.2%増加
+passive_techniquePlus_everyone	テクニック+:全員	techniquePlus	everyone	rate	4.2	基本テクニックが4.2%増加
+passive_techniquePlus_sameTeam	テクニック+:同作戦	techniquePlus	sameTeam	rate	7	基本テクニックが7%増加
+passive_techniquePlus_sameAttribute	テクニック+:同属性	techniquePlus	sameAttribute	rate	5.2	基本テクニックが5.2%増加
+passive_skillInvocationPlus_myself	特技発動率+	skillInvocationPlus	myself	rate	0.3	基本特技発動率が0.3%上昇

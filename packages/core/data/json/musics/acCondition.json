@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "type": "voltage",
+    "title": "目標ボルテージ",
+    "fields": [
+      {
+        "name": "value",
+        "type": "number"
+      }
+    ],
+    "description": "合計${'value'}ボルテージを獲得する",
+    "once": false
+  },
+  {
+    "id": "2",
+    "type": "idol",
+    "title": "\b作戦切替",
+    "fields": [
+      {
+        "name": "value",
+        "type": "number"
+      }
+    ],
+    "description": "${'value'}人のアイドルでアピールする",
+    "once": false
+  },
+  {
+    "id": "6",
+    "type": "sp",
+    "title": "SP特技",
+    "fields": [
+      {
+        "name": "value",
+        "type": "number"
+      }
+    ],
+    "description": "SP特技で合計${'value'}ボルテージを獲得する",
+    "once": false
+  },
+  {
+    "id": "8",
+    "type": "critical",
+    "title": "クリティカル判定",
+    "fields": [
+      {
+        "name": "times",
+        "type": "number"
+      }
+    ],
+    "description": "クリティカル判定を${'times'}回出す",
+    "once": false
+  },
+  {
+    "id": "9",
+    "type": "skill",
+    "title": "特技",
+    "fields": [
+      {
+        "name": "times",
+        "type": "number"
+      }
+    ],
+    "description": "特技を${'times'}回出す",
+    "once": false
+  }
+]

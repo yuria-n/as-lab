@@ -1,0 +1,14 @@
+id	title	effect	effectParam	condition	target	rate	effectType	effectValue	oneTime	memo
+uchiura_no_kaguramai	内浦の神楽舞	voltageGain		none	none	33	rate	32	TRUE	1度だけSP特技で獲得するボルテージが自身のアピールの32%増加
+love_arrow_shoot	ラブアローシュート	voltageUp	5	none	everyone	33	rate	6.2	FALSE	5ノーツの間獲得ボルテージが6.2%増加
+forest_power	森林のちから	appealUp	5	none	everyone	33	rate	6.2	FALSE	5ノーツの間アピールが6.2%増加
+celebrate_the_day	何でもない日を祝おうよ	staminaRecovery		none	none	33	rate	32	FALSE	自身のスタミナの32%スタミナを回復
+lets_go	出発進行っ！	spGaugeGain		none	none	33	rate	9	FALSE	最大SPの9%ゲージを獲得
+moonlit_night	月猫夜(ゲッビョウヤ)	skillInvocationUp	5	none	everyone	33	rate	4	FALSE	5ノーツの間特技発動率が4%上昇
+smile_everyone	みんなを笑顔に！	shieldGain		none	none	33	rate	32	FALSE	自身のスタミナの32%シールドを獲得
+charming_lolipop	Charming Lolipop	spGaugeGainIncrease	10	none	everyone	33	rate	6.2	FALSE	10ノーツの間SPゲージ獲得量が6.2%上昇
+rose_carnival	ローズカーニバル	spGainNext		none	none	33	rate	32	FALSE	次に発動するSP特技で獲得するボルテージが自身のアピールの32%増加
+messenger_from_heaven	天界からの使者	damageReduction	10	none	none	33	rate	14	FALSE	10ノーツの間スタミナダメージを14%軽減
+make_it_up_here	ここまで登ってこれるかにゃ〜？	shieldGain	technique	none	none	33	rate	29	FALSE	自身のテクニックの29%シールドを獲得
+welcome_to_dragon_place	竜宮城へようこそ♪	shieldGain	stamina	none	none	33	rate	32	FALSE	自身のスタミナの32%シールドを獲得
+meteor_wish	流星の願い事	spGaugeGainIncrease	5	none	everyone	33	rate	5.2	FALSE	5ノーツの間SPゲージ獲得量が5.2%上昇

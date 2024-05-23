@@ -1,0 +1,383 @@
+[
+  {
+    "type": "passive",
+    "title": "パッシブ",
+    "fields": [],
+    "description": "",
+    "once": false
+  },
+  {
+    "type": "always",
+    "title": "必ず発動",
+    "fields": [],
+    "description": "必ず発動",
+    "once": false
+  },
+  {
+    "type": "success",
+    "title": "成功時",
+    "fields": [],
+    "description": "成功時",
+    "once": false
+  },
+  {
+    "type": "successType",
+    "title": "成功時",
+    "fields": [
+      {
+        "name": "type",
+        "type": "Type"
+      }
+    ],
+    "description": "${'type'}で成功時",
+    "once": false
+  },
+  {
+    "type": "music",
+    "title": "楽曲中",
+    "fields": [
+      {
+        "name": "parameter",
+        "type": "Parameter"
+      }
+    ],
+    "description": "楽曲中",
+    "once": false
+  },
+  {
+    "type": "probability",
+    "title": "発動確率",
+    "fields": [
+      {
+        "name": "rate",
+        "type": "number"
+      }
+    ],
+    "description": "発動確率: ${'rate'}％",
+    "once": false
+  },
+  {
+    "type": "damage",
+    "title": "ダメージ時",
+    "fields": [
+      {
+        "name": "damage",
+        "type": "number"
+      },
+      {
+        "name": "rate",
+        "type": "number"
+      }
+    ],
+    "description": "${'damage'}ダメージ以上受けた時に${'rate'}％の確率で発動",
+    "once": false
+  },
+  {
+    "type": "damageTimes",
+    "title": "ダメージ時",
+    "fields": [
+      {
+        "name": "damage",
+        "type": "number"
+      },
+      {
+        "name": "rate",
+        "type": "number"
+      },
+      {
+        "name": "times",
+        "type": "number"
+      }
+    ],
+    "description": "${'damage'}ダメージ以上受けた時に${'rate'}％の確率で${'times'}回だけ発動",
+    "once": false
+  },
+  {
+    "type": "targetVoltage",
+    "title": "目標ボルテージ達成時",
+    "fields": [
+      {
+        "name": "voltage",
+        "type": "number"
+      },
+      {
+        "name": "rate",
+        "type": "number"
+      }
+    ],
+    "description": "目標ボルテージ${'voltage'}％達成時に${'rate'}％の確率で１回だけ発動",
+    "once": true
+  },
+  {
+    "type": "stamina",
+    "title": "残スタミナ",
+    "fields": [
+      {
+        "name": "stamina",
+        "type": "number"
+      },
+      {
+        "name": "rate",
+        "type": "number"
+      }
+    ],
+    "description": "スタミナが${'stamina'}％以下で${'rate'}％の確率で１回だけ発動",
+    "once": true
+  },
+  {
+    "type": "staminaTimes",
+    "title": "残スタミナ",
+    "fields": [
+      {
+        "name": "stamina",
+        "type": "number"
+      },
+      {
+        "name": "rate",
+        "type": "number"
+      },
+      {
+        "name": "times",
+        "type": "number"
+      }
+    ],
+    "description": "スタミナが${'stamina'}％以下で${'rate'}％の確率で${'times'}回だけ発動",
+    "once": false
+  },
+  {
+    "type": "changeTeam",
+    "title": "作戦切替時",
+    "fields": [
+      {
+        "name": "rate",
+        "type": "number"
+      }
+    ],
+    "description": "作戦切替時に${'rate'}％の確率で発動",
+    "once": false
+  },
+  {
+    "type": "changeTeamOnce",
+    "title": "作戦切替時１回だけ",
+    "fields": [
+      {
+        "name": "rate",
+        "type": "number"
+      }
+    ],
+    "description": "作戦切替時に${'rate'}％の確率で１回だけ発動",
+    "once": true
+  },
+  {
+    "type": "changeTeamTimes",
+    "title": "作戦切替時",
+    "fields": [
+      {
+        "name": "rate",
+        "type": "number"
+      },
+      {
+        "name": "times",
+        "type": "number"
+      }
+    ],
+    "description": "作戦切替時に${'rate'}％の確率で${'times'}回だけ発動",
+    "once": false
+  },
+  {
+    "type": "musicStart",
+    "title": "曲開始時",
+    "fields": [
+      {
+        "name": "rate",
+        "type": "number"
+      }
+    ],
+    "description": "曲開始時に${'rate'}％の確率で発動",
+    "once": true
+  },
+  {
+    "type": "acStart",
+    "title": "AC開始時",
+    "fields": [
+      {
+        "name": "rate",
+        "type": "number"
+      }
+    ],
+    "description": "AC開始時に${'rate'}％の確率で発動",
+    "once": false
+  },
+  {
+    "type": "acStartOnce",
+    "title": "AC開始時１回だけ",
+    "fields": [
+      {
+        "name": "rate",
+        "type": "number"
+      }
+    ],
+    "description": "AC開始時に${'rate'}％の確率で１回だけ発動",
+    "once": true
+  },
+  {
+    "type": "acStartTimes",
+    "title": "AC開始時",
+    "fields": [
+      {
+        "name": "rate",
+        "type": "number"
+      },
+      {
+        "name": "times",
+        "type": "number"
+      }
+    ],
+    "description": "AC開始時に${'rate'}％の確率で${'times'}回だけ発動",
+    "once": false
+  },
+  {
+    "type": "acSuccess",
+    "title": "AC成功時",
+    "fields": [
+      {
+        "name": "rate",
+        "type": "number"
+      }
+    ],
+    "description": "AC成功時に${'rate'}％の確率で発動",
+    "once": false
+  },
+  {
+    "type": "acSuccessOnce",
+    "title": "AC成功時１回だけ",
+    "fields": [
+      {
+        "name": "rate",
+        "type": "number"
+      }
+    ],
+    "description": "AC成功時に${'rate'}％の確率で１回だけ発動",
+    "once": true
+  },
+  {
+    "type": "acSuccessTimes",
+    "title": "AC成功時",
+    "fields": [
+      {
+        "name": "rate",
+        "type": "number"
+      },
+      {
+        "name": "times",
+        "type": "number"
+      }
+    ],
+    "description": "AC成功時に${'rate'}％の確率で${'times'}回だけ発動",
+    "once": false
+  },
+  {
+    "type": "acFailed",
+    "title": "AC失敗時",
+    "fields": [
+      {
+        "name": "rate",
+        "type": "number"
+      }
+    ],
+    "description": "AC失敗時に${'rate'}％の確率で発動",
+    "once": false
+  },
+  {
+    "type": "spSkill",
+    "title": "SP特技発動時",
+    "fields": [
+      {
+        "name": "rate",
+        "type": "number"
+      }
+    ],
+    "description": "SP特技発動時に${'rate'}％の確率で発動",
+    "once": false
+  },
+  {
+    "type": "spSkillOnce",
+    "title": "SP特技発動時１回だけ",
+    "fields": [
+      {
+        "name": "rate",
+        "type": "number"
+      }
+    ],
+    "description": "SP特技発動時に${'rate'}％の確率で１回だけ発動",
+    "once": true
+  },
+  {
+    "type": "spSkillTimes",
+    "title": "SP特技発動時",
+    "fields": [
+      {
+        "name": "rate",
+        "type": "number"
+      },
+      {
+        "name": "times",
+        "type": "number"
+      }
+    ],
+    "description": "SP特技発動時に${'rate'}％の確率で${'times'}回だけ発動",
+    "once": false
+  },
+  {
+    "type": "appeal",
+    "title": "アピール時",
+    "fields": [
+      {
+        "name": "rate",
+        "type": "number"
+      }
+    ],
+    "description": "自身のアピール時の${'rate'}％の確率で発動",
+    "once": false
+  },
+  {
+    "type": "critical",
+    "title": "クリティカル時",
+    "fields": [
+      {
+        "name": "rate",
+        "type": "number"
+      }
+    ],
+    "description": "自身のクリティカル時の${'rate'}％の確率で発動",
+    "once": false
+  },
+  {
+    "type": "criticalTimes",
+    "title": "クリティカル時",
+    "fields": [
+      {
+        "name": "rate",
+        "type": "number"
+      },
+      {
+        "name": "times",
+        "type": "number"
+      }
+    ],
+    "description": "自身のクリティカル時の${'rate'}％の確率で${'times'}回だけ発動",
+    "once": false
+  },
+  {
+    "type": "sameAttribute",
+    "title": "楽曲と属性一致時",
+    "fields": [
+      {
+        "name": "rate",
+        "type": "number"
+      }
+    ],
+    "description": "楽曲と属性一致時に${'rate'}％の確率で発動",
+    "once": true
+  }
+]

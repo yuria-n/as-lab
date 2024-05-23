@@ -1,0 +1,96 @@
+[
+  {
+    "id": "criticalRatePlus",
+    "title": "クリティカル発動率アップ",
+    "skillId": "criticalRatePlus_passive_myself",
+    "skillFields": [
+      0
+    ],
+    "conditionFields": [],
+    "color": "#73B4F7"
+  },
+  {
+    "id": "criticalPlus",
+    "title": "クリティカル値アップ",
+    "skillId": "criticalPlus_passive_myself",
+    "skillFields": [
+      0
+    ],
+    "conditionFields": [],
+    "color": "#4198F2"
+  },
+  {
+    "id": "spGaugeGainPlus",
+    "title": "SPゲージ獲得量アップ",
+    "skillId": "spGaugeGainPlus_passive_myself",
+    "skillFields": [
+      0
+    ],
+    "conditionFields": [],
+    "color": "#82D8E6"
+  },
+  {
+    "id": "spSkillPlus",
+    "title": "SP特技の獲得ボルテージアップ",
+    "skillId": "spSkillPlus_passive_myself",
+    "skillFields": [
+      0
+    ],
+    "conditionFields": [],
+    "color": "#E8912A"
+  },
+  {
+    "id": "teamEffectReductionPlusVo",
+    "title": "ボルテージタイプのマイナス作戦効果軽減",
+    "skillId": "teamEffectReductionPlus_passive_myself",
+    "skillFields": [
+      "voltage",
+      0
+    ],
+    "conditionFields": [],
+    "color": "#CF403D"
+  },
+  {
+    "id": "teamEffectReductionPlusSp",
+    "title": "SPタイプのマイナス作戦効果軽減",
+    "skillId": "teamEffectReductionPlus_passive_myself",
+    "skillFields": [
+      "sp",
+      0
+    ],
+    "conditionFields": [],
+    "color": "#2389C8"
+  },
+  {
+    "id": "teamEffectReductionPlusGd",
+    "title": "ガードタイプのマイナス作戦効果軽減",
+    "skillId": "teamEffectReductionPlus_passive_myself",
+    "skillFields": [
+      "guard",
+      0
+    ],
+    "conditionFields": [],
+    "color": "#3EA15B"
+  },
+  {
+    "id": "teamEffectReductionPlusSk",
+    "title": "スキルタイプのマイナス作戦効果軽減",
+    "skillId": "teamEffectReductionPlus_passive_myself",
+    "skillFields": [
+      "skill",
+      0
+    ],
+    "conditionFields": [],
+    "color": "#E4B642"
+  },
+  {
+    "id": "attributeBonusPlus",
+    "title": "属性一致ボーナスアップ",
+    "skillId": "attributeBonusPlus_passive_myself",
+    "skillFields": [
+      0
+    ],
+    "conditionFields": [],
+    "color": "#FD5A5D"
+  }
+]

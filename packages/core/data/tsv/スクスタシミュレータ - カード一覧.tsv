@@ -1,0 +1,767 @@
+id	idolId	name	evolutionName	rarity	attribute	type	appeal	stamina	technique	skillId	skillTitle	skillFields	conditionFields	personalSkillIds	skillFields1	conditionFields1	skillFields2	conditionFields2
+1	honoka	動物園で対決！	はいからロマンス	UR	elegant	guard	7956	11934	6630	damageReduction_probability_none	ロマンにときめいて	10,14	33	staminaPlus_passive_friends,staminaRecovery_acStart_none	5.2		stamina,20	30
+2	eri	エリーチカ先生のボウリング講座	エターナルプロミス	UR	pure	guard	9282	5304	11934	staminaRecovery_probability_none	青い薔薇のおまじない☆	stamina,32	33	staminaPlus_passive_sameTeam,revival_musicStart_none	7		15	30
+3	kotori	あなたとの初めての思い出	ラブリーポリス	UR	cool	voltage	7956	7956	10608	voltageUp_probability_everyone	バード・ジェイル	5,6.2	33	appealPlus_passive_everyone,appealUp_spSkill_everyone	4.2		15,10	50
+4	umi	大和撫子パニック	夏祭りシンフォニー	UR	smile	sp	11934	5304	9282	spGaugeGainUp_probability_everyone	うみの輝き	10,6.2	33	techniquePlus_passive_sameAttribute,spGaugeGainUp_changeTeam_everyone	5.2		15,10	30
+5	rin	凛がいるから大丈夫！	月光の踊り子	UR	natural	sp	8751	8751	9016	skillInvocationUp_probability_everyone	月猫夜(ゲッビョウヤ)	5,4	33	techniquePlus_passive_sameTeam,spGaugeGainPlus_acStartOnce_everyone	7		5	30
+6	maki	「真姫ちゃんと映画デート」	スカーレットロワイヤル	UR	cool	skill	12729	4508	9282	appealUp_probability_everyone	内緒のTRICK	5,6.2	33	appealPlus_passive_sameAttribute,skillInvocationPlus_acSuccessOnce_everyone	5.2		1.7	30
+7	nozomi	星空の下で	スイートナイトパレード	UR	smile	skill	7956	11934	6630	skillInvocationUp_probability_everyone	魔法に魅せられて	5,4	33	techniquePlus_passive_everyone,skillInvocationPlus_acStartOnce_everyone	4.2		1.7	30
+8	hanayo	これからが本番！	チェリーフラッター	UR	active	guard	7956	7956	10608	shieldGain_probability_none	花と太陽の子	stamina,32	33	staminaPlus_passive_everyone,spGaugeGainRate_musicStart_none	4.2		appeal,10	30
+9	niko	サプライズプレゼント	My Sweet Devil	UR	elegant	voltage	7956	10077	8486	voltageGain_probability_none	ハートににこにこにー	appeal,37	33	appealPlus_passive_sameTeam,appealPlus_acStartOnce_everyone	7		5	30
+10	chika	浜辺をさんぽ	サマーアドベンチャー	UR	active	skill	5304	12729	8486	skillInvocationUp_probability_sameTeam	心が輝くほうへ！	5,5	33	staminaPlus_passive_friends,damageReductionPlus_musicStart_none	5.2		2.2	30
+11	riko	水のシンフォニー	ロイヤルエンジェル	UR	pure	guard	7956	7956	10608	damageReduction_probability_none	天界からの使者	10,14	33	staminaPlus_passive_everyone,deactivation_changeTeam_everyone	4.2			30
+12	kanan	そろそろ一緒に潜ってみる？	海神の巫女	UR	natural	voltage	11934	5304	9282	appealUp_probability_sameTeam	夏色メロディー	5,9	33	appealPlus_passive_everyone,appealPlus_acSuccessOnce_everyone	4.2		5.2	30
+13	dia	内緒ですわよ	巫女舞ステップ	UR	elegant	skill	11934	5304	9282	spSkillUp_probability_none	内浦の神楽舞	appeal,32	33	techniquePlus_passive_sameAttribute,appealPlus_acSuccessOnce_everyone	5.2		5	30
+14	you	水族館デート	ラビットインワンダーランド	UR	cool	guard	9282	5304	11934	staminaRecovery_probability_none	何でもない日を祝おうよ	stamina,32	33	staminaPlus_passive_sameTeam,staminaRecovery_damage_none	7		stamina,20	1000,40
+15	yoshiko	エンジェルスナイパー	ホーンテッドプリンセス	UR	elegant	sp	9282	5304	11934	spGaugeGainRate_probability_none	トリック・オア・フォールン	sp,9	33	techniquePlus_passive_sameTeam,spGaugeGainUp_musicStart_everyone	7		15,10	30
+16	hanamaru	紙越しの緑	ドリーミングシープ	UR	pure	sp	7956	5304	13260	spSkillUp_probability_none	夢みたいずら～	appeal,32	33	techniquePlus_passive_everyone,spGaugeGainRate_musicStart_none	4.2		appeal,10	30
+17	mari	初めてのツーショット	Bitter & Sweet	UR	natural	voltage	8751	8751	9016	voltageGain_probability_none	ローズショコラ	appeal,37	33	appealPlus_passive_sameAttribute,skillInvocationUp_acSuccess_everyone	5.2		10,10	50
+18	ruby	夢のスイートポテト	ファンタスティックピエロ	UR	active	skill	7956	11934	6630	shieldGain_probability_none	みんなを笑顔に！	stamina,32	33	appealPlus_passive_sameTeam,appealPlus_musicStart_everyone	7		5	30
+19	honoka	ことりちゃんと食べるパン	フレッシュフルーツパーラー	SR	pure	skill	6528	4896	4896	spSkillUp_probability_none	夢をかなえる力	appeal,22	30	techniquePlus_passive_sameAttribute,voltageGain_acSuccess_none	3.2		appeal,30	30
+20	eri	あなたのことを知りたくて	フレッシュフルーツパーラー	SR	elegant	voltage	6528	4896	4896	voltageGain_probability_none	マトリョーシカパワー	appeal,37	30	appealPlus_passive_sameType,appealUp_acSuccess_everyone	3.2		10,8	50
+21	kotori	眠れない日々	フレッシュフルーツパーラー	SR	smile	guard	5385	5385	5548	shieldGain_probability_none	ふわふわマカロン	stamina,27	30	staminaPlus_passive_sameAttribute,staminaRecovery_damage_none	3.2		stamina,15	2000,40
+22	umi	ほたる玉は海未の色	フレッシュフルーツパーラー	SR	natural	guard	4896	6528	4896	staminaRecovery_probability_none	Blue Ocean	stamina,32	30	staminaPlus_passive_myself,staminaRecovery_acSuccess_none	7		stamina,20	30
+23	rin	至福の昼下がり	フレッシュフルーツパーラー	SR	cool	skill	4896	3264	8160	skillInvocationUp_probability_sameTeam	S＾・ω・＾EeT CaT	5,4	30	techniquePlus_passive_myself,skillInvocationUp_acSuccess_everyone	7		10,8	50
+24	maki	どっちが子ども？	フレッシュフルーツパーラー	SR	active	sp	4896	4080	7344	spGaugeGainRate_probability_none	不慣れな指先	sp,7	30	techniquePlus_passive_sameType,spGaugeGainUp_acSuccess_everyone	4.2		10,8	30
+25	nozomi	ため息なんか吹きとばせ！	フレッシュフルーツパーラー	SR	elegant	voltage	5712	3264	7344	appealUp_probability_everyone	たべていってな♪	5,4.2	30	appealPlus_passive_sameAttribute,voltageGain_acSuccess_none	3.2		appeal,30	30
+26	hanayo	今までも、これからも	フレッシュフルーツパーラー	SR	smile	voltage	5385	5385	5548	voltageGain_probability_none	あなたのおかげだよ	appeal,37	30	appealPlus_passive_myself,appealUp_musicStart_everyone	7		10,8	30
+27	niko	本日のラッキーアイテム	フレッシュフルーツパーラー	SR	natural	guard	4896	6528	4896	damageReduction_probability_none	虜になっても知らないわよっ	10,11	30	staminaPlus_passive_sameType,deactivation_spSkill_everyone	3.2			50
+28	chika	素直なキモチ	ハピネスチアガール	SR	pure	voltage	6528	4896	4896	voltageUp_probability_sameType	想いを言葉に	5,6.2	30	appealPlus_passive_sameType,appealUp_acFailed_friends	4.2		10,10	80
+29	riko	リトルデーモンリリー	ハピネスチアガール	SR	elegant	sp	2774	7833	5712	spGaugeGainRate_probability_none	私がついてるわ	sp,7	30	techniquePlus_passive_myself,spSkillUp_acStart_none	7		appeal,8	30
+30	kanan	大切な思い出	ハピネスチアガール	SR	cool	sp	4896	5712	5712	spGaugeGainUp_probability_everyone	何度でも応援するよ	5,4.2	30	staminaPlus_passive_sameTeam,spGaugeGainRate_spSkill_none	5		appeal,8	30
+31	dia	あなたという人は！	ハピネスチアガール	SR	smile	guard	4896	6528	4896	staminaRecovery_probability_none	あなたに送る言葉です！	stamina,32	30	staminaPlus_passive_myself,staminaRecovery_acFailed_none	7		stamina,20	50
+32	you	放課後ホリデー	ハピネスチアガール	SR	pure	sp	4896	4080	7344	spSkillUp_probability_none	一人じゃないよ	appeal,22	30	techniquePlus_passive_sameType,spGaugeGainUp_musicStart_everyone	3.7		10,8	30
+33	yoshiko	正座対決	ハピネスチアガール	SR	smile	skill	4896	4080	7344	criticalRateUp_probability_sameTeam	堕天使の裁き	10,7	30	appealPlus_passive_sameTeam,skillInvocationUp_changeTeam_everyone	5		10,8	30
+34	hanamaru	二人は親友	ハピネスチアガール	SR	natural	skill	5385	5385	5548	criticalUp_probability_sameTeam	それが仲間ずら	5,7	30	staminaPlus_passive_myself,appealPlus_musicStart_everyone	7		3	30
+35	mari	一番ちかくに	ハピネスチアガール	SR	active	skill	7833	2774	5712	skillInvocationUp_probability_sameAttribute	この空はつながってるよ！	5,4	30	techniquePlus_passive_sameTeam,criticalPlus_musicStart_everyone	5		3	30
+36	ruby	姉妹の休日	ハピネスチアガール	SR	cool	voltage	4896	4896	6528	voltageGain_probability_none	なんか恥ずかしい…	appeal,37	30	appealPlus_passive_sameType,skillInvocationUp_acFailed_friends	3.7		10,8	80
+37	ayumu	食べ過ぎ注意報	夢への一歩	SR	active	guard	3264	7833	5222	staminaRecovery_probability_none	日進月歩	stamina,32	30	staminaPlus_passive_sameTeam,revival_musicStart_none	5		10	30
+38	kasumi	楽しみなご褒美！	ダイアモンド	SR	active	skill	5385	5712	5222	voltageGain_probability_none	ミルキーハニー	appeal,37	30	staminaPlus_passive_myself,skillInvocationUp_acStart_everyone	7		10,8	30
+39	shizuku	女優を夢見て	あなたの理想のヒロイン	SR	pure	sp	4896	4080	7344	spGaugeGainRate_probability_none	ブルードロップ	sp,7	30	appealPlus_passive_sameAttribute,criticalPlus_musicStart_everyone	3.2		3	30
+40	karin	教えてあげる	Starlight	SR	smile	skill	6528	4896	4896	skillInvocationUp_probability_sameAttribute	シークレットレディ	5,4	30	techniquePlus_passive_sameTeam,spGaugeGainUp_acStart_everyone	5		10,8	30
+41	ai	愛のメモリー	めっちゃGoing!!	SR	natural	guard	4896	4896	6528	damageReduction_probability_none	愛！LOVE！YOU！	10,11	30	techniquePlus_passive_myself,damageReductionPlus_musicStart_none	7		1.2	30
+42	kanata	夢見心地のティータイム	眠れる森に行きたいな	SR	natural	sp	5385	5385	5548	spGaugeGainRate_probability_none	ドリームジャーニー	sp,7	30	staminaPlus_passive_sameAttribute,criticalPlus_musicStart_everyone	3.2		3	30
+43	setsuna	もっと教えてください！	CHASE!	SR	elegant	guard	4896	6528	4896	skillInvocationUp_probability_everyone	パッションレッド！	5,3	30	appealPlus_passive_sameTeam,staminaRecovery_acFailed_none	5		stamina,20	50
+44	emma	ぽかぽか天使	Evergreen	SR	elegant	voltage	4896	6201	5222	appealUp_probability_sameTeam	虹に願いを	5,7	30	techniquePlus_passive_sameAttribute,appealPlus_musicStart_everyone	3.2		3	30
+45	rina	はい！チーズ	ドキピポ☆エモーション	SR	pure	voltage	6528	4896	4896	voltageGain_probability_none	繋がるメロディー	appeal,37	30	appealPlus_passive_myself,appealUp_acStart_everyone	7		10,8	30
+46	honoka	音ノ木坂学院2年生	笑顔でいっぱいの女の子	R	smile	voltage	3166	2638	4750		ファイトだよっ							
+47	honoka	μ’ｓのリーダー	飽くなき挑戦	R	active	sp	3625	4229	4229		スクールアイドル革命							
+48	eri	音ノ木坂学院3年生	才色兼備の生徒会長	R	cool	sp	3482	3482	3587		ハラショー							
+49	eri	μ’ｓのムードメーカー	かしこい、かわいい、エリーチカ	R	smile	skill	3625	3020	5437		凛とした佇まい							
+50	kotori	音ノ木坂学院2年生	幻のミナリンスキー	R	pure	sp	3166	4222	3166		サイズ測りますよ～♪							
+51	kotori	μ’ｓの衣装担当	おっとり優等生	R	natural	skill	4834	3625	3625		私には私の役目がある							
+52	umi	音ノ木坂学院2年生	スクールアイドル兼弓道部員	R	cool	skill	3482	3482	3587		特訓です！							
+53	umi	μ’ｓの歌詞担当	みんなのしっかり者	R	active	voltage	3625	4229	4229		秘められた資質							
+54	rin	音ノ木坂学院1年生	スポーツ万能少女	R	active	guard	4222	3166	3166		いくにゃ～							
+55	rin	μ’ｓの元気印	アスレチックスクールアイドル	R	pure	voltage	3625	4229	4229		不本意だにゃ							
+56	maki	音ノ木坂学院1年生	クールビューティー	R	elegant	voltage	3166	3693	3693		素直になれなくて							
+57	maki	μ’ｓの作曲担当	信念を持つ才女	R	natural	guard	3625	4834	3625		奏でるメロディー							
+58	nozomi	音ノ木坂学院3年生	オールラウンドな副会長	R	pure	guard	3166	3166	4222		カードの知らせ							
+59	nozomi	μ’ｓの導き手	音ノ木坂の魔女	R	cool	sp	4834	3625	3625		スピリチュアルパワー							
+60	hanayo	音ノ木坂学院1年生	音ノ木坂の飼育係	R	natural	sp	3166	4222	3166		憧れのステージ							
+61	hanayo	μ’ｓのスクールアイドル博士	控えめスクールアイドル	R	elegant	skill	4834	3625	3625		白米の輝き							
+62	niko	音ノ木坂学院3年生	アイドル研究部部長	R	smile	skill	4222	3693	2638		にっこにこにこにー							
+63	niko	μ’ｓの小悪魔	大銀河宇宙No.1アイドル	R	pure	sp	3625	3020	5437		本気を見せてあげるっ							
+64	chika	浦の星女学院2年生	普通怪獣ちかちー	R	smile	sp	3166	3693	3693		可能性は無限大							
+65	chika	Aqoursのリーダー	諦めない心	R	natural	guard	3988	3988	4107		全身全霊！							
+66	riko	浦の星女学院2年生	東京からの転校生	R	natural	skill	3166	3693	3693		新しい私							
+67	riko	Aqoursの作曲担当	あわてんぼうなピアニスト	R	active	voltage	4834	3625	3625		これも出会いだから							
+68	kanan	浦の星女学院3年生	浦の星のアクアダイバー	R	pure	skill	3482	3482	3587		ダイビングホリック							
+69	kanan	Aqours専任コーチ	みんなのお姉さん	R	elegant	guard	3625	4834	3625		海とのたわむれ							
+70	dia	浦の星女学院3年生	浦の星の生徒会長	R	cool	voltage	3166	2638	4750		妹想い							
+71	dia	Aqoursのツッコミ担当	スクールアイドルアニマ	R	natural	sp	3625	4229	4229		片腹痛いですわ							
+72	you	浦の星女学院2年生	陽気な人気者	R	active	voltage	4222	3166	3166		おはヨーソロー							
+73	you	Aqours料理担当	敬礼っ！	R	smile	skill	3625	4834	3625		なんとかなる！							
+74	yoshiko	浦の星女学院1年生	浦の星の有名？配信者	R	cool	voltage	4222	3166	3166		ヨハネの魔眼							
+75	yoshiko	Aqoursの堕天使	堕天使ヨハネ	R	pure	guard	3988	3988	4107		闇のささやき							
+76	hanamaru	浦の星女学院1年生	浦の星の図書委員	R	smile	guard	3166	2111	5277		はなまるあげるずら							
+77	hanamaru	Aqoursの歩く図書館	天然素材スクールアイドル	R	cool	voltage	3625	4229	4229		スクールアイドルへの決意							
+78	mari	浦の星女学院3年生	浦の星の理事長	R	elegant	sp	3166	2638	4750		シャイニー！							
+79	mari	Aqoursのムードメーカー	さらに上を目指して	R	pure	guard	3625	4834	3625		キラメキマインド							
+80	ruby	浦の星女学院1年生	芯ある泣き虫	R	pure	guard	3166	3693	3693		がんばルビィ							
+81	ruby	Aqoursのマスコット	優しい妹	R	smile	sp	4834	3625	3625		ピギィ！							
+82	ayumu	虹ヶ咲学園2年生	真面目な努力家	R	smile	sp	4222	3166	3166		あなたと一緒に							
+83	ayumu	努力家スクールアイドル	昨日より一歩前へ	R	elegant	skill	3988	3988	4107		夢への階段							
+84	kasumi	虹ヶ咲学園1年生	プリティーマスコット	R	elegant	voltage	3166	3693	3693		いたずら小悪魔							
+85	kasumi	虎視眈々スクールアイドル	スクールアイドル研究家	R	smile	guard	3625	4834	3625		影の努力							
+86	shizuku	虹ヶ咲学園1年生	しっかり者の優等生	R	elegant	skill	3482	3482	3587		後輩としての自覚							
+87	shizuku	演劇部兼スクールアイドル	高い表現力	R	cool	voltage	4834	3625	3625		叶える力							
+88	karin	虹ヶ咲学園3年生	孤高の花	R	cool	voltage	3166	2638	4750		静かなる闘志							
+89	karin	モデル兼スクールアイドル	美の追求	R	elegant	sp	3625	4834	3625		頂を目指して							
+90	ai	虹ヶ咲学園2年生	虹ヶ咲の人気者	R	active	voltage	3482	3482	3587		ラブラブビーム							
+91	ai	ダジャレ大好きスクールアイドル	チャレンジャー愛	R	cool	skill	4834	3625	3625		ダジャレアタック							
+92	kanata	虹ヶ咲学園3年生	中庭の眠り姫	R	pure	skill	3166	4222	3166		お昼寝姫							
+93	kanata	眠れるスクールアイドル	スリーピングビューティー	R	smile	guard	3625	4229	4229		夢物語							
+94	setsuna	虹ヶ咲学園2年生	？？？？系スクールアイドル	R	active	sp	4222	3166	3166		文武両道							
+95	setsuna	期待のスクールアイドル	頼れる才女	R	natural	voltage	3625	4229	4229		LOVE&PEACE							
+96	emma	虹ヶ咲学園3年生	おっとりマイペース	R	natural	guard	3166	4222	3166		穏やかな日々							
+97	emma	スイスから来たスクールアイドル	アルプスの少女	R	pure	skill	3625	3020	5437		大自然の息吹き							
+98	rina	虹ヶ咲学園1年生	秘められた素顔	R	natural	guard	3166	3693	3693		ボード越しの繋がり							
+99	rina	顔出しNG系スクールアイドル	璃奈ちゃんボード	R	active	sp	3625	3020	5437		キモチシンパシー							
+100	kotori	こっち手伝ってくれる？	welcome to the party	UR	natural	skill	11351	7568	8108	skillInvocationUp_probability_sameTeam	あなたの好きなもの	5,5	33	appealPlus_passive_sameAttribute,skillInvocationUp_acStart_everyone	5.2		10,10	30
+101	you	つまみ食いしちゃダメだよ？	君のこころは輝いてるかい？	SR	natural	voltage	6980	4987	4654	criticalUp_probability_sameTeam	あなたにあげるねっ	10,7	33	techniquePlus_passive_myself,voltagePlus_musicStart_everyone	7		3	30
+102	honoka	今日は目一杯楽しもー！	welcome to the party	UR	smile	sp	7234	7234	7455	spSkillUp_probability_none	楽しんでいこう！	appeal,32	33	techniquePlus_passive_everyone,appealPlus_musicStart_honoka	4.2		5	50
+103	chika	沼津の名産	君のこころは輝いてるかい？	SR	smile	guard	4069	5426	4069	staminaRecovery_probability_none	みかんパワー	stamina,32	30	staminaPlus_passive_myself,staminaRecovery_acFailed_none	7		stamina,20	50
+104	ayumu	みんな喜んでくれるかな？	わくわくアニマル	SR	pure	sp	3118	5018	5426	shieldGain_probability_none	ぴょんぴょんハート	stamina,27	30	appealPlus_passive_sameType,spGaugeGainUp_acSuccess_everyone	3.7		10,8	30
+105	yoshiko	堕天使降臨っ！	トワイライトデーモン	UR	cool	guard	8108	10812	8108	staminaRecovery_probability_none	高まる闇の力	stamina,32	33	staminaPlus_passive_friends,staminaRecovery_acStart_none	5.2		stamina,20	30
+106	eri	少し隣で待っててくれる？	Snow halation	SR	active	skill	4987	4987	6650	skillInvocationUp_probability_everyone	蒼い瞳の導き	5,3	30	techniquePlus_passive_myself,skillInvocationUp_acFailed_friends	7		10,8	80
+107	dia	次のポーズはどのように？	ラピヌ・ミミ	UR	cool	sp	8108	9458	9458	shieldGain_probability_none	ルビィと一緒に	stamina,28	33	techniquePlus_passive_sameTeam,spSkillUp_acStart_none	7		appeal,11	30
+108	maki	あまりジロジロ見ないでくれる？	Snow halation	SR	elegant	skill	4987	5818	5818	spGaugeGainUp_probability_everyone	あんまり見ないでよ	5,4.2	30	techniquePlus_passive_sameTeam,skillInvocationUp_changeTeam_everyone	5		10,8	30
+109	ruby	こ、こう、ですか？	ラピヌ・ミミ	UR	smile	voltage	7234	7234	7455	voltageUp_probability_everyone	モデルもかんばルビィ	5,6.2	33	appealPlus_passive_everyone,voltageGain_acSuccess_none	4.2		appeal,35	30
+110	niko	誰が七五三よ！	Snow halation	SR	pure	voltage	4474	4474	4610	voltageUp_probability_sameType	困っちゃうにこ～	5,7.2	30	techniquePlus_passive_sameType,appealUp_acSuccess_everyone	3.7		10,8	50
+111	kasumi	かすみんに死角はないですよ～	わくわくアニマル	SR	natural	voltage	4474	4747	4339	appealUp_probability_everyone	ばかしてあげますよー	5,4.2	30	appealPlus_passive_sameAttribute,appealUp_acSuccess_everyone	3.2		10,8	50
+112	umi	一射入魂	ブルーアモール	UR	active	voltage	10812	8108	8108	voltageUp_probability_everyone	ラブアローシュート	5,6.2	33	appealPlus_passive_sameTeam,appealPlus_musicStart_everyone	7		5	30
+113	hanamaru	マルの大好きな本！	君のこころは輝いてるかい？	SR	cool	guard	4987	6650	4987	damageReduction_probability_none	ドキドキするずら！	10,11	30	staminaPlus_passive_sameAttribute,staminaRecovery_acFailed_none	3.2		stamina,20	50
+114	shizuku	虹ヶ咲のジュリエット	わくわくアニマル	SR	cool	voltage	6650	4987	4987	voltageGain_probability_none	ベアースマイル	appeal,37	30	appealPlus_passive_myself,appealPlus_musicStart_everyone	7		3	30
+115	kanan	ちゃんと繋がれたんだから	ブルーレーヴ	UR	elegant	sp	7837	8377	10812	spSkillUp_probability_none	一緒に寝ちゃおっか	appeal,32	33	techniquePlus_passive_everyone,spGaugeGainRate_musicStart_none	4.2		appeal,10	30
+116	rin	お布団気持ちいいにゃ〜♪♪	Snow halation	SR	cool	skill	5484	5484	5650	spGaugeGainRate_probability_none	楽しいにゃ！	sp,7	30	techniquePlus_passive_sameTeam,skillInvocationPlus_acStartOnce_everyone	5		1.2	30
+117	hanayo	一歩きりで終わらせないように	フルールレーヴ	UR	pure	skill	6578	7674	7674	spGaugeGainRate_probability_none	控えめな天使	sp,9	33	techniquePlus_passive_sameAttribute,skillInvocationUp_acStart_everyone	5.2		10,10	30
+118	mari	これが下町マジック……！	君のこころは輝いてるかい？	SR	pure	guard	4474	4474	4610	shieldGain_probability_none	エンジョイ♪しましょ？	stamina,27	30	staminaPlus_passive_sameAttribute,staminaRecovery_damage_none	3.2		stamina,25	2000,40
+119	ai	特別なお出かけ	わくわくアニマル	SR	active	sp	4474	4474	4610	spGaugeGainRate_probability_none	ヒョウだぞ〜！うっひょ〜う	sp,7	30	techniquePlus_passive_sameType,spGaugeGainUp_musicStart_everyone	4.2		10,8	30
+120	riko	迷いのない澄んだ旋律	プレリュードブロッサム	UR	smile	skill	8108	10812	8108	shieldGain_probability_none	輝けるその一瞬を	stamina,32	33	staminaPlus_passive_friends,skillInvocationUp_acSuccess_everyone	5.2		10,10	50
+121	nozomi	あなたのことも占ってあげる	Snow halation	SR	elegant	sp	6650	4987	4987	spGaugeGainRate_probability_none	タロットに導かれて	sp,7	30	appealPlus_passive_sameTeam,appealUp_acSuccess_everyone	5		10,4	50
+122	eri	い、今、そこの茂みが揺れて……	フォレストフェアリー	UR	natural	voltage	10812	8108	8108	appealUp_probability_everyone	森林のちから	5,6.2	33	appealPlus_passive_everyone,voltageGain_acSuccess_none	4.2		appeal,35	30
+123	yoshiko	嘆くのはおやめなさい	君のこころは輝いてるかい？	SR	elegant	guard	4987	6650	4987	damageReduction_probability_none	堕天使降臨☆	5,11	30	staminaPlus_passive_sameTeam,revival_musicStart_none	5		10	30
+124	hanamaru	それが、野鳥観察の入り口ずら！	フォレストフェアリー	UR	active	voltage	7234	7234	7455	voltageGain_probability_none	自然に囲まれて	appeal,37	33	appealPlus_passive_sameAttribute,appealPlus_acStartOnce_everyone	5.2		5	30
+125	umi	計画を立てましょう！	Snow halation	SR	active	sp	4747	4474	4339	spGaugeGainUp_probability_everyone	はじまりますよっ	5,4.2	30	techniquePlus_passive_sameTeam,spSkillUp_acStart_none	5		appeal,8	30
+126	kanata	遅れてごめんね〜	わくわくアニマル	SR	cool	voltage	4474	4474	4610	voltageGain_probability_none	すやすやタイム	appeal,37	30	appealPlus_passive_myself,appealUp_acFailed_friends	7		10,10	80
+127	maki	私をこんなに待たせるなんて	ドラマティックローズ	UR	elegant	guard	5916	14790	8874	damageReduction_probability_none	紅の魅力	10,10	33	staminaPlus_passive_sameTeam,shieldGain_acStart_none	7		stamina,10	40
+128	you	せっかく一緒に海に来たんだし	スプラッシュマリン	UR	pure	voltage	12423	8282	8874	appealUp_probability_sameGrade	全速前進っ!!	5,7.2	33	staminaPlus_passive_everyone,skillInvocationUp_changeTeam_everyone	4.2		10,10	30
+129	karin	キミと二人きりだもの	ブルータンタシオン	UR	cool	sp	13310	5916	10352	spSkillUp_probability_none	ついてこられるかしら	appeal,32	33	techniquePlus_passive_sameTeam,spGaugeGainRate_acSuccess_none	7		appeal,10	30
+130	kotori	お手本を見せるね	Snow halation	SR	natural	voltage	8643	3157	4820	voltageGain_probability_none	つくりあげてきたもの	appeal,37	30	appealPlus_passive_myself,appealUp_acSuccess_everyone	7		10,4	50
+131	ruby	とことんこだわって作りたいな	君のこころは輝いてるかい？	SR	pure	sp	4987	5818	5818	spGaugeGainRate_probability_none	ルビィにとって素敵なもの	sp,7	30	techniquePlus_passive_myself,spGaugeGainRate_musicStart_none	7		appeal,8	50
+132	chika	流星に囲まれて	レオスターブライト	UR	smile	voltage	11351	8108	7568	spGaugeGainUp_probability_everyone	流星の願い事	5,5.2	33	techniquePlus_passive_everyone,shieldGain_acSuccess_none	4.2		appeal,10	20
+133	hanayo	お弁当と言えば……	Snow halation	SR	cool	skill	3821	6150	6650	criticalRateUp_probability_sameTeam	頑張ります！	10,7	30	techniquePlus_passive_sameType,appealPlus_musicStart_everyone	4.2		3	30
+134	nozomi	もしかしたら叶うかもしれないよ	ジェミニスターブライト	UR	active	sp	6578	7674	7674	criticalRateUp_probability_friends	星座の力	15,5	33	staminaPlus_passive_friends,spGaugeGainUp_acStart_everyone	5.2		5,20	30
+135	riko	千歌ちゃん、起きて！	君のこころは輝いてるかい？	SR	cool	guard	4474	4474	4610	staminaRecovery_probability_none	素敵な音色	stamina,32	30	techniquePlus_passive_sameTeam,damageReductionPlus_musicStart_none	5		1.2	30
+136	emma	言葉に言い表せない魅力	わくわくアニマル	SR	smile	skill	4747	4474	4339	skillInvocationUp_probability_sameTeam	かろやかステップ	5,4	30	techniquePlus_passive_sameType,appealPlus_acSuccessOnce_everyone	3.7		3	30
+137	rin	こっちこっち早くするにゃ！	アフタースクールキャット	UR	smile	voltage	11620	5406	10000	voltageUp_probability_sameGrade	あなたも一緒に行くにゃ！	5,6.2	33	appealPlus_passive_sameAttribute,criticalRateUp_acSuccess_sameAttribute	5.2		10,10	50
+138	kanan	ひと泳ぎしてたんだよ〜	君のこころは輝いてるかい？	SR	active	skill	6980	4654	4987	shieldGain_probability_none	可能性の海へ	technique,27	30	staminaPlus_passive_sameType,appealUp_acStart_everyone	4.2		10,4	30
+139	niko	ニコの特製お弁当いかがですかぁ	明星の汽笛	UR	active	skill	8649	7568	10812	spGaugeGainRate_probability_none	出発進行っ！	sp,9	33	appealPlus_passive_sameAttribute,skillInvocationUp_acStart_sameAttribute	5.2		10,15	30
+140	dia	真面目なアナウンス	君のこころは輝いてるかい？	SR	elegant	voltage	7813	3325	5484	voltageUp_probability_sameAttribute	聞いていただきますわよ！	5,5.2	30	techniquePlus_passive_sameAttribute,voltageUp_changeTeam_sameAttribute	3.2		5,4	20
+141	mari	それじゃ、レッツゴー♪	明星の汽笛	UR	pure	guard	6578	8772	6578	staminaRecovery_probability_none	出発デースッ！	stamina,28	33	staminaPlus_passive_sameTeam,damageReductionAc_acStart_none	7		5	30
+142	honoka	お荷物のせますね〜	Snow halation	SR	smile	voltage	4747	4474	4339	voltageGain_probability_none	はじめようっ！	appeal,37	30	techniquePlus_passive_sameAttribute,voltagePlus_musicStart_sameAttribute	3.2		3	30
+143	rina	にっこりんな飾りつけ	わくわくアニマル	SR	active	sp	6103	2713	4747	spSkillUp_probability_none	ドキドキニャンニャン	appeal,22	30	staminaPlus_passive_myself,spGaugeGainRate_musicStart_none	7		appeal,8	50
+144	kotori	この水着すごくお気に入りなんだ	ハミングエンジェル	UR	elegant	sp	11131	6919	12036	spGaugeGainUp_probability_sameAttribute	みんなには内緒だよ	10,20	33	techniquePlus_passive_sameAttribute,spSkillUp_changeTeam_none	5.2		appeal,20	30
+145	yoshiko	あなたが一緒なら	デビルロッカー	UR	natural	skill	10530	9927	9628	skillInvocationUp_probability_sameTeam	堕天使の雨	2,30	33	techniquePlus_passive_sameTeam,changeTeamPlus_musicStart_sameTeam	7		200	20
+146	setsuna	えへへ……嬉しいです！	スカーレットカレッジ	UR	active	voltage	13901	5916	9760	voltageGain_probability_none	Emotional Power	appeal,42	33	appealPlus_passive_sameTeam,voltageGain_changeTeam_none	7		appeal,10	30
+147	honoka	あなたには特別おまけしちゃうよ	僕らのLIVE 君とのLIFE	SR	natural	voltage	5586	5586	5755	voltageUp_probability_sameType	きっとうまくいくよ！	5,5.2	30	appealPlus_passive_sameAttribute,skillInvocationUp_acSuccess_everyone	3.2		10,8	50
+148	chika	旅館のお手伝い	青空Jumping Heart	SR	pure	sp	4739	4569	7619	spGaugeGainRate_probability_none	一生消えない思い出を	sp,7	30	techniquePlus_passive_sameTeam,spSkillUp_acStart_none	5		appeal,8	30
+149	you	このアトラクション、面白ーい♪	Miracle voyage	UR	smile	sp	9638	8812	9087	spGaugeGainRate_probability_none	夢が現実に	sp,9	33	appealPlus_passive_sameTeam,spGaugeGainUp_acStart_sameTeam	7		10,10	30
+150	shizuku	ここで転ぶわけにはいきません！	Miracle voyage	UR	pure	skill	11351	7568	8108	criticalRateUp_probability_sameTeam	いざ！大海原へ	10,10	33	appealPlus_passive_sameTeam,appealPlus_musicStart_sameTeam	7		5	50
+151	karin	ほかのみんなには悪いけど	わくわくアニマル	SR	natural	voltage	4987	5818	5818	voltageGain_probability_none	取り憑いちゃうわ♪	appeal,37	30	appealPlus_passive_sameAttribute,damageReductionAc_acStart_none	3.2		3	20
+152	umi	水上アスレチックで決めましょう	Miracle voyage	UR	natural	guard	6283	10546	5610	shieldGain_probability_none	新たな発見	stamina,32	33	staminaPlus_passive_sameTeam,staminaRecoveryType_acSuccess_none	7		guard,300	20
+153	maki	……ふふふ♪やっほーーー♪	僕らのLIVE 君とのLIFE	SR	smile	guard	4576	4576	4715	shieldGain_probability_none	眩しい笑顔	stamina,27	30	techniquePlus_passive_sameType,staminaRecovery_acFailed_none	3.2		stamina,20	50
+154	hanamaru	いただきまーす♪	青空Jumping Heart	SR	pure	sp	5548	4161	4161	spGaugeGainUp_probability_sameGrade	元気いっぱいずら♪	5,4.2	30	techniquePlus_passive_sameType,spGaugeGainRate_musicStart_none	3.2		appeal,10	30
+155	hanayo	もうかわいすぎるから、ぎゅ〜	ハッピーパレード	UR	smile	voltage	12392	5508	9638	appealUp_probability_sameGrade	一緒に踊りましょう♪	5,7.2	33	staminaPlus_passive_everyone,skillInvocationUp_changeTeam_everyone	4.2		10,10	30
+156	dia	浦の星女学院の生徒として	青空Jumping Heart	SR	natural	skill	5416	4739	6772	appealUp_probability_sameTeam	真心を込めて	5,7	30	staminaPlus_passive_sameTeam,voltageGain_changeTeam_none	5		appeal,30	20
+157	ruby	ほっぺた落ちちゃいそう	Sweets Deco	UR	pure	sp	9087	9638	8812	spGaugeGainUp_probability_everyone	Charming Lolipop	10,6.2	33	appealPlus_passive_everyone,spGaugeGainUp_changeTeam_everyone	4.2		15,10	30
+158	ayumu	あっ、みんな来てくれたの？	Sweets Deco	UR	active	guard	5945	12974	8108	staminaRecovery_probability_none	Creamy Berry	stamina,32	33	staminaPlus_passive_sameTeam,shieldGain_changeTeam_none	7		stamina,10	20
+159	setsuna	作り立ての私の自信作です♪	わくわくアニマル	SR	active	sp	7480	3325	5818	spSkillUp_probability_none	白黒つけましょうー！	appeal,22	30	staminaPlus_passive_sameType,criticalRateAc_acStart_sameType	3.2		5	20
+160	eri	いや、私は本当にいいから！	Sweets Deco	UR	cool	skill	7180	6283	8976	voltageUp_probability_sameTeam	ビターなお誘い	5,5	33	techniquePlus_passive_sameTeam,spGaugeGainRate_musicStart_none	7		technique,10	30
+161	nozomi	ウチが占ってあげる	僕らのLIVE 君とのLIFE	SR	natural	guard	4576	4855	4437	staminaRecovery_probability_none	運命で繋がっているんよ	stamina,32	30	staminaPlus_passive_sameType,revival_musicStart_none	3.2		10	30
+162	kanan	ほら、早く早く	青空Jumping Heart	SR	pure	voltage	3883	4437	5548	criticalRateUp_probability_sameAttribute	こっちにおいでよ♪	3,10	30	techniquePlus_passive_sameAttribute,appealUp_changeTeam_sameAttribute	3.2		5,2.5	20
+163	niko	……ありがと。	スマイリーエンジェル	UR	smile	guard	8425	14141	7520	staminaRecovery_probability_none	みんな虜にしちゃうにこ♪	stamina,40	33	staminaPlus_passive_sameType,staminaRecovery_damage_none	5.2		stamina,5	500,10
+164	emma	お花の冠？あなたが作ったの？	Delightful Waltz	UR	natural	sp	9465	5916	14198	spGaugeGainRate_probability_none	みんなで歌おう	sp,9	33	techniquePlus_passive_everyone,spGaugeGain_changeTeam_none	4.2		600	40
+165	kasumi	食べる人の顔が楽しみですね〜♡	レインボーローズ	SR	natural	sp	7109	4739	5079	spGaugeGainRate_probability_none	よそ見厳禁！	sp,7	30	techniquePlus_passive_sameType,skillInvocationUp_acSuccess_myself	3.2		5,20	20
+166	rina	一番気に入った璃奈ちゃんボード	レインボーローズ	SR	smile	skill	5079	6433	5416	appealUp_probability_everyone	みんなと繋がりたい♪	5,3.2	30	appealPlus_passive_sameGrade,criticalRateUp_changeTeam_sameTeam	3.2		10,10	20
+167	kasumi	お待たせしましたぁ	フラワーシンフォニー	UR	smile	skill	8649	5675	12702	appealUp_probability_everyone	ハートを咲かせます♪	5,6.2	33	appealPlus_passive_sameAttribute,deactivation_spSkill_everyone	5.2			50
+168	maki	私の……誕生花だもの	フラワーシンフォニー	UR	active	sp	10465	8812	8262	spSkillUp_probability_none	ローズカーニバル	appeal,32	33	techniquePlus_passive_sameAttribute,spGaugeGainUp_changeTeam_everyone	5.2		15,15	30
+169	eri	まぁっ……すごく綺麗なお花！	僕らのLIVE 君とのLIFE	SR	pure	sp	5079	6772	5079	spSkillUp_probability_none	本当にやりたかったこと	appeal,22	30	appealPlus_passive_sameAttribute,criticalPlus_musicStart_everyone	3.2		3	30
+170	riko	今日だけしかできない二人の音	フラワーシンフォニー	UR	elegant	voltage	8527	6732	7180	appealUp_probability_everyone	私にも棘があるかもよ？	5,5.2	33	techniquePlus_passive_everyone,appealUpType_acStart_sameTeam	4.2		5,voltage,1	20
+171	yoshiko	ふっふっふ……待っててリリー	青空Jumping Heart	SR	active	voltage	4161	4855	4855	spSkillUp_probability_none	まだまだ行くわよ！	appeal,20	30	techniquePlus_passive_sameAttribute,voltageUp_changeTeam_sameAttribute	3.2		5,2	20
+172	karin	私についてらっしゃい♪	レインボーローズ	SR	elegant	guard	4437	5270	4161	damageReduction_probability_none	最高のパフォーマンスを見せるわ	10,10	30	staminaPlus_passive_sameAttribute,deactivation_changeTeam_everyone	3.2			20
+173	rina	絶対クリアする……！	フィーリングシグナル	UR	elegant	sp	9458	8649	8918	staminaRecovery_probability_none	伝えたい想い	technique,32	33	techniquePlus_passive_sameGrade,spGaugeGainRate_musicStart_none	5.2		appeal,10	30
+174	niko	ワン、ツー、スリー、フォー	僕らのLIVE 君とのLIFE	SR	cool	skill	5079	5926	5926	criticalUp_probability_sameTeam	ラブにこ♪	10,7	30	appealPlus_passive_sameAttribute,criticalPlus_musicStart_everyone	3.2		3	30
+175	honoka	ちょっと待って……ひゃあああっ	竜宮城の姫君	UR	pure	voltage	10465	8812	8262	voltageGain_probability_none	あなたも竜宮城へ行こう♪	appeal,37	33	appealPlus_passive_sameAttribute,criticalRateUp_spSkill_everyone	5.2		3,15	50
+176	ai	UMAも絶対食いつくよ！	竜宮城の姫君	UR	elegant	guard	8919	9458	8649	shieldGain_probability_none	竜宮城へようこそ♪	stamina,32	33	appealPlus_passive_sameTeam,damageReduction_spSkill_none	5		10,5	50
+177	ayumu	明日もまた会いに来るね	レインボーローズ	SR	elegant	skill	5079	5079	6772	spSkillUp_probability_none	踏み出したステップ	appeal,22	30	appealPlus_passive_sameAttribute,appealPlus_acSuccess_everyone	3.2		3	30
+178	kanan	もう少し深く潜ってみようかな	竜宮城の姫君	UR	pure	skill	7854	7405	7180	spSkillUp_probability_none	まだ帰さないからね	appeal,30	33	techniquePlus_passive_sameAttribute,deactivation_changeTeam_everyone	5.2			20
+179	you	水平線の先まで見渡せるよ！	青空Jumping Heart	SR	smile	guard	4576	4576	4715	damageReduction_probability_none	絶好調であります！	10,10	30	staminaPlus_passive_sameAttribute,staminaRecovery_acStart_none	3.2		stamina,20	30
+180	hanayo	役に立てることがあるなら	僕らのLIVE 君とのLIFE	SR	pure	sp	5824	3883	4161	spGaugeGainRate_probability_none	笑顔が届きますように…っ！	sp,6	30	staminaPlus_passive_sameAttribute,staminaRecovery_damage_none	3.2		technique,25	2000,40
+181	mari	私がサポートしてあげる♪	ロイヤルプリンセス	UR	cool	skill	9628	9628	10832	staminaRecovery_probability_none	Shall We Dance？	technique,40	33	appealPlus_passive_sameTeam,appealPlus_musicStart_everyone	7		5	30
+182	kanata	次は彼方ちゃんの番で〜す♪	天使の子守歌	UR	elegant	voltage	12718	5324	11535	appealUp_probability_sameGrade	夢の世界へようこそ〜	5,7.2	33	appealPlus_passive_everyone,appealPlus_acStartOnce_everyone	4.2		5	30
+183	rin	むにゃむにゃ……うへへ	僕らのLIVE 君とのLIFE	SR	active	voltage	5416	6433	5079	voltageUp_probability_sameType	盛り上がっていこうにゃー♪	5,5.2	30	appealPlus_passive_sameAttribute,appealUp_acFailed_friends	3.2		10,10	80
+184	emma	どこもこれも美味しそう	レインボーローズ	SR	smile	sp	5079	5079	6772	skillInvocationUp_probability_sameTeam	準備はい〜い？	5,4	30	staminaPlus_passive_sameAttribute,appealPlus_acSuccessOnce_everyone	3.2		3	30
+185	emma	持ってきたんだよ	無邪気な赤ずきん	UR	pure	guard	8812	10465	8262	shieldGain_probability_none	喜んでくれるといいな♪	stamina,32	33	staminaPlus_passive_sameAttribute,shieldGain_musicStart_none	5.2		stamina,32	30
+186	rin	全速力で行くにゃ〜♪	森のハンターガール	UR	pure	skill	9638	8812	9087	skillInvocationUp_probability_sameTeam	逃さないにゃ♪	5,5	33	staminaPlus_passive_sameAttribute,voltagePlus_musicStart_everyone	5.2		4	30
+187	umi	全く、あなた達は…	僕らのLIVE 君とのLIFE	SR	smile	skill	5926	5586	5416	criticalUp_probability_sameTeam	私だって負けません！	10,7	30	appealPlus_passive_sameTeam,skillInvocationUp_changeTeam_everyone	5		5,8	30
+188	chika	結構上手くない？	ミッドナイトウルフ	UR	cool	sp	7180	6263	8976	spGaugeGainRate_probability_none	捕まえちゃうぞ！	sp,8	33	techniquePlus_passive_sameTeam,spSkillUp_acStart_none	7		appeal,15	30
+189	setsuna	気を付けてくださいね〜！	レインボーローズ	SR	smile	voltage	5824	3883	4161	spGaugeGainUp_probability_sameGrade	さぁ、あなたも一緒に！	5,3.9	30	techniquePlus_passive_myself,skillInvocationUp_acStart_everyone	7		10,8	30
+190	ruby	いいなぁ、食べたい……！	青空Jumping Heart	SR	active	guard	3883	4437	5548	shieldGain_probability_none	ちっちゃなルビィの大きな夢	stamina,24	30	staminaPlus_passive_sameAttribute,staminaRecovery_damage_none	3.2		stamina,15	2000,40
+191	karin	キミをドキっとさせちゃった？	セレブリティ・ブルー	UR	elegant	voltage	10465	8262	8812	voltageGain_probability_none	じーっと見すぎよ！	appeal,37	33	techniquePlus_passive_everyone,shieldGain_acSuccess_none	4.2		stamina,10	20
+192	mari	はい♪聞いてみて	青空Jumping Heart	SR	elegant	sp	5079	6433	5416	spGaugeGainUp_probability_everyone	レッツ！シング・ア・ソング♪	5,4.2	30	techniquePlus_passive_sameTeam,spSkillUp_acStart_none	5		appeal,8	30
+193	nozomi	いたいのいたいのとんでけ〜♪	マジカル☆フィーバー	UR	cool	voltage	11016	6884	9638	appealUp_probability_sameTeam	うちの虜になる魔法やん♪	5,9	33	appealPlus_passive_everyone,appealPlus_acSuccessOnce_everyone	4.2		5	30
+194	dia	ハグしてさしあげますわ	マジカル☆フィーバー	UR	active	guard	8262	12392	6884	damageReduction_probability_none	天より来たれ千の光！	3,45	33	staminaPlus_passive_everyone,voltageGain_acStart_none	4.2		stamina,35	45
+195	riko	愛と勇気の魔法少女、りこっぴー	青空Jumping Heart	SR	natural	skill	7109	4739	5079	skillInvocationUp_probability_sameAttribute	メロディーに惹かれて	5,4	30	techniquePlus_passive_sameTeam,spGaugeGainUp_acStart_everyone	5		10,8	30
+196	kasumi	あなたにご覧にいれましょう！	マジカル☆フィーバー	UR	natural	voltage	9649	4488	8302	voltageUp_probability_everyone	かすみんを好きになーれ♡	5,5.9	33	appealPlus_passive_everyone,voltageGain_appeal_none	3.2		appeal,30	15
+197	kotori	魔法でなおしてあげるよ♪	僕らのLIVE 君とのLIFE	SR	active	sp	4437	3883	5548	spGaugeGainRate_probability_none	みんなも一緒にっ！	sp,6	30	staminaPlus_passive_sameAttribute,criticalPlus_musicStart_everyone	3.2		3	30
+198	shizuku	水の精霊たちよ！	レインボーローズ	SR	pure	guard	4161	5548	4161	staminaRecovery_probability_none	心が躍ります♪	stamina,29	30	staminaPlus_passive_myself,staminaRecovery_acFailed_none	7		stamina,20	50
+199	hanayo	あなたのために歌うね	カラフルフェスタ	UR	elegant	skill	11322	7038	12240	appealUp_probability_sameTeam	ここは私の夢の世界	5,9	33	appealPlus_passive_sameAttribute,criticalRateUp_appeal_sameTeam	5.2		3,10	20
+200	hanamaru	天国ずら〜！	楽園からの使者	UR	natural	guard	9326	11433	9326	shieldGain_probability_none	願いが届くといいな♪	stamina,40	33	staminaPlus_passive_everyone,staminaRecovery_appeal_none	4.2		stamina,10	20
+201	ai	来てくれたんだね！サンキュー♪	レインボーローズ	SR	cool	skill	5926	3386	7619	appealUp_probability_sameTeam	テンアゲで行こうー！	6,7	30	staminaPlus_passive_sameTeam,voltageGain_changeTeam_none	5		technique,20	20
+202	kanata	すやあ〜すぴ〜すやすや〜〜	レインボーローズ	SR	cool	guard	3893	6262	6772	staminaRecovery_probability_none	ぜんぜんねむくないよ〜	stamina,32	30	techniquePlus_passive_sameTeam,damageReductionPlus_musicStart_none	5		3.2	20
+203	yoshiko	あっちにいってーー……あっ！！	ベジタブル☆ワンダーランド	UR	cool	voltage	11220	7854	8976	voltageGain_probability_none	キャロット・バニー	appeal,37	33	appealPlus_passive_sameAttribute,skillInvocationUp_acSuccess_everyone	5.2		10,10	50
+204	rina	みんなと一緒にひとつのお鍋	ベジタブル☆ワンダーランド	UR	natural	skill	8812	7711	11016	criticalRateUp_probability_sameTeam	野菜の国のアリス	10,10	33	appealPlus_passive_sameTeam,appealPlus_musicStart_sameTeam	7		5	50
+205	emma	お野菜も入れるねー。それー♪	マーチング・ハーモニー	SR	natural	skill	5515	4824	6895	criticalRateUp_probability_sameTeam	さぁ、行進〜！	10,7	30	techniquePlus_passive_sameTeam,voltageGain_acSuccess_none	5		appeal,30	30
+206	kotori	味見してみて	ベジタブル☆ワンダーランド	UR	cool	guard	5048	10326	7572	shieldGain_probability_none	ここまで登ってこれるかにゃ〜？	technique,29	33	staminaPlus_passive_sameAttribute,staminaRecovery_acSuccess_none	5.2		technique,20	30
+207	eri	なんなのいきなり……	それは僕たちの奇跡	SR	active	voltage	6095	3118	4961	criticalUp_probability_sameTeam	盛り上がってますかー？	10,7	30	techniquePlus_passive_myself,voltagePlus_musicStart_sameAttribute	7		2	30
+208	dia	ん〜、たまりませんわ！	Brightest Melody	SR	smile	sp	3259	4961	5953	spGaugeGainUp_probability_everyone	みんなで進みましょう！	5,4.2	30	staminaPlus_passive_sameAttribute,spGaugeGainRate_musicStart_none	3.2		technique,7	30
+209	ayumu	ひたむきな努力家	レッスンタイム・ニジガク	R	pure	voltage	5920	1329	4834		練習、一生懸命頑張るね！							
+210	kasumi	みんなのアイドルかすみん	レッスンタイム・ニジガク	R	natural	sp	4712	1570	5800		可愛い動きの練習ですぅ♪							
+211	shizuku	大女優を目指して	レッスンタイム・ニジガク	R	active	guard	1570	6283	4229		練習も本番のように頑張ります！							
+212	karin	ストレッチは欠かせないわ！	レッスンタイム・ニジガク	R	active	skill	5317	4349	2417		こういうスタイルはどうかしら？							
+213	ai	たのしーこと、してみない？	レッスンタイム・ニジガク	R	elegant	guard	3260	6042	2778		体を動かす自信はあるよ！							
+214	kanata	お昼寝日和だね〜♪	レッスンタイム・ニジガク	R	elegant	sp	4591	2658	4834		みんなとお揃いのジャージなんだ♪							
+215	setsuna	生徒会長モード	レッスンタイム・ニジガク	R	cool	guard	4470	5920	1690		いっぱい体を動かしましょうー！							
+216	emma	弟たちから手紙が届いたの♪	レッスンタイム・ニジガク	R	smile	voltage	6163	2899	3020		このジャージ、動きやすいね！							
+217	rina	ココロは繋がってるよ	レッスンタイム・ニジガク	R	cool	skill	4470	2173	5437		璃奈ちゃんボード「ピース！」							
+218	shizuku	もうくすぐったいってば！	薔薇の騎士	UR	active	sp	9638	7437	10465	spGaugeGainUp_probability_everyone	守ってみせます！	5,9	33	appealPlus_passive_sameTeam,spGaugeGainRate_musicStart_none	7		technique,10	30
+219	hanayo	えっ……？	それは僕たちの奇跡	SR	smile	sp	6548	3963	6721	spSkillUp_probability_none	もっともっといけますよ〜！	appeal,22	30	techniquePlus_passive_sameGrade,voltageGain_acSuccess_none	3.2		technique,30	30
+220	maki	ちょ、速い速い！	Snow Crystal	UR	elegant	voltage	11780	6170	10098	appealUp_probability_everyone	雪の魔法が解ける前に	5,6.2	33	appealPlus_passive_sameGrade,appealPlus_musicStart_sameGrade	4.2		5	50
+221	setsuna	アイススケート対決を始めます！	Snow Crystal	UR	smile	guard	6058	12392	9087	staminaRecovery_probability_none	フローズンウィンド！	stamina,32	33	staminaPlus_passive_everyone,shieldGain_musicStart_none	4.2		stamina,20	40
+222	kasumi	ひえええ！足がふらふらする！	マーチング・ハーモニー	SR	elegant	skill	6721	4652	5858	shieldGain_probability_none	かすみん行進曲	technique,27	30	techniquePlus_passive_sameAttribute,appealUp_acStart_everyone	3.2		10,4	30
+223	you	……いったたた〜	Snow Crystal	UR	elegant	skill	7572	5736	9638	shieldGain_probability_none	この気持ち、溶けないといいな	stamina,29	33	appealPlus_passive_sameAttribute,criticalRateUp_acSuccess_sameAttribute	4.2		5,8	40
+224	rin	どこまでだって行けちゃうにゃ〜	それは僕たちの奇跡	SR	pure	guard	4253	6661	3259	staminaRecovery_probability_none	明日へ走り続ける力	stamina,29	30	staminaPlus_passive_sameType,revival_musicStart_none	3.2		10	25
+225	mari	マリバウアー！	Brightest Melody	SR	cool	voltage	6803	2835	4535	appealUp_probability_everyone	今を大切に	5,3.2	30	techniquePlus_passive_sameAttribute,voltagePlus_acSuccessOnce_everyone	3.2		2	20
+226	umi	二人でひとつのストロー	月下の大和撫子	UR	natural	sp	11016	6732	12852	spSkillUp_probability_none	月夜の祈り	appeal,40	33	techniquePlus_passive_sameAttribute,spGaugeGainRate_appeal_none	5.2		technique,1	15
+227	ruby	……受け取ってください！	小悪魔の誘惑	UR	elegant	guard	7650	14688	8262	staminaRecovery_probability_none	あなたのひざまくらがいいなぁ	stamina,40	33	staminaPlus_passive_sameAttribute,damageReductionPlus_acStart_none	5.2		5	50
+228	riko	憧れちゃうシチュエーション	Brightest Melody	SR	active	voltage	7411	4480	5341	voltageGain_probability_none	新しい夢を繋げよう	appeal,37	30	appealPlus_passive_riko,appealPlus_acSuccessOnce_riko	3.2		4	30
+229	ayumu	ふふ、あの子らしいなあ	マーチング・ハーモニー	SR	cool	sp	6032	4652	6548	spGaugeGainRate_probability_none	音がたくさん重なって楽しいね♪	sp,7	30	techniquePlus_passive_sameAttribute,spGaugeGainRate_musicStart_none	3.2		technique,8	50
+230	hanamaru	体も動いちゃうずら～！	湯けむり天女	UR	cool	skill	10938	5888	11220	spGaugeGainRate_probability_none	湯けむりに包まれて	sp,8	33	appealPlus_passive_sameAttribute,skillInvocationUp_acStart_sameAttribute	5.2		10,10	30
+231	kanata	天国が見える……	湯けむり天女	UR	natural	guard	7711	11566	8262	damageReduction_probability_none	ぽかぽか気持ちいいよ～♪	10,14	33	staminaPlus_passive_sameTeam,shieldGain_acStart_none	7		stamina,8	40
+232	nozomi	ウチのお土産はね……	それは僕たちの奇跡	SR	active	guard	4652	6895	5687	damageReduction_probability_none	思い出を握りしめて	10,11	30	staminaPlus_passive_sameAttribute,deactivation_spSkill_everyone	3.2			50
+233	niko	おばけみたいな虫が～～～っっ！	湯けむり天女	UR	pure	sp	8720	6194	8030	spGaugeGainRate_probability_none	これが美肌の秘訣よ♪	sp,7	33	techniquePlus_passive_everyone,spGaugeGainRate_acStart_none	4.2		technique,2	30
+234	chika	もう1回温泉行って来るね	Brightest Melody	SR	cool	skill	4961	4110	5103	appealUp_probability_everyone	想いを一つに！	5,2.2	30	appealPlus_passive_sameAttribute,skillInvocationUp_acStart_myself	2.7		10,8	30
+235	shizuku	たあ―っっ！！	マーチング・ハーモニー	SR	smile	voltage	6661	3118	4393	voltageGain_probability_none	煌びやかな旋律	appeal,37	30	appealPlus_passive_sameGrade,appealUp_acSuccess_everyone	3.2		5,7	50
+236	mari	私たちの色	カラフルスプラッシュ	UR	smile	sp	9536	7292	11220	spSkillUp_probability_none	世界をマリー色に染めちゃうYo！	technique,32	33	techniquePlus_passive_sameAttribute,spSkillUp_critical_none	5.2		technique,20	20
+237	umi	完成したら見せますね	それは僕たちの奇跡	SR	cool	guard	4308	6895	6032	shieldGain_probability_none	気持ちを込めた歌声	stamina,27	30	staminaPlus_passive_sameTeam,damageReductionPlus_acStart_none	5		4	30
+238	ayumu	いらっしゃいませ♪	熱烈歓迎☆チャイナメイド	UR	natural	skill	10465	6333	10739	appealUp_probability_sameTeam	宴が始まるよ♥	5,9	33	appealPlus_passive_sameGrade,spGaugeGainRate_acSuccess_none	5.2		appeal,8	30
+239	rin	やった―！！	熱烈歓迎☆チャイにゃメイド	UR	active	guard	8414	11498	8132	shieldGain_probability_none	受け取ってくれるかにゃ？	stamina,32	33	staminaPlus_passive_everyone,shieldGain_appeal_none	4.2		stamina,4	10
+240	honoka	私に任せて！	それは僕たちの奇跡	SR	cool	skill	6204	3791	7238	spGaugeGainUp_probability_everyone	前へ進もう！	5,4.2	30	techniquePlus_passive_sameType,skillInvocationUp_acSuccess_everyone	4.2		10,8	30
+241	dia	もうひと頑張りいたしましょう！	熱烈歓迎☆チャイナメイド	UR	natural	voltage	8490	6884	7572	voltageGain_probability_none	ご案内いたしますわー！	appeal,35	33	techniquePlus_passive_everyone,appealUp_changeTeam_everyone	4.2		5,3.2	20
+242	kanan	わかめラーメンを作ってみたんだ	Brightest Melody	SR	elegant	guard	4818	5810	3543	damageReduction_probability_none	次のトキメキへ出発だよ！	10,10	30	staminaPlus_passive_myself,shieldGain_musicStart_none	7		stamina,20	20
+243	rina	全てを正確に極めて……えい！	マーチング・ハーモニー	SR	pure	skill	4535	4535	5103	skillInvocationUp_probability_sameTeam	弾けるりなリズム	5,4	30	techniquePlus_passive_sameTeam,criticalPlus_musicStart_everyone	5		3	30
+244	eri	キミがそばにいてくれるなら	トゥルーアラベスク	UR	elegant	sp	10404	6426	13770	spGaugeGainRate_probability_none	ホワイト・スワン	sp,9	33	techniquePlus_passive_sameGrade,spSkillUp_acStart_none	5.2		appeal,15	50
+245	ai	二人きりの時間を過ごしたい	ハートビート★スクールガール	UR	cool	voltage	13239	6316	10530	voltageUp_probability_everyone	愛さんと遊ぶ準備、できてる？	5,7.2	33	appealPlus_passive_sameAttribute,appealUp_acSuccess_sameAttribute	5.2		5,8.2	50
+246	yoshiko	これが次の暗黒舞踏会の衣裳よ！	Brightest Melody	SR	natural	guard	4480	6721	6032	shieldGain_probability_none	胸の中のキラメキ	stamina,27	30	staminaPlus_passive_myself,damageReductionPlus_musicStart_none	7		3.2	20
+247	karin	まだまだ終わらせないんだから！	マーチング・ハーモニー	SR	smile	sp	5171	3791	8272	spGaugeGainRate_probability_none	魅力的な音色	sp,7	30	techniquePlus_passive_myself,spGaugeGainRate_changeTeam_none	7		appeal,2	15
+248	riko	プリンセスに近づけたらいいな	Noble Princess	UR	natural	sp	9254	8414	10376	spSkillUp_probability_none	プリンセスプライド	appeal,32	33	techniquePlus_passive_sameAttribute,staminaRecovery_spSkill_none	5.2		technique,20	50
+249	karin	困るわ……そんな風に言うなんて	Noble Princess	UR	pure	skill	10376	6450	11220	appealUp_probability_sameTeam	二人きりの舞踏会	5,9	33	techniquePlus_passive_sameTeam,skillInvocationUp_critical_sameAttribute	7		2,25	50
+250	maki	そんな顔で私のこと見ないでよ	それは僕たちの奇跡	SR	pure	voltage	7928	3963	5341	voltageGain_probability_none	おなじ夢に向かって	appeal,37	30	appealPlus_passive_myself,appealUp_acSuccess_everyone	7		10,4	50
+251	honoka	本物のプリンセスになれそう	Noble Princess	UR	active	skill	7344	6884	8720	skillInvocationUp_probability_sameAttribute	朝のご挨拶	5,4.5	33	appealPlus_passive_everyone,appealPlus_musicStart_everyone	3.2		5	30
+252	you	もうすぐできるからね～	Brightest Melody	SR	active	skill	4818	5243	4110	criticalRateUp_probability_sameTeam	光の先へ	10,7	30	techniquePlus_passive_sameGrade,appealPlus_acSuccessOnce_everyone	3.2		3	30
+253	setsuna	私があなたの笑顔を守ります！	マーチング・ハーモニー	SR	cool	guard	2835	6946	4393	staminaRecovery_probability_none	力強い音を響かせます！	stamina,29	30	staminaPlus_passive_friends,damageReductionAc_acStart_none	4.2		3	30
+254	kasumi	かすみん、限界ですぅ！	レディー・デビュー	UR	cool	guard	8132	12060	7854	staminaRecovery_probability_none	It's かすみん・タイム♡	stamina,32	33	staminaPlus_passive_sameTeam,voltageUp_damage_sameGrade	7		2,7	200,5
+255	kotori	おかえりなさいませ、ご主人様	それは僕たちの奇跡	SR	pure	skill	5858	4135	7238	shieldGain_probability_none	笑顔を忘れちゃだめっ！	technique,27	30	techniquePlus_passive_sameAttribute,voltageGain_acSuccess_none	3.2		technique,30	30
+256	nozomi	こうするの、っと！	レインドロップ	UR	pure	guard	8976	12060	7010	shieldGain_probability_none	Happy Rainy Day♪	stamina,32	33	staminaPlus_passive_sameAttribute,voltageGain_damage_none	5.2		stamina,10	350,5
+257	kanan	雨に消えたりしないように	レインドロップ	UR	smile	skill	8976	7292	11780	spGaugeGainRate_probability_none	ついて来れるかな？	sp,8	33	techniquePlus_passive_sameTeam,criticalRateUp_spSkill_everyone	7		3,15	50
+258	hanamaru	特別な道具を使うずら	Brightest Melody	SR	smile	voltage	6895	4308	6032	voltageUp_probability_sameGrade	描いていたミライ	5,5.2	30	appealPlus_passive_sameAttribute,skillInvocationUp_acSuccess_everyone	3.2		10,8	50
+259	emma	みんなも一緒に歌おうよ〜♪	レインドロップ	UR	active	voltage	8030	7344	7572	voltageGain_probability_none	Singing in the rain	appeal,35	33	appealPlus_passive_sameTeam,skillInvocationUp_acSuccess_everyone	6		10,10	40
+260	niko	にこもがんばっちゃおうかな〜	それは僕たちの奇跡	SR	elegant	skill	4393	4110	5671	criticalRateUp_probability_sameAttribute	この時間を楽しもう♪	3,10	30	techniquePlus_passive_sameAttribute,criticalPlus_musicStart_everyone	3.2		3	30
+261	ai	愛さん特製スペシャルもんじゃ	マーチング・ハーモニー	SR	pure	guard	3400	6379	4393	shieldGain_probability_none	ドンドン行くよ！	stamina,27	30	staminaPlus_passive_sameAttribute,staminaRecovery_acStart_none	3.2		stamina,15	30
+262	rin	にゃああっ……！	Pom！☆	UR	cool	sp	10886	8397	11820	spSkillUp_probability_none	にくきゅう♪	appeal,40	33	appealPlus_passive_sameGrade,spGaugeGainUp_acStart_sameAttribute	5.2		5,24	30
+263	chika	あなたと一緒に海を見ていたいな	チカキュン☆サマー	UR	pure	voltage	13770	6120	10710	voltageUp_probability_sameGrade	あなたのハートを狙い撃ち♪	3,10	33	appealPlus_passive_sameTeam,voltageGain_changeTeam_none	7		appeal,60	5
+264	ruby	今日は絶対、すくうんだ	Brightest Melody	SR	natural	sp	6032	3963	7238	spSkillUp_probability_none	キラキラを追いかけて	appeal,22	30	appealPlus_passive_sameType,spSkillUp_acStart_none	4.2		appeal,8	30
+265	kanata	遥ちゃん専用アルバムなの！	マーチング・ハーモニー	SR	pure	skill	6548	5515	5171	skillInvocationUp_probability_sameTeam	包み込むような輝き	5,4	30	techniquePlus_passive_sameTeam,skillInvocationUp_acSuccess_sameTeam	5		5,14	50
+266	hanayo	私わかったよ！	見習い探偵	UR	pure	sp	9424	7996	11138	spGaugeGainRate_probability_none	待ちなさい！	sp,9	33	techniquePlus_passive_sameAttribute,spGaugeGainRate_critical_none	5.2		technique,1	25
+267	kanata	彼方ちゃん、ここに見参！	神出鬼没☆怪盗K	UR	smile	skill	9536	7292	11220	voltageUp_probability_everyone	あなたの宝物、頂きます～♪	5,6.2	33	appealPlus_passive_sameTeam,criticalRateUp_appeal_everyone	7		5,5.5	10
+268	kanan	焦らなくていいからね	恋になりたいAQUARIUM	SR	smile	skill	5963	4386	7191	criticalRateUp_probability_sameTeam	いっしょにジャンプしよう！	3,15	30	techniquePlus_passive_myself,spGaugeGainUp_critical_everyone	7		3,8	20
+269	yoshiko	名探偵ヨハネよ！	堕天探偵☆ヨハネ	UR	elegant	guard	6099	10555	6802	damageReduction_probability_none	堕天探偵に任せなさい！	5,26	33	staminaPlus_passive_sameAttribute,damageReductionPlus_musicStart_none	5.2		2	30
+270	eri	怪盗からのメッセージが！！	Wonderful Rush	SR	cool	guard	4345	5793	4345	damageReduction_probability_none	胸躍るステージ	10,10	30	staminaPlus_passive_sameTeam,revival_musicStart_none	5		10	25
+271	ayumu	いい感じにできてるよ！	Love U my friends	SR	active	voltage	6082	4633	3763	appealUp_probability_sameTeam	とびっきりの明日へ！	5,6	30	techniquePlus_passive_sameType,voltageGain_acSuccess_none	4.2		technique,25	30
+272	maki	……そうね、すごくキレイ	あなたに捧げるセレナーデ	UR	natural	sp	8853	7425	12280	spGaugeGainRateAndSpSkillUp_probability_none	最後まで聴いてね	sp,5,technique,19	33	techniquePlus_passive_myself,spGaugeGainRate_acSuccess_none	7		technique,8	30
+273	setsuna	最高のステージでしたね！	Love U my friends	SR	natural	skill	6490	4386	6664	criticalRateUp_probability_sameTeam	届いていますか？	10,7	30	staminaPlus_passive_sameTeam,appealUp_acStart_everyone	5		10,4	30
+274	rina	璃奈ちゃんボード［くふふ］	もののけガール	UR	smile	voltage	11780	6170	10098	voltageGain_probability_none	Snow Fairy	appeal,37	33	techniquePlus_passive_sameAttribute,appealUp_critical_sameAttribute	5.2		2,9.5	30
+275	umi	て、天井！！壁にも！！	もののけガール	UR	elegant	guard	6283	12851	9424	staminaRecovery_probability_none	うらめしや〜	stamina,32	33	staminaPlus_passive_sameTeam,shieldGain_changeTeam_none	7		stamina,10	20
+276	kotori	はぁ〜…生き返る…	Wonderful Rush	SR	elegant	guard	4735	7017	5787	staminaRecovery_probability_none	さぁ、出発だよ！	stamina,32	30	staminaPlus_passive_myself,shieldGain_acStart_none	7		stamina,6	40
+277	ruby	ピギャアアアア！！	もののけガール	UR	natural	skill	8210	5863	9348	spSkillUp_probability_none	天狗のいざない	technique,30	33	staminaPlus_passive_myself,criticalPlus_musicStart_everyone	7		4	30
+278	riko	こ、こっちに向かってきてる！	恋になりたいAQUARIUM	SR	smile	sp	5212	3329	5936	spSkillUp_probability_none	一緒にぷかぷか	appeal,22	30	staminaPlus_passive_sameType,criticalRateAc_acStart_sameType	3.2		5	15
+279	kasumi	そういうの無理だもん！！	Love U my friends	SR	pure	guard	3763	6660	4053	damageReduction_probability_none	かすみんからあなたに！	10,10	30	staminaPlus_passive_sameAttribute,staminaRecovery_stamina_none	3.2		stamina,20	50,100
+280	dia	……わ、わかりましたわ	ラグジュアリー・ピンク	UR	pure	guard	11820	6843	12444	criticalRateUp_probability_sameGrade	ルージュにくちづけ	5,18	33	appealPlus_passive_sameGrade,voltageUp_acSuccess_sameGrade	5.2		5,8	50
+281	shizuku	先輩、きっとあれです！	ブルーミングガーデン	UR	cool	guard	6732	14688	9180	shieldGain_probability_none	遠くまで届きますように	stamina,40	33	staminaPlus_passive_sameAttribute,appealUp_acSuccess_everyone	5.2		5,3.5	100
+282	niko	育ち盛りだから	Wonderful Rush	SR	natural	sp	5963	4386	7191	spGaugeGainUp_probability_sameType	はりきっていこう！	5,4.5	30	techniquePlus_passive_sameAttribute,spGaugeGainUp_changeTeamOnce_sameType	3.2		30,8	100
+283	you	本当に似合うかな……？	恋になりたいAQUARIUM	SR	elegant	guard	6313	5263	5963	voltageUp_probability_sameType	もっとあなたに近づきたい	5,5.2	30	appealPlus_passive_sameType,skillInvocationUp_acSuccess_everyone	4.2		10,8	50
+284	shioriko	えっ！？真っ赤……？	決意の光	SR	pure	sp	5613	4910	7017	spSkillUp_probability_none	夢をさがして	appeal,22	30	techniquePlus_passive_sameSchool,spSkillUp_acStart_none	3.2		technique,8	30
+285	mari	ウフフ♪元気のいいコね！	トワイライト・カウガール	UR	natural	skill	9424	7140	11995	voltageUp_probability_sameSchool	こっちにいらっしゃい♡	5,7.2	33	appealPlus_passive_sameSchool,criticalRateUp_acSuccess_everyone	5.2		5,7.8	50
+286	eri	優勝は…私のものよ！	Queen of the Circuit	UR	cool	voltage	11995	6283	10281	appealUp_probability_sameAttribute	私の勝ちは決まっているわ	5,7.2	33	appealPlus_passive_sameGrade,voltageGain_acSuccess_none	5.2		appeal,35	30
+287	rina	鞠莉さんの部屋に泊まってみたい	Love U my friends	SR	active	guard	4910	6841	5787	shieldGain_probability_none	ドキドキ、だけど伝えたい	stamina,27	30	staminaPlus_passive_sameAttribute,staminaRecovery_acStart_none	3.2		stamina,20	30
+288	setsuna	レインボートルマリンアロー	ジャスティス・アーチャー	UR	pure	sp	8030	6426	8490	spGaugeGainUp_probability_everyone	正義の矢で射貫きます	10,6.2	33	techniquePlus_passive_sameAttribute,spGaugeGainRate_musicStart_none	5.2		appeal,9	30
+289	hanamaru	落ちるずら〜！	恋になりたいAQUARIUM	SR	elegant	skill	5069	4053	5358	appealUp_probability_sameTeam	あわあわに乗って	5,4.2	30	staminaPlus_passive_sameTeam,voltageGain_changeTeam_none	5		technique,20	15
+290	rin	もう1回やりたいにゃ！	Wonderful Rush	SR	natural	sp	4488	4923	5069	spGaugeGainUp_probability_everyone	いっしょに盛り上がろう！	5,4.2	30	staminaPlus_passive_myself,shieldGainValue_spSkill_none	7		200	50
+291	shioriko	虹ヶ咲学園1年生	理想は高く	R	smile	voltage	4644	2216	3693		私の本気							
+292	shioriko	完璧主義スクールアイドル	虹ヶ咲ニューフェイス	R	cool	skill	3625	4229	4229		努力は裏切らないんです！							
+293	ayumu	ぎゅっと捕まってもいい？	Present For You♡	UR	elegant	sp	9816	6450	11780	spGaugeGainUp_probability_sameAttribute	まばたき禁止♡	10,6.4	33	appealPlusAndStaminaPlus_passive_sameAttribute,voltageGain_spSkill_none	5.2,2.6		appeal,7	100
+294	chika	一緒に涼もう	恋になりたいAQUARIUM	SR	natural	voltage	7017	4910	5613	voltageGain_probability_none	サカナたちとパーティー	appeal,37	30	appealPlus_passive_sameTeam,appealUp_musicStart_everyone	5		5,6.5	100
+295	you	電車を走らせるよ〜！いけーー！	おもちゃの世界へようこそ	UR	active	voltage	11995	6568	9996	appealUp_probability_everyone	まだまだこれからー♪	5,6.2	33	appealPlus_passive_sameAttribute,appealUpType_changeTeamOnce_sameAttribute	5.2		10,voltage,1	100
+296	niko	ままごとセットを使いましょう！	おもちゃの世界へようこそ	UR	cool	guard	7996	12851	7711	damageReduction_probability_none	みんな一緒に！にこにこにー♪	5,27	33	staminaPlus_passive_sameAttribute,staminaRecovery_changeTeamTimes_none	5.2		stamina,30	100,2
+297	karin	この人形シリーズ、持ってたわ	Love U my friends	SR	cool	sp	6841	2805	7894	spSkillUp_probability_none	私が教えてあげる	appeal,22	30	techniquePlus_passive_sameAttribute,spGaugeGainRate_musicStart_none	3.2		appeal,4	100
+298	ai	愛さんを捕まえてみな〜！	おもちゃの世界へようこそ	UR	pure	sp	8030	6194	8720	spSkillUp_probability_none	Let's JUMP!	appeal,32	33	appealPlus_passive_myself,skillInvocationUp_acSuccess_everyone	9		10,10	40
+299	dia	思い出し笑いですわ	恋になりたいAQUARIUM	SR	pure	voltage	5793	4053	4633	appealUp_probability_everyone	私に注目ですわ	5,3.2	30	appealPlus_passive_myself,voltageGain_acStartOnce_none	7		appeal,75	100
+300	hanayo	あ、あれっ、あれー！？	Wonderful Rush	SR	active	guard	4488	5793	4199	staminaRecovery_probability_none	心も身体もうきうき	stamina,29	30	staminaPlus_passive_sameAttribute,damageReduction_changeTeamTimes_none	5		1,23	100,2
+301	honoka	ほらほら、じっとして〜	コスミック☆ドライバー	UR	smile	voltage	12444	7153	11509	appealUp_probability_sameTeam	行先はヒミツだよ！	5,9	33	appealPlus_passive_sameTeam,voltageGain_musicStart_none	7		appeal,100	100
+302	riko	私とあなた、二人だけの時間	薔薇のしらべ	UR	active	guard	9020	12754	9332	staminaRecovery_probability_none	Waiting for You	stamina,40	33	staminaPlus_passive_sameAttribute,voltageUp_appeal_sameAttribute	5.2		2,8	15
+303	nozomi	神様に聞いてみる？	Wonderful Rush	SR	smile	skill	7191	5086	5263	appealUp_probability_sameTeam	あなたとならどこまでも	5,7	30	techniquePlus_passive_sameTeam,criticalPlus_musicStart_sameTeam	5		1.5	100
+304	emma	ふわふわで、カラフルでキラキラ	Love U my friends	SR	cool	guard	5263	7017	5263	damageReduction_probability_none	世界中に届け〜	10,11	30	staminaPlus_passive_sameAttribute,deactivation_changeTeam_everyone	3.2			23
+305	kotori	2人とも…そこまでにして！	Pioneering a new World	UR	smile	sp	10567	7996	9996	spGaugeGainRate_probability_none	意外な一面	sp,9	33	techniquePlus_passive_everyone,criticalRateUp_acSuccess_everyone	4.2		5,3.9	100
+306	setsuna	やらないわけにはいきません	Pioneering a new World	UR	elegant	skill	8568	8568	11424	staminaRecovery_probability_none	私には勝てませんよ	technique,32	33	appealPlus_passive_sameAttribute,appealPlus_spSkillOnce_sameTeam	5.2		3	100
+307	shizuku	風になったような気分	Love U my friends	SR	natural	skill	6140	4033	7367	criticalRateUp_probability_sameTeam	あなたを笑顔にしたい	10,7	30	techniquePlus_passive_sameTeam,skillInvocationUp_acSuccess_everyone	5		5,5	100
+308	chika	やるからには負けられない！	Pioneering a new World	UR	natural	guard	6099	10322	7038	shieldGain_probability_none	ギリギリなラインを攻めてみる？	stamina,29	33	staminaPlus_passive_everyone,staminaRecovery_changeTeamOnce_none	4.2		stamina,60	100
+309	yoshiko	設定言うな！	恋になりたいAQUARIUM	SR	active	sp	5793	3909	4777	spGaugeGainUp_probability_everyone	海の底で堕天しましょ♡	5,4.2	30	techniquePlus_passive_sameAttribute,staminaRecovery_spSkill_none	3.2		technique,3	100
+310	maki	なんでこんなことになるのよ～！	Wonderful Rush	SR	cool	voltage	6082	4923	3475	voltageUp_probability_sameAttribute	空を駆けてみたいわ♪	5,4.2	30	appealPlus_passive_sameAttribute,skillInvocationUp_musicStart_everyone	3.2		10,8	100
+311	nozomi	ほーら、ごはんだよ〜	彩り金平糖	UR	elegant	skill	9139	8568	10852	voltageGainAndAppealUp_probability_sameGrade	シュガードリーム	appeal,23,5,4.4	33	appealPlus_passive_sameSchool,spGaugeGainRate_acSuccess_none	5.2		technique,2.6	100
+312	ai	一球入魂〜〜〜〜っ！！	Love U my friends	SR	elegant	voltage	7017	6313	4209	voltageGain_probability_none	テンアゲでGO！	appeal,37	30	appealPlus_passive_sameAttribute,spGaugeGainRate_spSkillOnce_none	3.2		technique,7	100
+313	hanamaru	よいしょ！よいしょ！	オータムキッチン	UR	smile	guard	7996	13137	7425	damageReduction_probability_none	完成ずら〜♡	2,50	33	staminaPlus_passive_sameAttribute,damageReduction_changeTeamTimes_none	5.2		1,44	100,2
+314	emma	このお魚とっても美味しい！	オータムキッチン	UR	cool	skill	10567	9996	7996	voltageUp_probability_sameGrade	どんな味になるかお楽しみに♡	5,6.2	33	appealPlus_passive_sameGrade,voltageGain_changeTeamOnce_none	5.2		appeal,100	100
+315	umi	足を滑らせてそのまま川へ…	Wonderful Rush	SR	pure	voltage	7017	5963	4559	voltageUp_probability_sameAttribute	夢いっぱいのステージ	5,5.2	30	appealPlus_passive_myself,voltagePlus_musicStart_sameAttribute	7		1	100
+316	hanayo	私達もたくさん採ってきたよ	オータムキッチン	UR	active	voltage	8866	7908	7190	voltageUp_probability_sameAttribute	おいしくなーれ♡	5,6.2	33	techniquePlus_passive_sameAttribute,appealPlus_acStartOnce_sameAttribute	5.2		1.6	100
+317	ruby	ルビィもう歩けないよ……	恋になりたいAQUARIUM	SR	elegant	skill	4488	4633	5358	criticalRateUp_probability_sameTeam	ルビィ、行きます！	3,12	30	techniquePlus_passive_sameTeam,voltageGain_criticalTimes_none	5		technique,10	100,10
+318	kanata	彼方ちゃん眠る暇もないからー！	Love U my friends	SR	smile	sp	5069	4053	5358	spGaugeGainUp_probability_everyone	彼方ちゃんのスペシャルターイム	5,4.2	30	appealPlus_passive_myself,spSkillUp_acStart_none	7		appeal,2.6	100
+319	kanan	今まで見た中で一番綺麗	Secret Galaxy	UR	active	voltage	14309	6222	10576	voltageGain_probability_none	二人だけの秘密ね	appeal,42	33	appealPlusAndTechniquePlus_passive_sameTeam,appealPlus_musicStart_sameTeam	7,3.5		2.5	100
+320	kasumi	じゃーん！どうですか？	甘いひととき	UR	pure	sp	11199	7153	12754	spGaugeGainRate_probability_none	独り占めしちゃいます？	sp,9	33	appealPlus_passive_sameAttribute,spSkillUp_spSkillTimes_none	5.2		appeal,6.6	100,10
+321	honoka	やっぱりこれがなくちゃね	Wonderful Rush	SR	pure	guard	5263	7367	4910	staminaRecovery_probability_none	冒険にいこう	stamina,32	30	staminaPlus_passive_sameTeam,staminaRecovery_acSuccess_none	5		stamina,6.6	100
+322	mari	ここから見る夕日	恋になりたいAQUARIUM	SR	smile	skill	5613	5436	6490	shieldGain_probability_none	チャオ～！	technique,27	30	appealPlus_passive_sameTeam,appealUp_acStart_sameTeam	5		5,4	100
+323	shizuku	「月の世界」へとご案内	十五夜の月うさぎ	UR	smile	voltage	12280	6568	9710	voltageGain_probability_none	月が綺麗ですね	appeal,37	33	appealPlus_passive_sameSchool,voltageGain_acSuccess_none	5.2		appeal,10.5	100
+324	riko	きれい……	十五夜の月うさぎ	UR	cool	skill	10754	7557	10754	staminaRecovery_probability_none	きらめく月の力で♪	technique,32	33	appealPlus_passive_sameAttribute,appealPlus_musicStart_sameAttribute	5.2		2	100
+325	niko	伝説のスクールアイドル伝説	ユメノトビラ	SR	smile	guard	4818	7140	5889	staminaRecovery_probability_none	魅せてあげるにこ♪	stamina,32	30	staminaPlus_passive_sameAttribute,staminaRecovery_acSuccess_none	3.2		stamina,6.6	100
+326	rin	なんだか最近、とっても眠くって	十五夜の月うさぎ	UR	pure	guard	6231	11264	6470	shieldGain_probability_none	ぺったんぺったん♪	stamina,29	33	staminaPlus_passive_sameAttribute,shieldGain_changeTeam_none	5.2		stamina,1.8	100
+327	kanan	おしょうゆをつけて、っと	未体験HORIZON	SR	natural	sp	5028	3696	6062	spSkillUp_probability_none	どんな未来が待っているかな？	appeal,22	30	techniquePlus_passive_myself,spSkillUp_acStartTimes_none	7		appeal,8.6	100,2
+328	emma	お願いだから力をかして！	哀温ノ詩	SR	pure	voltage	6803	3845	4141	voltageUp_probability_everyone	受け継いだ想い	5,4	30	appealPlus_passive_myself,voltageGain_acSuccess_none	7		appeal,7.6	100
+329	ruby	どこを探しても無かったグッズ！	ゆめいっぱい☆ルビィランド	UR	cool	sp	10465	6103	12498	spGaugeGainRate_probability_none	笑顔をプレゼントするよ！	sp,9	33	appealPlusAndTechniquePlus_passive_sameAttribute,spGaugeGainRate_acStart_none	2.6,5.2		technique,1	100
+330	eri	んぐっ！？	ユメノトビラ	SR	smile	sp	6603	4284	6960	spGaugeGainRate_probability_none	見つかるかしら？	sp,7	30	techniquePlus_passive_sameType,spGaugeGainRate_musicStart_none	3.2		technique,3	100
+331	mari	魔女のシャイ煮～！	マジカル☆ハロウィン	UR	elegant	voltage	12498	6103	10465	voltageGain_probability_none	トリック・オア・トリック	appeal,37	33	appealPlus_passive_sameAttribute,appealUp_acSuccess_sameAttribute	5.2		5,4	100
+332	umi	お見事、正解です	マジカル☆ハロウィン	UR	pure	skill	11045	9009	9009	shieldGain_probability_none	魔女のお誘い	stamina,32	33	appealPlus_passive_sameAttribute,voltageUp_acSuccess_sameAttribute	5.2		5,3.9	100
+333	kanata	辛いよう～！！	Märchen Star	SR	active	guard	5355	6783	5712	damageReduction_probability_none	なんでも叶えちゃう魔法だよ	5,22	30	staminaPlus_passive_sameTeam,shieldGain_acStart_none	5		stamina,2.4	100
+334	karin	私の真似をして座ってちょうだい	マジカル☆ハロウィン	UR	smile	guard	5863	11025	6568	staminaRecovery_probability_none	いたずらしちゃうわよ♪	stamina,28	33	staminaPlus_passive_myself,staminaRecovery_acStart_none	9		stamina,7.5	100
+335	kotori	頑張って作ったお話	ユメノトビラ	SR	cool	skill	5471	4288	5028	voltageUp_probability_sameTeam	ワクワクしちゃう！	5,4.4	30	appealPlus_passive_sameTeam,skillInvocationUp_acStart_sameTeam	5		5,4	100
+336	chika	そーっと、そーっと……	未体験HORIZON	SR	elegant	sp	4141	4732	5916	spGaugeGainUp_probability_everyone	なんだかドキドキするね	2,10.5	30	techniquePlus_passive_myself,spGaugeGainUp_acSuccess_everyone	7		3,8	100
+337	nozomi	ウチのこと見てくれないの？	運命の導き手	UR	natural	sp	11066	6639	13912	spGaugeGainUp_probability_sameAttribute	結ばれているかもね	5,32	33	techniquePlus_passive_sameAttribute,spSkillUp_acSuccess_none	5.2		appeal,7.5	100
+338	rina	今日、楽しかったから……	ココロ・サイエンス	UR	active	guard	8087	14619	8397	shieldGain_probability_sameTeam	笑顔っていいね	stamina,40	33	staminaPlus_passive_sameTeam,staminaRecovery_changeTeamTimes_none	7		stamina,30	100,2
+339	you	どうかな？このメガネ！	未体験HORIZON	SR	cool	sp	6960	2676	8211	spGaugeGainRate_probability_none	ほら、始めよう！	sp,7	30	techniquePlus_passive_sameAttribute,spSkillUp_spSkillTimes_none	3.2		technique,8.6	100,2
+340	ayumu	おすそ分けを持ってきたんだ！	Say Good-Bye	SR	natural	guard	5175	7317	5355	damageReduction_probability_none	一緒に歩いて行こう	10,11	30	staminaPlus_passive_sameAttribute,damageReduction_changeTeamTimes_none	3.2		1,30	100,2
+341	honoka	トップバッター	S.I.COLLECTION	UR	cool	guard	9009	8139	11917	staminaRecovery_probability_none	穂乃果☆オンステージ	stamina,32	33	staminaPlus_passive_sameAttribute,damageReduction_spSkillTimes_none	5.2		5,2.5	100,8
+342	ai	カメラさん、こっちこっち！	S.I.COLLECTION	UR	natural	skill	10567	8853	9139	appealUp_probability_sameTeam	愛さんの本気	5,9	33	techniquePlus_passive_sameTeam,voltageGain_changeTeamOnce_none	7		appeal,100	100
+343	hanamaru	ずらあああ……！	未体験HORIZON	SR	active	voltage	7140	4818	5889	appealUp_probability_sameAttribute	夢は叶えるもの	5,5.2	30	appealPlus_passive_sameAttribute,appealUp_acSuccess_none	3.2		5,3.8	100
+344	dia	次は、わたくしですわね	S.I.COLLECTION	UR	elegant	sp	7670	6949	9347	spSkillUp_probability_none	視線を独り占めですわ	appeal,32	33	appealPlus_passive_myself,spGaugeGainRate_musicStart_none	9		appeal,2.7	100
+345	nozomi	なんとかなったみたいやね	ユメノトビラ	SR	pure	voltage	5471	4141	5175	voltageGain_probability_none	この出会いを大切に	appeal,37	30	appealPlus_passive_myself,spSkillUp_acStart_none	7		appeal,2.6	100
+346	shizuku	役者魂が震えたぎります！	やがてひとつの物語	SR	elegant	guard	4583	5916	4288	shieldGain_probability_none	あなたといる時だけは	stamina,27	30	staminaPlus_passive_sameAttribute,staminaRecovery_acSuccess_none	3.2		stamina,6.6	100
+347	chika	やってもやっても終わらない	Afternoon Tea♡	UR	elegant	skill	11335	7557	10172	staminaRecoveryAndShieldGain_probability_none	優雅なひととき	technique,19,technique,19	33	techniquePlus_passive_myself,voltageUp_acSuccess_sameTeam	9		5,4.1	100
+348	maki	当たり前のことでしょ	ユメノトビラ	SR	natural	skill	6603	4998	6246	spGaugeGainRate_probability_none	素敵ね	sp,7	30	appealPlus_passive_myself,voltageGain_spSkillTimes_none	7		appeal,7	100,10
+349	kanata	いっけーーーー！！！	きらきら★ナイトパレード	UR	active	sp	10567	7425	10567	spSkillUp_probability_none	ご乗車ありがとうございます♡	appeal,32	33	appealPlus_passive_sameTeam,spGaugeGainPlus_acStartOnce_sameTeam	7		2.5	100
+350	yoshiko	すごい、すごいわ！	きらきら★ナイトパレード	UR	pure	voltage	12208	7266	9592	appealUp_probability_sameAttribute	パレードマジック	5,7.2	33	appealPlus_passive_sameAttribute,criticalUp_acSuccess_sameAttribute	5.2		5,10	100
+351	rin	ん～、おいしー！	ユメノトビラ	SR	smile	guard	5175	7317	5355	shieldGain_probability_none	星たちと一緒に踊ろう	stamina,27	30	staminaPlus_passive_sameTeam,staminaRecovery_acSuccess_none	5		stamina,6.6	100
+352	maki	キラキラしてる……！	きらきら★ナイトパレード	UR	pure	skill	7908	7190	8866	spGaugeGainRate_probability_none	ハッピーメリーゴーランド	sp,8	33	techniquePlus_passive_everyone,criticalUp_spSkillTimes_everyone	4.2		3,7	100,10
+353	mari	まだまだ行くわよ～	未体験HORIZON	SR	natural	guard	5028	4732	5028	staminaRecovery_probability_none	未来へじゃ～んぷ！	stamina,29	30	staminaPlus_passive_sameAttribute,damageReduction_changeTeamTimes_none	3.2		1,23	100,2
+354	kasumi	どうですか、似合いますか？	Margaret	SR	smile	sp	5175	4732	4879	spGaugeGainUp_probability_everyone	好きになってくれますか？	5,4.2	30	techniquePlus_passive_myself,staminaRecovery_spSkill_none	7		technique,3	100
+355	ayumu	……はい、私の傘に入って	運命の人	UR	cool	skill	11509	6532	13065	voltageGain_probability_none	ずっと、一緒だよ	appeal,37	33	appealPlus_passive_sameSchool,staminaRecovery_acStart_none	5.2		technique,7.5	100
+356	shioriko	あなたから見て、どうですか？	翡翠色の残響	UR	smile	voltage	13375	5598	12130	voltageUp_probability_sameSchool	はじめましょうか	3,10	33	appealPlus_passive_sameSchool,voltageGain_acSuccess_none	5.2		appeal,10.5	100
+357	honoka	ふふっ、こんな感じかなぁ～？	ユメノトビラ	SR	elegant	skill	6603	4104	7140	appealUp_probability_sameTeam	この瞬間を大切に	5,7	30	techniquePlus_passive_sameTeam,skillInvocationUp_acSuccess_sameTeam	5		5,7	100
+358	rina	うん、上手にできました～	アナログハート	SR	cool	sp	7140	4461	6246	spGaugeGainUp_probability_sameAttribute	ココロはいつもオンライン	2,11.2	30	appealPlus_passive_myself,appealUp_spSkillTimes_everyone	7		5,4	100,4
+359	kotori	ふふっ、どうかな？似合う？	サンタガールが街にやってくる	UR	active	voltage	12498	5521	11045	appealUp_probability_sameAttribute	いい子には特別プレゼントを♡	5,7.2	33	appealPlus_passive_sameAttribute,voltageGain_acSuccessOnce_none	5.2		appeal,100	100
+360	setsuna	私にとって1番のプレゼント	サンタガールが街にやってくる	UR	smile	sp	10465	10172	8429	spGaugeGainRate_probability_none	ダイスキをあなたにも♪	sp,9	33	appealPlus_passive_myself,spGaugeGainRate_acStart_none	9		technique,1	100
+361	ruby	ううう……	未体験HORIZON	SR	pure	guard	5355	7317	5175	damageReduction_probability_none	未来まで届くように	5,22	30	staminaPlus_passive_sameTeam,damageReduction_changeTeamTimes_none	5		5,8	100,2
+362	you	やったーーー、勝ちーーー！	サンタガールが街にやってくる	UR	natural	guard	6711	9825	7429	damageReduction_probability_none	どんどん配りに行くよ！	5,26	33	staminaPlus_passive_myself,staminaRecovery_changeTeamOnce_none	9		stamina,60	100
+363	hanayo	すっごくおいしそーーー！！	ユメノトビラ	SR	natural	voltage	6654	4288	3845	voltageUp_probability_sameAttribute	希望の星を追いかけて	5,4.2	30	appealPlus_passive_sameAttribute,voltageGain_acSuccessOnce_none	3.2		appeal,75	100
+364	ai	毎年感動しちゃうよ	楽しいの天才	SR	smile	skill	4732	4141	5916	criticalRateUp_probability_sameTeam	愛さんハンパなーい！	3,12	30	techniquePlus_passive_myself,criticalPlus_musicStart_sameTeam	7		1.5	100
+365	niko	私はいいのよ！	もこもこホワイトスノー	UR	natural	sp	11355	6103	11628	spSkillUp_probability_none	あなたと遊ぶのは楽しいわね	appeal,32	33	techniquePlusAndStaminaPlus_passive_sameTeam,staminaRecovery_spSkillTimes_none	7,3.5		technique,10	100,10
+366	dia	ふふ……♪とても暖かいですね	未体験HORIZON	SR	cool	guard	5712	6069	6069	shieldGain_probability_none	飛べちゃいそうですわ！	stamina,27	30	staminaPlus_passive_sameAttribute,staminaRecovery_spSkillTimes_none	3.2		stamina,6.6	100,8
+367	nozomi	うちらの楽しい夜に乾杯	魅惑のDevil	UR	cool	guard	8282	12718	8577	damageReduction_probability_none	全部お見通しよ♡	4,33	33	appealPlus_passive_sameTeam,staminaRecovery_changeTeamTimes_none	5		stamina,30	100,2
+368	emma	次はデザートに行くよ〜♪	魅惑のDevil	UR	smile	sp	10754	7266	11045	spSkillUp_probability_none	どうしたの？顔が真っ赤だよ？	appeal,32	33	techniquePlus_passive_sameAttribute,spGaugeGainRate_musicStart_none	5.2		technique,3	100
+369	yoshiko	ほんとに別世界の住人って感じ…	未体験HORIZON	SR	cool	voltage	6960	5175	5712	voltageUp_probability_sameAttribute	叶えてみせるわよ！	5,5.2	30	appealPlus_passive_sameAttribute,voltageGain_acSuccess_none	3.2		appeal,7.6	100
+370	hanamaru	まるでライブ会場みたいずら	魅惑のDevil	UR	pure	skill	7670	7190	9107	skillInvocationUp_probability_sameTeam	みんなには内緒ずら♡	5,5	33	appealPlus_passive_sameAttribute,appealPlus_musicStart_sameTeam	5.2		2.5	100
+371	umi	早く待ち合わせ場所に	ユメノトビラ	SR	active	skill	5028	4879	4879	voltageUp_probability_sameTeam	走り続けましょう！	5,4.4	30	techniquePlus_passive_sameTeam,voltageGain_changeTeam_none	5		technique,3	100
+372	karin	さぁ、着いたわよ	FireBird	SR	active	voltage	5028	4879	4879	spSkillUp_probability_none	胸の中の熱い炎	appeal,22	30	techniquePlus_passive_myself,voltageGain_acSuccessOnce_none	7		appeal,75	100
+373	eri	エガオ、エイエン、エリーチカ☆	センセーショナルディーバ	UR	active	skill	12648	7904	11066	shieldGain_probability_none	Force on Me	technique,40	33	appealPlus_passive_sameTeam,staminaRecovery_critical_none	7		technique,3	100
+374	kanan	こんな日はのんびりしよ	Royal Knight	UR	elegant	guard	7711	15100	9315	staminaRecovery_probability_none	守ってあげる♪	stamina,40	33	staminaPlus_passive_sameTeam,damageReduction_changeTeamTimes_none	7		3,17	100,2
+375	kasumi	どっちにしよっかなぁ〜	かすみん☆ユートピア	UR	elegant	voltage	13595	8221	9801	voltageGain_probability_none	世界一カワイイ空間なのです♡	appeal,42	33	appealPlus_passive_sameType,appealUp_acSuccess_sameType	5.2		5,4.1	100
+376	riko	家族になってくれて、ありがとう	未体験HORIZON	SR	elegant	skill	5889	5175	6783	staminaRecovery_probability_none	もっと遠くまでいけそうなの！	technique,29	30	appealPlus_passive_sameAttribute,appealUp_acStart_sameAttribute	3.2		4,4	100
+377	setsuna	ま、漫画、隠さなくちゃ	LIKE IT！ LOVE IT！	SR	pure	sp	6426	4104	7317	spGaugeGainRate_probability_none	ダイスキを届けます	sp,7	30	appealPlus_passive_sameTeam,spSkillUp_spSkillTimes_none	5		appeal,8.6	100,2
+378	hanayo	どうか見守っていてください	色鮮やか☆新春	UR	cool	sp	11535	7985	10057	spSkillUp_probability_none	全部撮っちゃうよ〜いただきっ！	appeal,32	33	appealPlus_passive_sameTeam,spSkillUp_acSuccess_none	7		appeal,7.5	100
+379	riko	ふふ、わかる？	色鮮やか☆新春	UR	smile	voltage	11832	6802	10943	voltageGain_probability_none	今年の抱負を書いてみよう♪	appeal,37	33	appealPlus_passive_sameAttribute,appealPlus_musicStart_sameAttribute	5.2		2	100
+380	ai	愛さんに任せて♪	虹色Passion！	SR	pure	voltage	7262	5082	5807	voltageUp_probability_none	「楽しい」を届けるよ	5,5.2	30	appealPlus_passive_sameAttribute,appealUp_acSuccess_sameAttribute	3.2		5,3.8	100
+381	kanata	大吉パワーを、半分こだよ〜！	色鮮やか☆新春	UR	pure	guard	5272	11505	7190	staminaRecovery_probability_none	みんな〜刀ちゃんに注目♪	stamina,28	33	staminaPlus_passive_everyone,skillInvocationUp_acStart_everyone	4.2		5,6	100
+382	maki	ごくっ……じゃあ、いくわよ！	KiRa-KiRa Sensation!	SR	elegant	sp	5583	4375	5130	spSkillUp_probability_none	光の中で踊ろう	appeal,22	30	appealPlus_passive_sameTeam,shieldGainValue_spSkill_none	5		100	100
+383	hanamaru	お姫様みたいずら〜っ	MIRACLE_WAVE	SR	pure	guard	4678	6038	4375	staminaRecovery_probability_none	奇跡を起こすずら〜！	stamina,29	30	staminaPlus_passive_sameTeam,staminaRecovery_stamina_none	5		stamina,20	50,100
+384	ayumu	休んでないとダメだよ！	ミスティック・フェアリー	UR	pure	voltage	12498	7266	9302	voltageGainAndAppealUp_probability_sameTeam	ずっと覚めない夢を見せてあげる	appeal,23,5,5.4	33	appealPlus_passive_sameTeam,voltageGain_acSuccess_none	7		appeal,10.5	100
+385	dia	温かい……甘くて美味しいですわ	MIRACLE_WAVE	SR	active	sp	6715	5990	5446	spGaugeGainRate_probability_none	一緒ならできますわ	sp,7	30	techniquePlus_passive_sameAttribute,spGaugeGainUp_acSuccessOnce_sameAttribute	3.2		30,8	100
+386	umi	全力できてください！	モーモー♡ファームデイズ	UR	cool	voltage	12423	9168	7985	voltageGain_probability_none	気に入ってもらえたでしょうか…	appeal,37	33	appealPlus_passive_sameSchool,appealUp_acSuccess_sameSchool	5.2		5,4	100
+387	chika	すっごい伸びるね、このおもち！	MIRACLE WAVE	SR	smile	skill	6354	5263	6535	voltageUp_probability_sameTeam	努力の結実	5,5.4	30	appealPlus_passive_sameTeam,skillInvocationUp_acSuccess_sameTeam	5		5,7	100
+388	karin	こんな感じで	モーモー♡ファームデイズ	UR	active	skill	11045	8720	9302	voltageUp_probability_sameAttribute	いい子にしてなさいね♪	5,7.2	33	appealPlus_passive_sameAttribute,criticalRateUp_acSuccess_sameAttribute	5.2		5,10	100
+389	kanan	いつでもオッケーだよ！	モーモー♡ファームデイズ	UR	pure	sp	8078	7588	8812	shieldGain_probability_none	みんな〜あつまれ♡	technique,28	33	techniquePlus_passive_sameAttribute,spGaugeGainRate_musicStart_none	5.2		appeal,2.7	100
+390	honoka	衣装が着れなくなっているなんて	KiRa-KiRa Sensation!	SR	smile	guard	3923	6640	4528	damageReduction_probability_none	おんなじ夢を目指して	5,20	30	staminaPlus_passive_sameAttribute,staminaRecovery_acFailed_none	3.2		stamina,10	100
+391	rina	先生を呼んできた	虹色Passion！	SR	elegant	voltage	6640	3774	4678	appealUp_probability_everyone	つながるエモーション	5,3.2	30	techniquePlus_passive_myself,appealUp_acSuccess_everyone	7		5,3.5	100
+392	niko	うるさいわね……ふわぁ〜	Little Venus	UR	pure	voltage	13493	7388	11244	voltageUp_probability_sameAttribute	Like a Venus	5,8.2	33	appealPlus_passive_sameAttribute,voltageGain_changeTeam_none	5.2		appeal,3	100
+393	you	む〜、悔しい！	宴の艶めき	UR	smile	skill	10923	8352	12852	staminaRecovery_probability_none	舞い降りた天女	technique,40	33	appealPlus_passive_sameTeam,appealPlus_musicStart_sameTeam	7		2.5	100
+394	rin	うう〜〜すっごいかわいいにゃー	KiRa-KiRa Sensation!	SR	elegant	sp	6898	5082	6171	spSkillUp_probability_none	みんなでひとつになったね	appeal,22	30	appealPlus_passive_myself,spGaugeGainUp_changeTeamOnce_sameAttribute	7		30,8	100
+395	shizuku	運命的な出会い	虹色Passion！	SR	active	skill	6715	4174	7262	appealUp_probability_sameTeam	本当の自分を見つけた気がします	5,37	30	appealPlus_passive_sameTeam,staminaRecovery_acSuccess_none	5		technique,6.6	100
+396	honoka	はい、どうぞ	スイート♡ショコラ	UR	natural	sp	11240	7099	11240	spGaugeGainRate_probability_none	ほんのり甘い愛情	sp,9	33	techniquePlus_passive_sameAttribute,spSkillUp_acSuccess_none	5.2		appeal,7.5	100
+397	ayumu	いつも私のことを感じてほしいな	虹色Passion！	SR	smile	voltage	7262	5446	5446	voltageUp_probability_sameAttribute	勇気が湧いてきたよ！	5,5.2	30	appealPlus_passive_sameAttribute,voltagePlus_musicStart_sameAttribute	3.2		1	100
+398	mari	最高にラヴリーな毎日を一緒に	スイート♡ショコラ	UR	active	guard	7099	13015	9465	damageReduction_probability_none	大切な人のために	5,27	33	staminaPlus_passive_sameAttribute,shieldGain_acStart_none	5.2		stamina,3.2	100
+399	shizuku	チョコに乗せて伝えたかったから	スイート♡ショコラ	UR	elegant	skill	8148	7908	7908	voltageUp_probability_sameAttribute	受け取ってください♡	5,6.2	33	staminaPlus_passive_sameAttribute,voltageUp_acSuccess_sameAttribute	5.2		5,3.9	100
+400	ruby	大好きな人にチョコをあげるんだ	MIRACLE WAVE	SR	natural	voltage	6338	4225	4528	criticalRateUp_probability_sameAttribute	奇跡を作るんだぁ！	3,10	30	appealPlus_passive_myself,voltageGain_acSuccess_none	7		appeal,7.5	100
+401	niko	宇宙で一番かわいいチョコ	KiRa-KiRa Sensation!	SR	active	sp	5583	3774	5735	spSkillUp_probability_none	夢を夢で終わらせないわ！	technique,22	30	techniquePlus_passive_myself,spSkillUp_acStart_none	7		appeal,2.6	100
+402	ai	おめでとー！そしてありがとー！	アイ♡ドール	UR	active	voltage	12790	6684	9592	appealUp_probability_sameAttribute	愛さんの美学	5,7.2	33	appealPlus_passive_sameAttribute,appealPlus_musicStart_sameAttribute	6.5		2	100
+403	hanayo	たくさんの人に伝わるような	KiRa-KiRa Sensation!	SR	pure	skill	6898	5446	5807	criticalRateUp_probability_sameTeam	みんなの声、ちゃんと届いたよ♪	3,15	30	techniquePlus_passive_sameTeam,criticalPlus_musicStart_sameTeam	5		1.6	100
+404	shioriko	要検討というところでしょうか	Love U my friends	SR	active	voltage	6960	5355	5532	appealUp_probability_sameAttribute	動き出した夢	5,5.2	30	appealPlus_passive_sameAttribute,spGaugeGainRate_spSkillOnce_none	3.2		appeal,7	100
+405	eri	みんなにもよろしく	スチームパンク☆アドベンチャー	UR	smile	sp	12423	4732	12423	spGaugeGainUp_probability_sameTeam	冒険の始まりよ♪	10,6.2	33	appealPlus_passive_sameTeam,spGaugeGainUp_acSuccess_sameTeam	7		5,12	100
+406	riko	あーーーーっ！いた！！	MIRACLE WAVE	SR	active	guard	5446	7623	5082	shieldGain_probability_none	奇跡の波を乗り越えて	stamina,27	30	staminaPlus_passive_sameAttribute,shieldGain_acSuccess_none	3.2		stamina,2.4	100
+407	chika	こっちのボタンを......あれ？	スチームパンク☆アドベンチャー	UR	pure	guard	8282	13310	7985	staminaRecovery_probability_none	千歌にお任せ♪	stamina,32	33	staminaPlus_passive_sameAttribute,damageReduction_changeTeamTimes_none	5.2		1,44	100,2
+408	setsuna	は、花......花びらです！	スチームパンク☆アドベンチャー	UR	natural	voltage	9302	7099	8078	appealUp_probability_sameAttribute	最高の旅へご案内いたします♪	5,6.7	33	appealPlus_passive_sameAttribute,voltageGain_acSuccess_none	5.2		appeal,10	100
+409	kotori	彼方さんの運命候補達です	KiRa-KiRa Sensation!	SR	smile	sp	5735	5283	4073	skillInvocationUp_probability_sameTeam	いくよ、せーのっ！	5,4	30	techniquePlus_passive_sameTeam,spSkillUp_acStartTimes_none	5		technique,8.6	100,2
+410	kanata	完全無欠のチーズケーキの研究	虹色Passion！	SR	natural	skill	5583	4375	5130	appealUp_probability_sameTeam	溢れだす気持ち	5,4.2	30	appealPlus_passive_sameTeam,skillInvocationUp_acStart_sameTeam	5		5,4	100
+411	yoshiko	どうしよう、どうしよう！？	Angel of Eden	UR	active	sp	13171	7388	11566	spSkillUp_probability_none	二人きりの楽園	appeal,40	33	appealPlus_passive_sameAttribute,spGaugeGainRate_acStart_none	5.2		appeal,1	100
+412	rin	えへへ、冷たくて気持ちいいね～	Rin‘s アトリエ	UR	natural	voltage	13814	6103	12208	voltageGain_probability_none	とっておきのドレスだよ	appeal,42	33	appealPlus_passive_sameAttribute,appealPlus_musicStart_sameTeam	5.2		2.5	100
+413	shioriko	私の恰好、変ではありませんか？	清純♡ラブリーモーメント	UR	cool	guard	8352	14456	9315	staminaRecovery_probability_none	まるで夢みたいです	stamina,40	33	staminaPlus_passive_sameAttribute,revival_musicStart_none	5.2		9	50
+414	kanan	よーし、そのいき！	MIRACLE WAVE	SR	cool	voltage	7078	4355	6715	appealUp_probability_sameTeam	みんなとなら、きっとできる！	5,7	30	appealPlus_passive_sameTeam,voltageGain_acSuccess_none	5		appeal,7.6	100
+415	karin	これは......パンダのクッキー？	虹色Passion！	SR	pure	guard	5807	6898	5446	shieldGain_probability_none	素直な気持ちで	stamina,27	30	staminaPlus_passive_sameTeam,damageReduction_changeTeamTimes_none	5		5,5.4	100,3
+416	hanamaru	おーい、ことりさーん！	ピュアホワイト♡	UR	smile	voltage	12718	6210	10648	appealUp_probability_sameTeam	マルの気持ち、伝わったずら？	5,9	33	appealPlus_passive_sameTeam,appealUp_changeTeam_sameAttribute	7		3,2	100
+417	rina	お願い、力をかして	ピュアホワイト♡	UR	cool	guard	7849	13660	7557	damageReduction_probability_none	喜んでくれると、いいな	4,33	33	staminaPlus_passive_sameTeam,shieldGain_acStart_none	7		stamina,3.2	100
+418	nozomi	……このことだったんやね	KiRa-KiRa Sensation!	SR	elegant	skill	6898	3992	7262	voltageUp_probability_sameTeam	ひとつになって	5,5.4	30	techniquePlus_passive_sameTeam,skillInvocationUp_acStart_sameTeam	5		5,7	100
+419	kotori	ちゃんと届きますように！	ピュアホワイト♡	UR	elegant	skill	8078	7833	8568	spGaugeGainRate_probability_none	しあわせにな〜れ♡	sp,8	33	techniquePlus_passive_sameAttribute,criticalPlus_musicStart_everyone	5.2		1.2	100
+420	you	手触りもたまらない	MIRACLE WAVE	SR	natural	guard	4073	6038	4980	shieldGain_probability_none	限界を超えて	stamina,27	30	staminaPlus_passive_sameTeam,staminaRecovery_damage_none	5		stamina,25	2000,40
+421	emma	だから……ぎゅーっ！	虹色Passion！	SR	active	sp	5735	4073	5283	spGaugeGainUp_probability_everyone	好きなことを、まっすぐに	2,10.5	30	techniquePlus_passive_myself,spGaugeGainRate_musicStart_none	7		technique,4	100
+422	dia	素晴らしいアイデアです！	ホーリーダイアモンド	UR	cool	voltage	13015	6802	9760	voltageUp_probability_sameAttribute	この祈りが届きますように	5,7.2	33	appealPlus_passive_sameTeam,voltagePlus_musicStart_sameAttribute	8.4		2	100
+423	umi	私もさっき来たところです	KiRa-KiRa Sensation!	SR	elegant	voltage	7442	6354	4355	voltageGain_probability_none	この瞬間を楽しみましょう	appeal,37	30	appealPlus_passive_myself,appealUp_acSuccess_everyone	7		3,4	100
+424	ruby	逃げないって決めたのっ！！	サイバーワールド	UR	natural	voltage	12754	8397	9955	appealUp_probability_sameAttribute	ルヴィとリンクしよう♡	5,7.2	33	appealPlus_passive_sameAttribute,appealUp_acSuccess_sameAttribute	5.2		5,4	100
+425	maki	じゃあね、かすみ♪	サイバーワールド	UR	smile	guard	7466	13688	9955	shieldGain_probability_none	ジャックしちゃうわ♪	stamina,32	33	staminaPlus_passive_sameAttribute,shieldGain_damage_none	5.2		stamina,5	500,10
+426	mari	うふっ、この瞬間を待ってたわ～	MIRACLE_WAVE	SR	cool	sp	7436	4576	7055	spSkillUp_probability_none	どーん行くよ♪	appeal,22	30	appealPlus_passive_sameTeam,appealUp_spSkillTimes_everyone	5		5,4	100,4
+427	ayumu	行きます、鞠莉さん！	サイバーワールド	UR	natural	sp	7802	7540	10662	spGaugeGainRate_probability_none	まだログアウトしちゃダメだよ？	sp,8	33	appealPlus_passive_sameAttribute,appealPlus_musicStart_ayumu	5.2		3	100
+428	eri	引っ掛かった私の負けだわ	KiRa-KiRa Sensation!	SR	pure	skill	5603	4963	5443	criticalRateUp_probability_sameAttribute	想いが導いた場所	3,10	30	techniquePlus_passive_myself,voltageGain_criticalTimes_none	7		technique,10	100,10
+429	kasumi	とっておきの方法をかんがえました！	虹色Passion！	SR	cool	guard	4161	7045	4804	staminaRecovery_probability_none	かすみんに注目ですよ！	stamina,29	30	staminaPlus_passive_sameTeam,staminaRecovery_acSuccess_none	5		stamina,6.6	100
+430	hanayo	今は我慢......節制......！	イノセント・ヒーリング	UR	natural	guard	8160	14688	9792	staminaRecovery_probability_none	疲れたらここにおいで♡	stamina,40	33	appealPlus_passive_sameTeam,damageReduction_changeTeamTimes_none	5		1,30	100,5
+431	ai	はい、にっこり～♪	ロマンティック・ローズ	UR	smile	skill	12529	5140	14456	criticalRateUp_probability_sameTeam	Falling in 愛♡	5,20	33	appealPlus_passive_sameAttribute,voltageGain_criticalTimes_none	5.2		technique,15	100,10
+432	yoshiko	い、いつもはこんなことないのよ	MIRACLE_WAVE	SR	smile	sp	6864	5722	6484	spGaugeGainRate_probability_none	ヨハネに任せて！	sp,7	30	appealPlus_passive_sameAttribute,spGaugeGainRate_musicStart_none	3.2		appeal,4	100
+433	setsuna	ぐすっ......何度見ても名作です！	虹色Passion！	SR	cool	voltage	7246	5529	6293	voltageUp_probability_sameAttribute	溢れだすダイスキ	5,5.2	30	appealPlus_passive_sameAttribute,voltagePlus_musicStart_sameAttribute	3.2		1	100
+434	shizuku	私にとって、大切な思い出	Cherry blossom fairy	UR	pure	sp	12684	11066	7904	spSkillUp_probability_none	やっと会えましたね	appeal,32	33	appealPlus_passive_sameAttribute,voltageGain_spSkillTimes_none	5.2		appeal,7	100,10
+435	dia	なんと美しいのでしょうか......	Cherry blossom fairy	UR	natural	guard	8030	13814	10281	shieldGain_probability_none	手をとってくださる？	stamina,32	33	staminaPlus_passive_sameTeam,shieldGain_damageTimes_none	7		stamina,33	350,100,3
+436	rina	いっぱい食べてね	Just Belive!!!	SR	natural	guard	5314	7479	6889	damageReduction_probability_none	いっしょにゴーゴー！	5,22	30	staminaPlus_passive_sameTeam,shieldGain_acStart_none	5		stamina,2.4	100
+437	niko	まるで、夢の世界みたい♪	Cherry blossom fairy	UR	elegant	skill	8649	7837	10539	skillInvocationUp_probability_sameTeam	にこにースマイル満開♡	5,5	33	techniquePlus_passive_sameTeam,skillInvocationUp_acStart_sameAttribute	7		5,7	100
+438	yoshiko	風よ、ヨハネに従いなさい！	HAPPY PARTY TRAIN	SR	pure	skill	5818	3988	6814	staminaRecovery_probability_none	思い出はここに	technique,29	30	techniquePlus_passive_myself,voltageGain_changeTeam_none	7		appeal,3	100
+439	nozomi	つぼみを見るだけでもウチは幸せ	No brand girls	SR	cool	sp	5984	4987	5650	spGaugeGainUp_probability_everyone	勇気があれば大丈夫やで♪	5,4.2	30	appealPlus_passive_myself,spSkillUp_acStart_none	7		appeal,2.6	100
+440	honoka	す～......す～......	キャプテン☆穂乃果	UR	pure	skill	11566	6426	14137	staminaRecovery_probability_none	まだ見ぬ世界へ！	technique,32	33	appealPlus_passive_sameAttribute,skillInvocationUp_spSkill_sameAttribute	6.5		3,10	100
+441	kanata	こっちにおいで	Just Belive!!!	SR	elegant	voltage	8266	3739	7676	voltageUp_probability_sameType	テンション最高潮♪	5,5.2	30	appealPlus_passive_sameType,appealUpType_acStart_sameTeam	4.2		3,voltage,1	100
+442	rin	ごろごろすると気持いいにゃ～	signs of spring	UR	active	voltage	13171	9638	9315	voltageGain_probability_none	凛と遊ぼ！	appeal,37	33	appealPlus_passive_sameTeam,skillInvocationUp_acSuccess_sameAttribute	7		5,15	100
+443	kasumi	かすみん、ただいま戻りました！	Just Belive!!!	SR	pure	voltage	5984	4987	5650	voltageGain_probability_none	かすみんに任せてください☆	appeal,37	30	appealPlus_passive_sameTeam,voltageGain_acSuccessOnce_none	5		appeal,77	100
+444	karin	花占い	signs of spring	UR	elegant	guard	7588	13912	10118	shieldGain_probability_none	花の香りに誘われて	stamina,32	33	staminaPlus_passive_sameAttribute,staminaRecovery_staminaTimes_none	5.2		stamina,28	80,100,2
+445	chika	逃げろ！	signs of spring	UR	natural	sp	8918	6756	11351	spGaugeGainUp_probability_sameGrade	ハチミツよりあま～い時間	3,45	33	techniquePlus_passive_sameGrade,spGaugeGainUp_acStart_sameGrade	5.2		3,18	100
+446	hanayo	凛ちゃんの居場所、分かったかも	No brand girls	SR	elegant	guard	5318	7313	3988	damageReduction_probability_none	勇気で未来を見せて	5,20	30	staminaPlus_passive_everyone,staminaRecovery_stamina_none	2.2		stamina,20	80,100
+447	ruby	はい、これでもう大丈夫♪	HAPPY PARTY TRAIN	SR	smile	skill	6338	4225	4528	criticalRateUp_probability_sameAttribute	奇跡をつくるんだぁ！	3,10	30	appealPlus_passive_myself,voltageGain_acSuccess_none	7		appeal,7.6	100
+448	riko	うわああああああ！！	ラブリー♡ナース	UR	active	sp	13056	9792	9792	spGaugeGainRate_probability_none	診療のお時間です♡	sp,9	33	appealPlus_passive_sameTeam,skillInvocationUp_spSkill_myself	7		3,30	100
+449	emma	こ、ここがダガシヤさん......！	Relaxing Lullaby	UR	natural	skill	12529	5140	14456	criticalRateUp_probability_sameTeam	エマと癒しの時間	5,20	33	appealPlus_passive_sameAttribute,criticalRateUp_spSkill_sameAttribute	5.2		5,15	100
+450	maki	......まだ来そうにないわね	No brand girls	SR	active	guard	5314	7282	7085	damageReduction_probability_none	壁は壊せるもの♪	3,35	30	staminaPlus_passive_sameAttribute,staminaRecovery_acStartTimes_none	3.2		stamina,12	100,4
+451	hanamaru	一緒に砂のお城を作るずら！	HAPPY PARTY TRAIN	SR	natural	sp	6297	4920	8462	spGaugeGainRate_probability_none	ステキな旅に出よう	sp,7	30	appealPlus_passive_sameAttribute,spGaugeGainUp_spSkillOnce_sameAttribute	3.2		10,24	100
+452	kanan	ジャジャーン。かぶとの完成！	ドリーミー☆キッズランド	UR	cool	guard	11244	8352	12529	shieldGain_probability_none	果南お姉さんと遊ぼう	stamina,32	33	staminaPlus_passive_sameAttribute,staminaRecovery_acSuccess_none	5.2		stamina,8.5	100
+453	rina	私はすごく嬉しかった	ドリーミー☆キッズランド	UR	pure	voltage	14228	4109	13280	voltageUp_probability_sameSchool	離さないからね、ぎゅーっ！	3,10	33	appealPlus_passive_sameAttribute,voltagePlus_musicStart_sameAttribute	5.2		2	100
+454	eri	これをこうして、こうして......	No brand girls	SR	natural	guard	6494	7676	5511	staminaRecovery_probability_none	期待溢れる未来へ！	technique,32	30	staminaPlus_passive_sameAttribute,shieldGain_acSuccess_none	3.2		stamina,6.6	100
+455	umi	穂むらの餡は他とは全然違う	ドリーミー☆キッズランド	UR	active	skill	10539	7296	9189	appealUp_probability_sameSchool	今日は一日中遊びましょう♪	5,7.6	33	appealPlus_passive_sameSchool,skillInvocationUp_acSuccess_sameAttribute	5.2		5,36	25
+456	ayumu	ジャジャーン、鯉のぼりでーす	Just Belive!!!	SR	cool	skill	5818	3655	7147	shieldGain_probability_none	限界の向こうへ！	stamina,27	30	techniquePlus_passive_myself,criticalRateUp_changeTeam_sameAttribute	7		2,8	100
+457	mari	璃奈ちゃんボードをプレゼント！	HAPPY PARTY TRAIN	SR	active	voltage	6980	4155	5484	voltageGain_probability_none	思いを乗せて	appeal,37	30	appealPlus_passive_sameGrade,skillInvocationUp_musicStart_everyone	3.2		10,8	100
+458	kanata	ドッキリ、だーいせーいこー	ふわふわ♡おやすみタイム	UR	elegant	sp	12015	4109	15492	spGaugeGainRate_probability_none	アラーム設定解除	sp,9	33	appealPlus_passive_sameAttribute,voltageGain_spSkillTimes_none	6.5		appeal,30	100,20
+459	kotori	海未ちゃんを思って作ったんだ	No brand girls	SR	elegant	voltage	7874	7479	4328	voltageUp_probability_sameType	一進一跳！	5,5.2	30	appealPlus_passive_sameAttribute,appealPlus_musicStart_sameAttribute	3.2		3	30
+460	yoshiko	ダークネスドクター	Around the World	UR	smile	skill	12529	4497	15100	appealUp_probability_sameGrade	闇に染まった天界をご案内するわ	5,7.2	33	appealPlus_passive_sameTeam,criticalRateUp_appeal_sameTeam	7		3,10	20
+461	kasumi	怪しげなかすみん	Around the World	UR	active	guard	5374	14228	12015	staminaRecovery_probability_none	スペシャルプランをお楽しみに♪	stamina,32	33	appealPlus_passive_sameAttribute,appealUp_musicStart_sameAttribute	5.2		5,4	100
+462	you	降るような星空	HAPPY PARTY TRAIN	SR	elegant	skill	5511	6297	7874	voltageUp_probability_sameAttribute	明日が呼んでる！	5,5.2	30	appealPlus_passive_sameAttribute,voltageGain_changeTeam_none	3.2		technique,20	20
+463	maki	急がないと遅れるわね	Around the World	UR	natural	voltage	11351	10812	4864	appealUp_probability_sameAttribute	まもなく出発です♪	5,7.2	33	appealPlus_passive_sameGrade,voltageUp_acSuccess_sameGrade	5.2		5,8	50
+464	emma	遠慮しないで、ア～ン	Just Belive!!!	SR	elegant	guard	3988	6980	5650	staminaRecovery_probability_none	信じる力は無限大！	stamina,32	30	staminaPlus_passive_myself,staminaRecovery_acSuccess_none	7		stamina,6.6	100
+465	niko	私も歌いたくなっちゃうわ	No brand girls	SR	cool	voltage	7313	3655	5650	voltageGain_probability_none	うん、負けないから！	appeal,37	30	appealPlus_passive_myself,appealUp_acSuccess_everyone	7		10,4	50
+466	nozomi	思わぬ出会いがあるもんやね	藤色美人	UR	cool	sp	14035	5875	12729	spSkillUp_probability_none	晩春の散策	appeal,40	33	appealPlus_passive_sameTeam,spSkillUp_spSkillTimes_none	7		appeal,30	100,10
+467	hanamaru	むー！あがらないぃぃぃ......！	不思議の国のマル	UR	natural	voltage	14688	4243	13708	voltageGain_probability_none	ここなら安全ずらよ♪	appeal,42	33	appealPlus_passive_sameTeam,appealPlus_acSuccess_sameTeam	7		0.8	100
+468	chika	しいたけ待って～～！	HAPPY PARTY TRAIN	SR	active	guard	5905	8659	5117	staminaRecovery_probability_none	出発進行、ゴーゴー！	stamina,32	30	staminaPlus_passive_sameAttribute,staminaRecovery_acSuccess_none	3.2		stamina,6.6	100
+469	ai	ちゃんと気持ちを出せてるじゃん	Just Belive!!!	SR	smile	sp	5511	6297	7874	spGaugeGainRate_probability_none	ノーリミット！	sp,7	30	staminaPlus_passive_sameAttribute,staminaRecovery_spSkillTimes_none	3.2		stamina,10	100,10
+470	ruby	カタツムリさんを見てるの	雨に映える花	UR	active	skill	12529	5140	14456	criticalRateUp_probability_sameTeam	どこにいても見つけてね	3,30	33	appealPlus_passive_sameAttribute,criticalRatePlus_acStart_sameTeam	5.2		5	100
+471	ayumu	栞子ちゃん聞いて！	雨に映える花	UR	cool	guard	10600	8352	13171	appealUp_probability_sameType	あなとなら雨も楽しい！	5,8.2	33	appealPlus_passive_sameAttribute,damageReductionAc_acSuccess_none	4.2		12	50
+472	honoka	あーん！お尻打った～！	No brand girls	SR	active	sp	7282	5117	7282	spGaugeGainRate_probability_none	チャンスを掴まえて	sp,7	30	appealPlus_passive_sameAttribute,spSkillUp_acStart_none	3.2		appeal,8	30
+473	shioriko	色が変わっていくんです	Just Belive!!!	SR	natural	guard	5426	8139	5814	damageReduction_probability_none	フルスロットル！	10,10	30	staminaPlus_passive_everyone,staminaRecovery_acSuccess_none	2.2		stamina,6.6	100
+474	eri	たまには悪くないわね♪	雨に映える花	UR	cool	sp	4052	10270	12702	staminaRecovery_probability_none	私とどっちが綺麗かしら	technique,32	33	staminaPlus_passive_sameAttribute,spGaugeGainUp_acStart_sameAttribute	5.2		3,25	50
+475	karin	雨はあまり好きじゃないわね......	Just Belive!!!	SR	cool	skill	6483	5318	4820	skillInvocationUp_probability_sameTeam	飛ばすわよ！	5,4	30	appealPlus_passive_sameTeam,skillInvocationPlus_acSuccessOnce_everyone	5		1.2	30
+476	riko	曲のイメージが湧いてきて......	HAPPY PARTY TRAIN	SR	pure	voltage	7313	3821	5484	appealUp_probability_sameAttribute	終わらない旅をしよう	5,7.2	30	staminaPlus_passive_sameAttribute,voltageGain_acSuccess_none	3.2		appeal,25	30
+477	shioriko	おいしいです......！	ハーモニック・ソング	UR	cool	sp	12529	5460	14137	spGaugeGainRate_probability_none	Shall we song?	sp,9	33	appealPlusAndTechniquePlus_passive_sameTeam,spGaugeGainUpAc_acStart_sameTeam	8.4,4.2		15	100
+478	you	ねえ、すっごく気持ちいい風だね	チアフル☆エール	UR	smile	voltage	14456	6426	11244	voltageGain_probability_none	ワン、ツー、ジャンプ！！	appeal,42	33	appealPlusAndStaminaPlus_passive_everyone,appealUp_acSuccess_everyone	5.2,2.6		5,5	100
+479	umi	もう大丈夫です！	No brand girls	SR	natural	sp	6494	4328	8857	spSkillUp_probability_none	張り切っていきましょう！	technique,,22	30	techniquePlus_passive_myself,spGaugeGainRate_acSuccess_none	7		technique,2	50
+480	niko	みーんなのものなの！	ドレスに思いを馳せて	UR	cool	skill	5548	9139	17952	skillInvocationUp_probability_sameTeam	どうしたの？そんなに見つめて	5,5	33	appealPlus_passive_sameAttribute,appealPlus_musicStart_sameAttribute	5.2		7	30
+481	ai	なかなか上手いっしょ〜	ドレスに思いを馳せて	UR	active	sp	11566	7067	13493	spGaugeGainRate_probability_none	これからも、よろしくね	sp,9	33	appealPlus_passive_sameAttribute,spGaugeGainRate_acStart_none	5.2		technique,1	100
+482	dia	ちょっとご挨拶してきます	HAPPY PARTY TRAIN	SR	elegant	skill	7085	4328	8266	skillInvocationUp_probability_sameTeam	いつでも笑顔で！	5,4	30	appealPlus_passive_everyone,skillInvocationUp_changeTeam_everyone	2.2		10,8	30
+483	mari	い、一体なんなの！？	ドレスに思いを馳せて	UR	pure	voltage	10270	7026	9730	voltageUp_probability_everyone	このときを夢見て	5,6.2	33	appealPlus_passive_sameAttribute,appealPlus_musicStart_sameGrade	5.2		2	100
+484	rin	待って〜、ちょうちょうさ〜ん！	No brand girls	SR	natural	voltage	6980	4820	4820	voltageGain_probability_none	おいでよ！	appeal,37	30	appealPlus_passive_myself,voltagePlus_musicStart_everyone	7		3	30
+485	setsuna	ここを歩いてみたいです！	Just Belive!!!	SR	active	skill	6150	2991	7480	staminaRecovery_probability_none	ダイスキパワー全開！	technique,32	33	techniquePlus_passive_myself,skillInvocationUp_acSuccess_everyone	7		10,8	30
+486	kotori	あなたが結んでくれる？	ことりの衣装室へようこそ♡	UR	smile	skill	12729	5548	14361	criticalRateUp_probability_sameTeam	お手伝いしてくれる？	5,20	33	appealPlus_passive_sameTeam,appealPlus_musicStart_sameTeam	7		2.5	100
+487	rina	こんな感じかな？	Check-mate	UR	pure	sp	13056	4243	15340	spGaugeGainRate_probability_none	隙ありっ！	sp,9	33	appealPlus_passive_everyone,appealUp_spSkill_everyone	4.2		5,12	100
+488	kanan	キミは、どこから来たのかな？	HAPPY PARTY TRAIN	SR	smile	guard	5511	7676	6494	shieldGain_probability_none	きっとなにかが待ってるね	stamina,27	30	staminaPlus_passive_sameTeam,shieldGain_acSuccess_none	5		stamina,6.6	100
+489	shizuku	続きを聞かせてください！	Just Belive!!!	SR	natural	sp	6297	4132	9251	spGaugeGainUp_probability_everyone	全力でいきます！	5,4.2	30	techniquePlus_passive_myself,staminaRecovery_spSkill_none	7		technique,6	50
+490	riko	うーん、美味しい！	夜空のお姫様	UR	natural	voltage	13382	8812	1044	voltageUp_probability_everyone	あなたのもとに飛んでくよ	5,6.2	33	appealPlus_passive_sameAttribute,voltageUpAc_acStart_myself	5.2		15	100
+491	rin	絶好の七夕日和	夜空のお姫様	UR	elegant	guard	10118	11097	11424	shieldGain_probability_none	逢いたかったよ	stamina,32	33	appealPlus_passive_everyone,staminaRecovery_acSuccess_none	3.2		technique,8.5	100
+492	nozomi	お待たせ	Angelic Angel	SR	pure	guard	5796	7996	6195	shieldGain_probability_none	おたがいを信じて♪	stamina,27	30	staminaPlus_passive_sameAttribute,shieldGain_acSuccess_none	3.2		stamina,6	40
+493	kasumi	かすみんのお願いは	夜空のお姫様	UR	cool	skill	9458	4864	12702	appealUp_probability_sameAttribute	一緒に願いを叶えましょう♪	5,7.2	33	appealPlus_passive_sameAttribute,criticalUpAc_acStart_myself	4.2		10	100
+494	chika	なんだか眠くなってきちゃった	未熟DREAMER	SR	smile	voltage	6772	5079	5079	appealUp_probability_sameTeam	もっと成長したい！	5,6	30	appealPlus_passive_sameTeam,voltageGain_acSuccess_none	5		appeal,7.6	100
+495	rina	気持ちを伝えられますように	虹色の心	SR	elegant	skill	5926	3723	7279	staminaRecovery_probability_none	わたしのまごころ	technique,29	30	techniquePlus_passive_sameAttribute,skillInvocationUp_changeTeam_everyone	3.2		10,8	30
+496	setsuna	あなたもどうぞ	漆黒の魔法使い	UR	smile	skill	12529	6103	13493	appealUp_probability_sameTeam	私に夢中になりなさい	5,9	33	appealPlusAndTechniquePlus_passive_everyone,appealPlus_spSkillOnce_everyone	5.2,2.6		5	100
+497	mari	イェーイ♪　ストラーイク！	未熟DREAMER	SR	cool	skill	6796	6596	6596	criticalRateUp_probability_sameTeam	力をあわせて	10,7	30	appealPlus_passive_sameTeam,criticalPlus_musicStart_everyone	5		3	30
+498	karin	お、思ったより、あつふへ......	TWINKLE★STARRY☆NIGHT	UR	elegant	skill	12852	6103	13171	criticalRateUp_probability_sameAttribute	目がくらむようなドキドキを	5,18	33	appealPlus_passive_sameAttribute,criticalRateUp_critical_sameTeam	5.2		3,10	50
+499	hanayo	口に入れたらふわっととろけて	TWINKLE★STARRY☆NIGHT	UR	cool	guard	8486	12729	11424	shieldGain_probability_none	光の速さで君に届けるよ☆	stamina,32	33	staminaPlus_passive_sameAttribute,spGaugeGainRate_musicStart_none	5.2		stamina,10	30
+500	kanata	いきま～す。そりゃっ	虹色の心	SR	elegant	sp	6997	6195	6796	spSkillUp_probability_none	溢れる愛おしさ	technique,22	30	techniquePlus_passive_myself,spSkillUp_acStart_none	7		technique,8	30
+501	yoshiko	ヨハネの行き着く先こそ正義	TWINKLE★STARRY☆NIGHT	UR	natural	voltage	11016	5782	10739	voltageUp_probability_sameTeam	もっともっと熱く！	5,7.2	33	appealPlus_passive_sameAttribute,voltageUpAc_acStart_myself	4.2		10	100
+502	niko	うわあっ！？	Angelic Angel	SR	cool	guard	4400	6602	5926	shieldGain_probability_none	羽ばたくわよ♪	stamina,27	30	staminaPlus_passive_sameGrade,shieldGain_musicStart_none	3.2		stamina,20	20
+503	hanamaru	お、お財布が空っぽずら～～！！	未熟DREAMER	SR	elegant	voltage	6940	3893	6093	voltageGain_probability_none	楽しい未来に！	appeal,37	30	techniquePlus_passive_myself,voltageGain_acSuccess_none	7		appeal,30	30
+504	maki	ここの書斎が、特にお気に入り	魅惑の司書	UR	active	skill	13922	4970	14252	criticalRateUpAndCriticalUp_probability_sameTeam	よくできました♪	5,5,15	33	appealPlus_passive_sameTeam,voltageLimitPlusCritical_musicStart_myself	7		15	
+505	ruby	ん……むにゃむにゃ……	sweet little angel	UR	natural	sp	13260	5304	14586	spGaugeGainRate_probability_none	おやすみの時間だよ♡	sp,9	33	appealPlus_passive_sameAttribute,voltageGain_changeTeamTimes_none	5.2		appeal,30	100,20
+506	eri	身体を大きく動かして	Angelic Angel	SR	natural	skill	6997	4396	8595	criticalUp_probability_sameTeam	胸のブレーキをかけないで♪	10,7	30	appealPlus_passive_myself,criticalPlus_musicStart_everyone	7		3	30
+507	emma	果林ちゃーん！　起きてる～？	虹色の心	SR	elegant	sp	6796	4998	8194	spGaugeGainRate_probability_none	一番近くで	sp,7	30	appealPlus_passive_sameTeam,spGaugeGainRate_musicStart_none	5		appeal,8	50
+508	kanan	写真よりも大きい	トロピカルバケーション	UR	smile	voltage	14035	8486	10118	voltageGainAndAppealUp_probability_sameAttribute	ふふっ♪	appeal,45,3,12	11	appealPlus_passive_sameAttribute,criticalUp_changeTeam_sameAttribute	5.2		3,10	30
+509	honoka	濡れちゃわないように、と......	トロピカルバケーション	UR	pure	skill	12403	6201	14035	voltageGain_probability_none	太陽よりまぶしい笑顔	appeal,60	11	appealPlus_passive_sameAttribute,appealUp_changeTeam_sameAttribute	5.2		5,7.2	30
+510	ruby	ダンスに想いを込める	未熟DREAMER	SR	cool	sp	7795	5997	6195	spGaugeGainUp_probability_sameTeam	お姉ちゃんと一緒に	3,7.6	30	staminaPlus_passive_sameTeam,spGaugeGainUp_spSkillTimes_sameTeam	5		30,9	100,1
+511	kanata	ファイヤー、むにゃむにゃ......	トロピカルバケーション	UR	smile	voltage	11620	5133	10270	voltageUp_probability_sameTeam	ハンモックも最高だね～	5,10	11	appealPlus_passive_sameAttribute,skillInvocationUp_musicStart_everyone	4.2		15,10	30
+512	rin	難しいにゃ～！	Angelic Angel	SR	active	sp	6433	4739	5755	spGaugeGainRate_probability_none	願いが呼んだ出会い	sp,7	30	techniquePlus_passive_myself,spGaugeGainRate_acSuccess_none	7		technique,2	50
+513	kasumi	こっちもいいと思います！	虹色の心	SR	smile	skill	5926	4909	6093	skillInvocationUp_probability_sameAttribute	ずっと見ていてくださいね♪	5,3.5	30	techniquePlus_passive_myself,skillInvocationUp_changeTeam_everyone	7		10,8	30
+514	kotori	はむはむ……	トロピカル☆スカッシュ	UR	active	sp	12729	5875	14035	spGaugeGainRate_probability_none	真夏のオアシス	sp,9	33	appealPlusAndTechniquePlus_passive_sameTeam,skillInvocationUp_spSkill_sameTeam	8.4,4.2		5,15	100
+515	ai	いい色に焼けたでしょー！	虹色の心	SR	cool	guard	5796	7996	6195	staminaRecovery_probability_none	何度でも歌うよ！	stamina,29	30	staminaPlus_passive_everyone,staminaRecovery_acFailed_none	2.2		stamina,10	100
+516	nozomi	まだまだこれからなんだから！	Summer On Stage!!	UR	natural	guard	9139	13382	10118	staminaRecovery_probability_none	希パワー狙い撃ち♡	technique,32	33	staminaPlus_passive_sameAttribute,damageReduction_musicStart_none	5.2		5,10	100
+517	ayumu	すごく素敵なステージ……	Summer On Stage!!	UR	active	skill	11750	7507	13382	criticalUp_probability_sameTeam	暑さに負けないで盛り上がろう♪	5,15	33	appealPlus_passive_sameTeam,appealUp_changeTeamTimes_sameAttribute	7		5,5	100,6
+518	karin	ん......美味しい！	虹色の心	SR	elegant	sp	6997	5796	7195	spGaugeGainUp_probability_sameAttribute	尽きない情熱	2,11.2	30	appealPlus_passive_sameAttribute,spGaugeGainUp_spSkillTimes_sameAttribute	3.2		10,24	100,1
+519	you	イエーイ！	Summer On Stage!!	UR	active	skill	5231	9638	12668	staminaRecovery_probability_none	一番熱い夏を感じさせてあげる♪	technique,32	33	appealPlus_passive_sameAttribute,staminaRecovery_acSuccess_none	4.2		technique,20	30
+520	riko	ジャンプ！！	未熟DREAMER	SR	cool	skill	6262	3723	6940	criticalRateUp_probability_sameAttribute	夢の海を泳いで行こうよ	3,10	30	appealPlus_passive_sameAttribute,spGaugeGainUp_critical_everyone	3.2		3,8	20
+521	umi	きちんと水分補給してくださいね	Angelic Angel	SR	elegant	guard	4739	6940	5246	damageReduction_probability_none	今この瞬間を大切に	5,20	30	staminaPlus_passive_sameAttribute,deactivation_changeTeam_everyone	3.2			20
+522	shizuku	爽やかな森林の香り……	ふわふわ♡しずくま	UR	elegant	voltage	14688	6201	11750	voltageGain_probability_none	甘いお時間	appeal,42	33	appealPlus_passive_myself,criticalUpAc_acStart_myself	15		20	100
+523	chika	ホームラン狙ってこー！	ピュアサマー	UR	cool	skill	12264	6630	14252	spGaugeGainRate_probability_none	夏休みの思い出を作りたい♪	sp,12	11	appealPlus_passive_sameAttribute,skillInvocationPlus_acStart_myself	5.2		20	100
+524	dia	このプリンがとても好きなんです	未熟DREAMER	SR	pure	voltage	7595	5195	7195	voltageGain_probability_none	やっと一緒になれました	appeal,37	30	appealPlus_passive_sameType,voltageUpAc_musicStart_sameAttribute	4.2		2	30
+525	hanayo	気持ちいいな！	Angelic Angel	SR	natural	sp	7195	5195	7595	spGaugeGainUp_probability_sameTeam	恥ずかしがらずに♪	3,7.6	30	techniquePlus_passive_myself,staminaRecovery_spSkill_none	7		technique,6	50
+526	mia	ボクなりのやり方	I'm Still...	SR	elegant	sp	4910	6664	5963	staminaRecovery_probability_none	I'm Still dreaming	technique,32	30	appealPlus_passive_sameAttribute,shieldGain_stamina_none	3.2		stamina,13.2	1,100
+527	mia	虹ヶ咲学園3年生	ニューヨーク育ちの歌姫	R	cool	sp	4009	3271	3271		Come on. ベイビーちゃん♪							
+528	mia	アメリカンスクールアイドル	天才作曲家	R	pure	guard	3625	3625	4834		ボクらしくいたい							
+529	lanzhu	ほらほら、行きましょ〜	Queendom	SR	pure	skill	6664	3858	7017	criticalUp_probability_sameTeam	あなたの全てを支配してあげる	10,7	30	appealPlus_passive_sameTeam,criticalPlus_musicStart_sameTeam	5		5	30
+530	lanzhu	虹ヶ咲学園2年生	香港からやってきたお嬢様	R	elegant	voltage	3166	3693	3693		ランジュに任せなさい！							
+531	lanzhu	威風堂々スクールアイドル	自身あふれる先導者	R	active	sp	3625	4229	4229		無問題ラ！							
+532	mari	どうか私の願いを叶えて……！	月夜のヴィーナス	UR	smile	sp	11750	7833	13056	spGaugeGainUp_probability_sameTeam	2人きりのゴンドラ	5,32	33	appealPlus_passive_sameAttribute,spGaugeGainUp_changeTeam_everyone	5.2		10,18	30
+533	eri	私が何者か分かったのね	月夜のヴィーナス	UR	elegant	voltage	13382	7507	11750	appealUp_probability_sameAttribute	月光に魅せられて	5,7.2	33	appealPlus_passive_sameAttribute,voltageUpAc_acStart_sameTeam	5.2		5	100
+534	honoka	量間違えちゃった、えへへ♪	Angelic Angel	SR	cool	voltage	7595	5395	6997	voltageGain_probability_none	こころの羽ばたきは止まらない！	appeal,37	30	appealPlus_passive_sameTeam,voltageGain_acStartOnce_none	5		appeal,77	100
+535	ai	アイさんの光魔法はどうよ♪	月夜のヴィーナス	UR	pure	voltage	12392	3579	11566	voltageUp_probability_sameGrade	三日月に込めた想い	3,8.2	33	appealPlus_passive_sameGrade,voltageUpAc_acStart_myself	4.2		10	100
+536	yoshiko	哀れでか弱き妖精よ	未熟DREAMER	SR	active	guard	4062	7109	5755	staminaRecovery_probability_none	みんなと進む道	stamina,32	30	staminaPlus_passive_sameAttribute,staminaRecovery_stamina_none	3.2		technique,20	1,100
+537	setsuna	無事にお屋敷を出られたんですね	虹色の心	SR	smile	sp	6262	4909	5755	spGaugeGainUp_probability_everyone	あなたの声をもっと聞きたいの！	5,4.2	30	techniquePlus_passive_sameTeam,spSkillUp_acStartTimes_none	5		technique,8.6	100,2
+538	emma	いくらでも歩けちゃいそうだね～	癒しをお届け♡エマ郵便	UR	smile	skill	12852	6103	13171	voltageGain_probability_none	ハッピーレター♡フォーユー	appeal,60	11	appealPlusAndStaminaPlus_passive_sameAttribute,voltageUp_changeTeam_sameAttribute	6.5,3.2		3,5	30
+539	kanan	か、風の音かな～	未熟DREAMER	SR	natural	voltage	7996	7595	4396	voltageUp_probability_sameAttribute	みんなとなら乗り越こえられる	5,5.2	30	appealPlus_passive_sameAttribute,appealUp_acSuccess_everyone	3.2		5,4	100
+540	niko	あの幻の映画じゃない！	ウェザー☆コントローラー	UR	pure	skill	11934	8618	12596	criticalUp_probability_sameTeam	シビれさせちゃうにこ♡	5,15	33	appealPlus_passive_sameAttribute,criticalRateUp_appeal_sameTeam	5.2		3,10	20
+541	hanamaru	ここはまるで天国ずら～	ウェザー☆コントローラー	UR	cool	voltage	14035	6528	12076	voltageUp_probability_everyone	ぜーんぶ吹き飛ばしちゃうずら！	5,6.2	33	appealPlus_passive_sameAttribute,voltageUpAc_acStart_myself	5.2		15	100
+542	shizuku	しっ！　静かに	虹色の心	SR	pure	sp	6395	6395	7195	spSkillUp_probability_none	参りましょう！	technique,22	30	techniquePlus_passive_sameTeam,spGaugeGainRate_acSuccess_none	5		technique,2	50
+543	rina	懐中電灯にもできる	ウェザー☆コントローラー	UR	active	guard	6609	12392	8536	staminaRecovery_probability_none	雨は嫌い？	stamina,28	33	staminaPlus_passive_everyone,staminaRecovery_acSuccess_none	4.2		stamina,20	30
+544	you	なんだか嵐の海を行く船みたい	未熟DREAMER	SR	cool	voltage	7109	3726	6093	voltageGain_probability_none	歌おう、一緒に♪	appeal,37	30	appealPlus_passive_myself,voltageGain_acSuccess_none	7		appeal,25	30
+545	maki	リクエストがあるなら聞くわ	Angelic Angel	SR	active	guard	4233	8126	4569	damageReduction_probability_none	大事なときは今！	3,35	30	staminaPlus_passive_myself,damageReduction_changeTeamTimes_none	7		5,8	100,2
+546	umi	ううっ......難しい......	乙女の結婚	UR	cool	skill	13260	5304	14586	criticalRateUpAndVoltageUp_probability_sameTeam	少し休憩しましょうか	5,10,5.2	33	appealPlus_passive_sameTeam,voltageGain_criticalTimes_none	7		appeal,30	100,20
+547	dia	だんだんコツが掴めてきましたわ	ダイヤ♦イリュージョン	UR	natural	sp	12926	4970	15248	spGaugeGainRate_probability_none	ショーの始まりですわ	sp,9	33	appealPlusAndTechniquePlus_passive_sameAttribute,spSkillOverChargeAndSpSkillUpEx_sameAttribute_none	5.2,2.6		200,30	100
+548	kotori	こんな感じはどうかな？	Angelic Angel	SR	natural	skill	6596	4396	8996	staminaRecovery_probability_none	Call Angel！	technique,27	30	techniquePlus_passive_sameAttribute,voltageGain_changeTeam_none	3.2		technique,3	100
+549	ayumu	......どうですか？	虹色の心	SR	smile	guard	5596	8394	5997	staminaRecovery_probability_none	精一杯頑張るからね！	stamina,32	30	staminaPlus_passive_everyone,shieldGain_acSuccess_none	2.2		stamina,6.6	100
+550	shioriko	もう大丈夫ですよ	虹色の心	SR	pure	voltage	7479	6100	6100	appealUp_probability_sameType	もっと近くで見てほしいです	5,7	30	appealPlus_passive_sameType,voltagePlus_musicStart_sameType	4.2		1	100
+551	yoshiko	ちょっと、真姫ー！	おしゃれマジック☆	UR	active	guard	9944	10608	12596	staminaRecovery_probability_none	おかしくないかな......？	stamina,32	33	staminaPlus_passive_sameAttribute,appealPlus_musicStart_sameAttribute	5.2		2	100
+552	kasumi	最高にかわいいでしょ～～～？	おしゃれマジック☆	UR	smile	voltage	13708	8160	10771	voltageUp_probability_sameAttribute	一緒にお出かけしませんか♡	5,7.2	33	appealPlus_passive_sameAttribute,appealUp_changeTeam_sameAttribute	5.2		5,7.2	30
+553	mia	......うーん、どうかな？	L！L！L！（Love the Life We Live）	SR	active	voltage	7497	6426	3927	voltageGain_probability_none	芽生えたときめき	appeal,37	30	appealPlus_passive_sameAttribute,voltageGain_acSuccess_none	3.2		appeal,7.6	100
+554	maki	なっ、なによこれ......っ！？	おしゃれマジック☆	UR	smile	sp	9816	6450	11780	spGaugeGainRate_probability_none	悪くないでしょ？	sp,7	33	techniquePlus_passive_sameAttribute,spGaugeGainRate_musicStart_none	5.2		technique,9	30
+555	hanamaru	すてきずら～！！	WATHER BLUE NEW WORLD	SR	active	sp	6721	4652	5858	spSkillUp_probability_none	マルたちをつなぐ想い	appeal,22	30	techniquePlus_passive_myself,spGaugeGainRate_acSuccess_none	7		technique,2	50
+556	emma	見て見て！　どうかな？	L！L！L！（Love the Life We Live）	SR	elegant	skill	6032	3617	7582	criticalRateUp_probability_sameTeam	何度だって伝えるよ♪	10,7	30	appealPlus_passive_everyone,voltageGain_changeTeam_none	2.2		technique,20	15
+557	kanan	綺麗に色づいてるね	Autumn Colors	UR	elegant	skill	14252	5966	12926	voltageGain_probability_none	Fall in love	appeal,60	11	appealPlusAndStaminaPlus_passive_myself,skillInvocationUpAc_acStart_myself	18,9		22	100
+558	lanzhu	もっと盛り上がるわよ～！	L！L！L！（Love the Life We Live）	SR	natural	skill	6426	3927	7497	staminaRecovery_probability_none	さぁ一緒に行きましょ！	technique,29	30	techniquePlus_passive_myself,voltageGain_criticalTimes_none	7		appeal,10	100,10
+559	rin	怖ーい狼人間だぞー、がおー！	ドレスアップ♡ハロウィン	UR	pure	voltage	13260	9282	10608	appealUp_probability_sameAttribute	わんダフルタイムだにゃ！	5,7.2	33	appealPlus_passive_sameAttribute,voltageUpAc_acStart_myself	5.2		15	100
+560	riko	実は私も悪戯を考えていたの	ドレスアップ♡ハロウィン	UR	natural	guard	9944	14916	8286	staminaRecovery_probability_none	私の獲物はどこかしら♡	stamina,32	33	staminaPlus_passive_sameAttribute,shieldGain_appeal_none	5.2		stamina,10	20
+561	mari	みんなどうだったかしら～？	WATHER BLUE NEW WORLD	SR	pure	guard	5276	8119	6899	damageReduction_probability_none	いつだって思い出せるよ	5,20	30	appealPlus_passive_sameAttribute,shieldGain_acSuccess_none	4.2		stamina,6.6	100
+562	shioriko	とっても楽しみです！	ドレスアップ♡ハロウィン	UR	natural	sp	11566	4406	11566	spSkillUp_probability_none	びっくりさせちゃいますよ！	appeal,32	33	appealPlus_passive_sameAttribute,spSkillUp_spSkillTimes_none	4.2		appeal,20	100,10
+563	eri	うぅ、梨子と凛を助けなきゃ！	もぎゅっと”love”で接近中！	SR	smile	sp	6548	4998	5687	spGaugeGainUp_probability_sameAttribute	純情な気持ちで♪	3,7.6	30	appealPlus_passive_sameTeam,spSkillUp_acStart_none	5		appeal,8	30
+564	ai	おかしーね！　お菓子だけに♪	L！L！L！（Love the Life We Live）	SR	active	voltage	7238	3791	6204	appealUp_probability_sameAttribute	もっともっと届けたい！	5,5.2	30	appealPlus_passive_myself,voltageGain_acSuccess_none	7		appeal,7.6	100
+565	karin	気を抜くと眠っちゃいそう	ホーリーヴァイオレット	UR	active	voltage	14916	4308	13922	voltageGain_probability_none	君に届きますように	appeal,42	33	appealPlus_passive_sameAttribute,voltageGain_changeTeamTimes_none	5.2		appeal,30	100,20
+566	honoka	一緒に漫画タイムにしようよ～	お屋敷の案内は任せて	UR	cool	skill	13464	6732	13464	criticalUp_probability_sameTeam	穂乃果のお城へようこそ	5,20	33	appealPlus_passive_sameAttribute,voltageLimitPlusCritical_musicStart_myself	5.2		15	100
+567	you	えへへ、サプライズ大成功～♪	WATER BLUE NEW WORLD	SR	natural	guard	5478	8119	6697	staminaRecovery_probability_none	イマを楽しもう♪	stamina,32	30	staminaPlus_passive_sameTeam,deactivation_spSkill_everyone	5			50
+568	nozomi	あと半分だよ、頑張って	もぎゅっと”love”で接近中！	SR	natural	voltage	7711	7103	5478	appealUp_probability_sameAttribute	世界一ハッピーな恋♡	5,5.2	30	appealPlus_passive_sameAttribute,voltageGain_acSuccess_none	3.2		appeal,30	30
+569	shizuku	内容は全て頭に入りました	アオハル☆カーニバル	UR	smile	voltage	13708	7507	11424	voltageUp_probability_sameTeam	先輩、一口どうぞ♪	5,8.2	33	appealPlus_passive_sameTeam,voltageUpAc_acStart_sameTeam	7		5	100
+570	dia	さようなら、わたくしの王子様	アオハル☆カーニバル	UR	pure	guard	11270	8948	12926	damageReduction_probability_none	今日は弾けますわよ！	4,33	33	staminaPlus_passive_everyone,staminaRecovery_acStart_none	4.2		stamina,7.2	100
+571	riko	綺麗な旋律	WATER BLUE NEW WORLD	SR	pure	guard	5478	7915	6899	damageReduction_probability_none	この時を楽しくしたい	3,35	30	staminaPlus_passive_everyone,shieldGain_musicStart_none	2.2		stamina,20	20
+572	kotori	魔法をかけてさしあげますよ♪	アオハル☆カーニバル	UR	elegant	skill	10658	6170	11220	voltageGain_probability_none	萌え萌えにゃんにゃん♡	appeal,52	11	appealPlus_passive_sameAttribute,criticalUpAc_acStart_myself	4.2		10	100
+573	maki	はぐれないでよ、歩夢	もぎゅっと”love”で接近中！	SR	smile	voltage	6548	4998	5687	appealUp_probability_everyone	ダイスキの奇跡を	5,3.2	30	appealPlus_passive_myself,voltagePlus_musicStart_everyone	7		3	30
+574	ayumu	お、お帰りなさいませ、ご主人様	L！L！L！（Love the Life We Live）	SR	elegant	sp	6032	3791	7411	criticalRateUp_probability_sameTeam	明日へ夢を繋ごう	10,7	30	techniquePlus_passive_sameTeam,spGaugeGainUp_spSkillTimes_sameTeam	5		30,9	100,1
+575	hanamaru	よかったら、どうぞ	花丸◎物語	UR	active	sp	12926	9612	10608	spSkillUp_probability_none	これからも紡いでいきたい	appeal,40	33	appealPlusAndStaminaPlus_passive_sameAttribute,spSkillOverChargeAndSpSkillUpEx_sameAttribute_none	6.5,3.2		200,30	100
+576	kasumi	「かすみん」って呼んでください	L！L！L！（Love the Life We Live）	SR	cool	skill	6697	5478	8119	voltageUp_probability_sameTeam	ねぇ、何をみて見たい？	5,5.4	30	techniquePlus_passive_myself,voltageGain_changeTeam_none	7		technique,3	100
+577	nozomi	うわぁ、すごいご馳走！	Autumn☆Thanksgiving	UR	active	voltage	14252	8286	10608	voltageUp_probability_sameAttribute	たくさん採れたやん♪	5,7.2	33	appealPlus_passive_sameAttribute,appealUp_changeTeam_sameAttribute	5.2		5,7.2	30
+578	mia	賑やかなのも、案外悪くないかも	Autumn☆Thanksgiving	UR	cool	skill	13922	4970	14252	criticalRateUp_probability_sameTeam	ベイビーちゃん、味見する？	3,30	33	appealPlus_passive_sameTeam,appealPlus_acSuccess_sameTeam	7		7.5	50
+579	rina	ミアちゃんの力になりたい	L！L！L！（Love the Life We Live）	SR	natural	sp	6697	6089	7508	skillInvocationUp_probability_sameTeam	何度でも伝えたい	5,4	30	appealPlus_passive_sameTeam,spSkillUp_acStart_none	5		appeal,2.6	100
+580	ruby	ルビィに任せて！	Autumn☆Thanksgiving	UR	cool	voltage	12620	5610	9816	voltageUp_probability_sameTeam	もうちょっとだけ我慢してね	5,5	33	appealPlus_passive_sameAttribute,voltageUpAc_acStart_myself	4.2		10	100
+581	chika	これも買って帰ろうよ！	WATER BLUE NEW WORLD	SR	active	sp	6032	3447	7756	spSkillUp_probability_none	ミライへ向かおう！	technique,22	30	techniquePlus_passive_myself,staminaRecovery_spSkill_none	7		technique,6	50
+582	honoka	穂むらの秋限定の和菓子	もぎゅっと”love”で接近中！	SR	smile	skill	6032	4998	6204	criticalRateUp_probability_sameAttribute	もっ！ぎゅー！	3,10	30	techniquePlus_passive_sameAttribute,appealUp_acStart_everyone	3.2		4,4	100
+583	kanata	おかしいな、違うのかな......	イッツ・ショータイム☆	UR	smile	sp	13922	4970	14252	spSkillUp_probability_none	ジャッキーン！	appeal,40	33	appealPlusAndStaminaPlus_passive_sameAttribute,appealPlus_spSkill_sameAttribute	6.5,3.2		1.2	50
+584	setsuna	厳しくチェックさせてくださいね！	緑風のティターニア	UR	smile	sp	13260	5966	13922	spGaugeGainRate_probability_none	森の加護を与えましょう	sp,9	33	appealPlusAndTechniquePlus_passive_sameAttribute,spGaugeGain_changeTeam_none	6.5,3.2		800	30
+585	yoshiko	魔界に生きる上で必要な情報	WATER BLUE NEW WORLD	SR	elegant	voltage	7915	5885	6494	appealUp_probability_sameTeam	あきらめない！	5,7	30	appealPlus_passive_myself,voltageGain_acSuccessOnce_none	7		appeal,77	100
+586	umi	なんていい景色	もぎゅっと”love”で接近中！	SR	cool	skill	6697	4464	9133	staminaRecovery_probability_none	うけとめてください	technique,29	30	appealPlus_passive_everyone,criticalPlus_musicStart_everyone	2.2		3	30
+587	rina	光のお花畑	ルミナス♡ナイト	UR	elegant	sp	12596	6630	13922	spSkillUp_probability_none	お迎えにあがりました☆	appeal,32	33	appealPlus_passive_sameTeam,spGaugeGainRate_acStart_none	7		appeal,5	30
+588	you	歩き回って疲れた体にしみるなー	ルミナス♡ナイト	UR	cool	voltage	13922	6630	12596	voltageUp_probability_sameAttribute	なんだか照れちゃうよ	5,7.2	33	appealPlus_passive_sameAttribute,voltageGain_acSuccess_none	5.2		appeal,10.5	100
+589	kanan	まいったなぁ	WATER BLUE NEW WORLD	SR	active	sp	6899	5276	8119	spGaugeGainRate_probability_none	最高のトキメキを	sp,7	30	techniquePlus_passive_myself,staminaRecovery_spSkill_none	7		technique,6	50
+590	hanayo	ありがとう、みんな！	ルミナス♡ナイト	UR	natural	skill	11220	5328	11498	voltageGain_probability_none	キラキラの世界を見せてあげるね	appeal,52	11	appealPlus_passive_sameAttribute,skillInvocationUpAc_acStart_myself	4.2		10	100
+591	kanata	枕も持ってくれればよかったなぁ～	L！L！L！（Love the Life We Live）	SR	smile	guard	4998	6895	5341	shieldGain_probability_none	高鳴るハート	stamina,27	30	staminaPlus_passive_sameGrade,shieldGain_stamina_none	3.2		stamina,13.2	50,100
+592	niko	最高の瞬間を切り取って！	もぎゅっと”love”で接近中！	SR	pure	skill	5687	5171	6376	staminaRecovery_probability_none	あま～い恋はいかが？	technique,27	30	techniquePlus_passive_myself,skillInvocationUp_changeTeam_everyone	7		10,8	30
+593	eri	熱々のうちに召し上がれ	スノーファンタジー	UR	natural	skill	12264	5966	14916	staminaRecovery_probability_none	温めてあげる♪	technique,32	33	appealPlusAndTechniquePlus_passive_everyone,voltageGain_spSkillTimes_none	5.2,2.6		technique,30	100,20
+594	karin	ここ、さっきも通ったような......	L！L！L！（Love the Life We Live）	SR	pure	voltage	7915	6290	6089	voltageUp_probability_sameAttribute	気持ちを信じて	5,5.2	30	appealPlus_passive_sameAttribute,voltagePlus_musicStart_sameAttribute	3.2		2	30
+595	lanzhu	世界にひとつだけ......	Luxury Chrismas	UR	cool	skill	13260	6296	13590	spGaugeGainRate_probability_none	アナタにも手伝ってほしいの！	sp,12	11	appealPlus_passive_sameAttribute,skillInvocationUpAc_acStart_myself	5.2		16	100
+596	chika	動画とか見て勉強したんだ～	Luxury Chrismas	UR	elegant	sp	13590	8948	10608	spSkillUp_probability_none	何が入ってるかなー？	appeal,32	33	appealPlus_passive_sameTeam,spGaugeGainRate_musicStart_none	7		appeal,2.7	100
+597	dia	悩んでしまいますわね	WATER BLUE NEW WORLD	SR	natural	sp	6290	5681	8320	spSkillUp_probability_none	がんばってきた時間が愛しい	appeal,22	30	appealPlus_passive_sameTeam,spSkillUp_acStart_none	5		appeal,8	30
+598	umi	毎年すごくワクワクするんです	Luxury Chrismas	UR	smile	guard	5328	13182	9536	staminaRecovery_probability_none	最高のパーティーね♪	stamina,52	11	staminaPlus_passive_sameAttribute,skillInvocationUpAc_acStart_myself	4.2		10	100
+599	rin	かわいくておいしいなんて最高	もぎゅっと”love”で接近中！	SR	pure	voltage	6548	4652	6032	appealUp_probability_sameTeam	もっと見ていてほしいにゃ！	5,7	30	appealPlus_passive_myself,voltageGain_acSuccess_none	7		appeal,7.6	100
+600	shioriko	これで間違いないはず......	L！L！L！（Love the Life We Live）	SR	elegant	skill	6433	4569	5926	criticalRateUp_probability_sameTeam	思い切ってLet's Go!	10,7	30	appealPlus_passive_sameTeam,skillInvocationUp_acStart_everyone	5		10,8	30
+601	ayumu	うん、待ってて！	祝福のともしび	UR	pure	voltage	14472	5721	13464	voltageGain_probability_none	2人で灯そう♡	appeal,42	33	appealPlusAndTechniquePlus_passive_sameTeam,voltageGain_appeal_none	7,3.5		appeal,15	50
+602	mari	楽しいドライブの始まりよ〜！	魅惑の怪盗マリー	UR	pure	voltage	13799	7740	12117	appealUp_probability_sameTeam	捕まえてごらん	5,7.6	33	appealPlusAndTechniquePlus_passive_sameTeam,appealUp_acSuccess_sameTeam	7,3.5		5,8.6	50
+603	kotori	はむっ。ん〜、美味しい！	もぎゅっと”love”で接近中！	SR	active	guard	5681	8320	6290	damageReduction_probability_none	ぴゅあらぶ♡	3,35	30	staminaPlus_passive_myself,damageReduction_changeTeamTimes_none	7		5,5.4	100,3
+604	shizuku	ふふっ、雪ウサギです！	L！L！L！（Love the Life We Live）	SR	cool	skill	6899	5073	8320	appealUp_probability_sameTeam	どこまでも追いかけるよ！	5,7	30	appealPlus_passive_everyone,voltageGain_changeTeam_none	2.2		appeal,20	15
+605	niko	作るのも可愛くなくっちゃね	晴れ晴れ新春	UR	cool	sp	12790	7740	13126	spGaugeGainUp_probability_sameTeam	新年もにこっと♪	10,6.6	33	appealPlus_passive_sameTeam,spSkillUp_acSuccess_none	7		appeal,7.5	100
+606	ai	絶品のおしるこなの、推しだけに	晴れ晴れ新春	UR	smile	voltage	12664	9944	10938	voltageGain_probability_none	あけおめことよろー♪	appeal,37	33	appealPlus_passive_sameAttribute,appealPlus_acSuccessOnce_everyone	5.2		5	30
+607	ruby	お姉ちゃんから教わったから	WATER BLUE NEW WORLD	SR	elegant	guard	5885	8320	6089	staminaRecovery_probability_none	ココロに刻むんだ！	stamina,32	30	staminaPlus_passive_everyone,shieldGain_stamina_none	2.2		stamina,20	50,100
+608	emma	緊張するけど頑張って書こう！	晴れ晴れ新春	UR	cool	guard	6884	11841	8812	staminaRecovery_probability_none	そーれっ！	stamina,29	33	staminaPlus_passive_everyone,skillInvocationUp_acStart_everyone	4.2		5,6	100
+609	setsuna	あとちょっとだったのに！	L！L！L！（Love the Life We Live）	SR	elegant	skill	5687	4480	7065	skillInvocationUp_probability_sameTeam	大好きがNonstop！	5,3.5	30	techniquePlus_passive_sameAttribute,criticalPlus_musicStart_everyone	3.2		3	30
+610	hanayo	稲穂を編み込んでみたの	もぎゅっと”love”で接近中！	SR	cool	voltage	7065	4308	5858	appealUp_probability_sameType	めしあがれ♡	5,7	30	appealPlus_passive_sameType,voltagePlus_musicStart_sameType	4.2		1	100
+611	rina	私、今すごく幸せ	Rina♡Cat	UR	natural	sp	11444	8751	13464	spGaugeGainRate_probability_none	はんぺん、ぎゅー	sp,9	33	appealPlus_passive_sameAttribute,spSkillUp_acSuccess_none	6.5		appeal,8	100
+612	honoka	すっごくいい感じだった！	僕らは今のなかで	SR	pure	sp	6592	5767	8241	criticalRateUp_probability_sameTeam	We'll be star！	10,7	30	appealPlus_passive_sameTeam,spGaugeGainUp_spSkillTimes_sameTeam	5		30,9	100,1
+613	karin	ん〜、トラちゃんどこ〜……	寅ユニット結成！！	UR	smile	voltage	12926	9612	10608	appealUp_probability_sameTeam	私に勝てるかしら	5,9	33	appealPlus_passive_sameTeam,appealUp_changeTeam_sameAttribute	7		3,2	100
+614	kotori	いくよ〜、えいっ！	寅ユニット結成！！	UR	cool	guard	7740	13799	12117	damageReduction_probability_none	お散歩の時間だよー！	4,33	33	staminaPlus_passive_sameTeam,shieldGain_acSuccess_none	7		stamina,3.2	100
+615	ayumu	ふふっ、かわいい〜	虹色のワルツ	SR	natural	voltage	7827	6385	6385	voltageGain_probability_none	どうかな……？	appeal,37	30	appealPlus_passive_everyone,voltageGain_acSuccessOnce_none	2.2		appeal,77	100
+616	hanamaru	おーいトラちゃーん！	寅ユニット結成！！	UR	elegant	skill	11424	5426	11709	spGaugeGainRate_probability_none	テッペン目指すずら！	sp,8	33	techniquePlus_passive_sameAttribute,criticalPlus_musicStart_everyone	5.2		1.2	100
+617	maki	よしよし、いい子ね……	僕らは今のなかで	SR	cool	sp	6664	3682	7191	spGaugeGainUp_probability_sameAttribute	とびきりの笑顔で♪	2,11.2	30	techniquePlus_passive_myself,spGaugeGainUp_spSkillTimes_sameAttribute	7		10,24	100,1
+618	chika	モデルは動いちゃだめだよ〜	MY舞☆TONIGHT	SR	pure	skill	6490	4559	6490	staminaRecovery_probability_none	最高の今日にしよう！	technique,29	30	techniquePlus_passive_myself,voltageGain_changeTeam_none	7		technique,20	15
+619	kanan	ここは伸びやかに歌う、っと	Grand blue fairy	UR	natural	voltage	14007	7858	12301	voltageGain_probability_none	キミを惑わせちゃおうかな	appeal,42	33	appealPlus_passive_sameAttribute,appealPlus_musicStart_sameTeam	5.2		2.5	100
+620	mia	いきなりこんなのは無理だもん！	I'm here	UR	natural	sp	13325	9224	11616	spSkillUp_probability_none	ボクから目を離さないでよね	appeal,40	33	appealPlus_passive_sameAttribute,spGaugeGainRate_acStart_none	5.2		appeal,1	100
+621	rin	見て見てー！　雪だよー！	僕らは今のなかで	SR	elegant	guard	5767	8857	5974	damageReduction_probability_none	夢は大きく！	5,20	30	staminaPlus_passive_myself,shieldGain_stamina_none	7		stamina,13.2	80,100
+622	kasumi	う、嬉しいよぉ……	虹色のワルツ	SR	cool	voltage	8034	5767	6797	appealUp_probability_sameTeam	かすみんは待ってますよ♡	5,7	30	appealPlus_passive_sameTeam,voltageGain_acSuccess_none	5		appeal,30	30
+623	yoshiko	チョ、チョコがーっ！	ロゼ♡スイート	UR	smile	sp	12453	8414	12790	spGaugeGainUp_probability_sameTeam	悪い子にはあげないからね♡	3,50	33	appealPlus_passive_sameAttribute,spGaugeGainRate_musicStart_none	5.2		technique,3	100
+624	maki	もう　からかわないで！	ロゼ♡スイート	UR	cool	voltage	14137	7405	12117	voltageUp_probability_sameAttribute	隣に来てもいいわよ	3,9	33	appealPlus_passive_sameAttribute,voltageUpAc_acStart_myself	5.2		15	100
+625	niko	百本、作っていくんだからね！	僕らは今のなかで	SR	elegant	sp	6592	6181	7827	spGaugeGainRate_probability_none	みんなを笑顔にさせちゃうにこ！	sp,7	30	appealPlus_passive_sameAttribute,spGaugeGainUp_spSkillTimes_sameAttribute	3.2		10,24	100,1
+626	kanata	バラ型のチョコを作ったの！	ロゼ♡スイート	UR	cool	skill	9816	5610	12620	skillInvocationUp_probability_sameGrade	彼方ちゃんの愛たっぷりだよ〜♡	5,4.5	33	appealPlus_passive_sameAttribute,criticalPlus_musicStart_everyone	4.2		2.5	50
+627	mari	最高にシャイニーよ！	MY舞☆TONIGHT	SR	elegant	voltage	6664	4559	6313	voltageUp_probability_sameAttribute	もっとアツくなりましょ！	5,5.2	30	appealPlus_passive_sameAttribute,voltageGain_acSuccess_none	3.2		appeal,7.6	100
+628	emma	このバラが一番ピッタリだと思う	虹色のワルツ	SR	active	guard	4735	7367	5436	damageReduction_probability_none	一緒に踊りたいな♪	5,20	30	staminaPlus_passive_sameAttribute,shieldGain_acSuccess_none	3.2		stamina,6.6	100
+629	lanzhu	決まりね！　早くいくわよ！	Like a Doll	UR	pure	voltage	13464	9760	10433	voltageUp_probability_sameTeam	ランジュのとっておきなのよ！	5,8.2	33	appealPlusAndTechniquePlus_passive_everyone,voltagePlus_musicStart_sameAttribute	5.2,2.6		2	100
+630	umi	口にクリームがついてますよ	僕らは今のなかで	SR	pure	sp	6797	5562	8241	skillInvocationUp_probability_sameTeam	弱気な私にさよなら！	5,4	30	techniquePlus_passive_sameTeam,staminaRecovery_spSkill_none	5		technique,6	50
+631	ai	そのまま......、動かないでね～	♡猫日和♡	UR	natural	guard	9760	14810	9087	staminaRecovery_probability_none	猫と寝転ぶ♡	stamina,32	33	staminaPlus_passive_sameAttribute,voltageGain_acSuccess_none	5.2		stamina,37	45
+632	dia	リボンの好きな黒猫ちゃ～ん	♡猫日和♡	UR	smile	skill	13126	6058	14472	criticalRateUp_probability_sameTeam	にゃんにゃんですわ♪	5,15	33	appealPlus_passive_sameSchool,criticalUpAc_acStart_sameTeam	5.2		5	100
+633	ruby	みんなリボンに夢中になってる！	MY舞☆TONIGHT	SR	active	skill	5974	5767	8857	shieldGain_probability_none	ルビィと踊ろ♪	technique,27	30	techniquePlus_passive_myself,voltageGain_changeTeam_none	7		technique,20	15
+634	nozomi	店員さんからお礼だって	♡猫日和♡	UR	pure	skill	9424	8853	10281	criticalRateUp_probability_sameAttribute	ウチと遊んでほしいな♡	5,14.4	33	appealPlus_passive_sameAttribute,staminaRecovery_criticalTimes_none	4.2		technique,20	10,5
+635	kotori	あっ！このしっぽ！	僕らは今のなかで	SR	cool	voltage	7363	4209	5963	appealUp_probability_everyone	強い自分になっていくよ♪	5,3.2	30	appealPlus_passive_myself,appealUp_acSuccess_everyone	7		5,4	100
+636	karin	ふふっ、くすぐったい	虹色のワルツ	SR	natural	guard	5986	7191	5263	damageReduction_probability_none	エスコートは任せたわ	3,35	30	staminaPlus_passive_myself,shieldGain_stamina_none	7		stamina,13.2	80,100
+637	shizuku	なにか言ってくださいよ〜	Nostalgic Scean	UR	natural	sp	13799	6732	13126	spGaugeGainRate_probability_none	あなたの声を聞きたくて	sp,9	33	appealPlus_passive_sameAttribute,spSkillUp_acSuccess_none	5.2		appeal,33	100
+638	eri	あら、恥ずかしがってる？	リラックス＆リフレッシュ	UR	pure	guard	8883	15374	9907	staminaRecovery_probability_none	喜んでくれるかしら	stamina,40	33	staminaPlus_passive_sameTeam,staminaRecovery_changeTeamTimes_none	7		stamina,30	100,2
+639	you	はむっ……	MY舞☆TONIGHT	SR	smile	skill	6592	5562	8445	staminaRecovery_probability_none	あたらしいことを始めよう！	technique,29	30	techniquePlus_passive_myself,voltageGain_changeTeam_none	7		technique,3	100
+640	shioriko	しっかり学びたいので	翠いカナリア	SR	active	guard	5681	8524	6089	staminaRecovery_probability_none	ありのままの私をみてください！	stamina,32	30	staminaPlus_passive_sameGrade,damageReduction_changeTeamTimes_none	3.2		5,8	100,2
+641	shioriko	シュシュを作っていきましょう！	Colorful♡Knitting	UR	active	skill	13590	5304	14252	voltageUp_probability_sameTeam	自信作ができました♪	5,8.2	33	appealPlus_passive_sameTeam,staminaRecovery_acStart_none	7		technique,6	100
+642	honoka	できたー！	Colorful♡Knitting	UR	elegant	voltage	14137	6394	13126	voltageUp_probability_sameSchool	受け取ってくれる？	5,7.2	33	appealPlus_passive_sameAttribute,appealPlus_musicStart_sameAttribute	5.2		2	100
+643	hanayo	可愛いチャームがいっぱい	僕らは今のなかで	SR	active	sp	7622	5767	7211	spGaugeGainUp_probability_everyone	まだ始まったばかり！	3,6.4	30	appealPlus_passive_myself,spGaugeGainRate_musicStart_none	7		appeal,4	100
+644	setsuna	このシュシュとっても可愛いです	Colorful♡Knitting	UR	cool	guard	5610	12620	9816	shieldGain_probability_none	喜んでくれますか？	technique,29	33	staminaPlus_passive_sameAttribute,staminaRecovery_changeTeamOnce_none	5.2		technique,55	100
+645	ai	で〜きた！	虹色のワルツ	SR	natural	skill	6490	4033	7017	criticalRateUp_probability_sameAttribute	このドレス、ど〜れす？	10,5	30	appealPlus_passive_sameAttribute,appealUp_acStart_everyone	3.2		4,4	100
+646	hanamaru	困ったことがあったら言ってね	MY舞☆TONIGHT	SR	pure	voltage	7191	4735	5613	spSkillUp_probability_none	大きく広がれ！	appeal,22	30	appealPlus_passive_sameGrade,voltagePlus_musicStart_sameGrade	3.2		1	100
+647	umi	わあ、綺麗……	Spring Breeze	UR	elegant	sp	12453	6732	14472	spGaugeGainRate_probability_none	春風を感じながら	sp,9	33	appealPlusAndTechniquePlus_passive_sameAttribute,voltageGain_spSkillTimes_none	6.5,3.2		technique,30	100,20
+648	yoshiko	ふふっ、こっちが優勢よ	MY舞☆TONIGHT	SR	natural	sp	7211	4324	9064	spSkillUp_probability_none	輝きたいところ	technique,22	30	techniquePlus_passive_myself,spGaugeGainRate_musicStart_none	7		technique,4	100
+649	ruby	もぐもぐ……もぐ	ラブリー♡ベリー♡	UR	smile	guard	9760	13799	10098	damageReduction_probability_none	あま〜いっ♡	4,35	33	staminaPlus_passive_sameAttribute,staminaRecovery_acSuccess_none	5.2		stamina,8.8	100
+650	niko	ケーキ作りならニコに任せなさい	ラブリー♡ベリー♡	UR	active	voltage	14007	8540	11616	appealUp_probability_sameSchool	ほら、隣に座って？	5,9	33	appealPlus_passive_sameSchool,criticalUp_changeTeam_sameAttribute	5.2		3,10	30
+651	riko	あーん	MY舞☆TONIGHT	SR	smile	voltage	8034	5562	7004	voltageUp_probability_everyone	明日へとつなげよう！	5,4	30	appealPlus_passive_sameTeam,voltagePlus_musicStart_everyone	5		1	30
+652	mari	シャイニーストロベリーミルクよ	ラブリー♡ベリー♡	UR	active	sp	11424	5140	11995	spSkillUp_probability_none	マリーのスペシャルティータイム	technique,32	33	appealPlus_passive_sameTeam,spGaugeGainUp_acSuccess_sameTeam	7		5,10	100
+653	mia	できた！ いちご、取れたよ	虹色のワルツ	SR	cool	skill	6664	3508	7367	spGaugeGainRate_probability_none	緊張しなくていいよ	sp,7	30	techniquePlus_passive_sameGrade,spGaugeGainUp_acSuccess_everyone	5.2		10,8	30
+654	shizuku	品種名も覚えているので	虹色のワルツ	SR	smile	guard	5436	7541	4559	damageReduction_probability_none	とっても楽しいです♪	10,10	30	staminaPlus_passive_myself,staminaRecovery_acStart_none	7		stamina,4.5	100
+655	you	なんだかロマンチック♪	マジカル☆YELL	UR	cool	voltage	14692	7858	11616	voltageGain_probability_none	届け！マジカルパワー☆	appeal,42	33	appealPlus_passive_sameSchool,voltageGain_acSuccess_none	5.2		appeal,10.5	100
+656	kasumi	どっちのほうがかわいいですか？	ファンシー☆ピンク	UR	elegant	sp	13126	6394	14137	shieldGain_probability_none	かすみんしか勝たんよね？	technique,40	33	appealPlus_passive_sameTeam,staminaRecovery_acStart_none	7		technique,7.5	100
+657	eri	私のももう少しでできるわ	僕らは今のなかで	SR	elegant	sp	7827	5562	7211	spSkillUp_probability_none	これからよ！	appeal,22	30	appealPlus_passive_sameAttribute,voltageGain_spSkillTimes_none	3.2		appeal,7	100,10
+658	dia	仕方ありませんわね	MY舞☆TONIGHT	SR	pure	guard	5974	8857	5767	shieldGain_probability_none	夢見て踊りましょう	stamina,27	30	staminaPlus_passive_sameAttribute,shieldGain_acSuccess_none	3.2		stamina,6.6	100
+659	emma	春を感じてる	夜桜乙女	UR	elegant	voltage	13590	7956	11600	voltageGain_probability_none	月に照らされて	appeal,37	33	appealPlus_passive_sameSchool,appealUp_acSuccess_sameSchool	5.2		5,4	100
+660	ayumu	ごめん、遅くなって	夜桜乙女	UR	smile	sp	13464	9087	11106	spSkillUp_probability_none	思いを馳せて	appeal,32	33	appealPlus_passive_sameAttribute,spGaugeGainRate_acSuccess_none	5.2		appeal,8	30
+661	nozomi	お花見にはぴったりでしょ？	僕らは今のなかで	SR	active	sp	6592	6592	7415	spGaugeGainRate_probability_none	胸の熱さで乗り切ろ♪	sp,7	30	techniquePlus_passive_sameAttribute,spSkillUp_acStart_none	3.2		appeal,8	30
+662	riko	今なら、書ける気がするの！	夜桜乙女	UR	smile	skill	9710	6568	12280	skillInvocationUp_probability_sameAttribute	時を忘れて	5,4.5	33	appealPlus_passive_sameAttribute,criticalPlus_musicStart_everyone	4.2		1.2	100
+663	kanan	ほら、あそこに北斗七星があるの	MY舞☆TONIGHT	SR	elegant	skill	4910	5613	7017	shieldGain_probability_none	道がまた開けたよ	technique,27	30	techniquePlus_passive_sameSchool,staminaRecovery_acSuccess_none	5		stamina,6.6	100
+664	kanata	こっちの方が楽かも〜	虹色のワルツ	SR	cool	voltage	6140	5787	5613	voltageGain_probability_none	大人の魅力が溢れちゃう〜	appeal,37	30	appealPlus_passive_everyone,appealUp_musicStart_everyone	2.2		10,8	50
+665	rin	どうかにゃ？	いま誓いを果たす時	UR	cool	skill	14137	6732	12790	voltageGain_probability_none	お迎えにあがりました！	appeal,60	33	appealPlusAndTechniquePlus_passive_sameAttribute,voltageUp_acSuccess_sameAttribute	6.5,3.2		5,3.9	100
+666	setsuna	次のライブのための研究です！	虹色のワルツ	SR	natural	guard	6592	8445	5562	shieldGain_probability_none	一曲踊りましょう！	stamina,27	30	staminaPlus_passive_myself,shieldGain_stamina_none	7		stamina,20	100,50
+667	hanayo	ん〜！ 美味しい！！	Happy♡Sweet♡Easter	UR	active	sp	12453	7405	13799	spGaugeGainUp_probability_sameTeam	花陽うさぎだよ♡	5,32	33	appealPlus_passive_sameTeam,spGaugeGainRate_acStart_none	7		technique,1	100
+668	chika	って、わああっ！	Happy♡Sweet♡Easter	UR	smile	voltage	14472	6732	12453	voltageUp_probability_sameTeam	楽しい春をお届け☆	5,8.2	33	appealPlus_passive_sameAttribute,voltageGain_acSuccess_none	5.2		appeal,10.5	100
+669	lanzhu	それじゃあ、行って来るわね！	虹色のワルツ	SR	elegant	sp	7827	4120	8652	spGaugeGainUp_probability_sameSchool	ランジュを見ててね！	5,4.8	30	appealPlus_passive_sameSchool,spGaugeGainUp_changeTeamOnce_sameSchool	5		30,9	100
+670	shizuku	見つけられて本当によかったです	Happy♡Sweet♡Easter	UR	active	guard	6854	13423	8282	damageReduction_probability_none	幸せおひとついかがですか？	5,26	33	staminaPlus_passive_sameAttribute,staminaRecovery_acStart_none	5.2		stamina,7.5	100
+671	umi	丁寧に貼って……っと	A song for You! You? You!!	SR	active	voltage	7674	4104	6069	appealUp_probability_sameAttribute	いつもの場所で	3,6.4	30	appealPlus_passive_sameAttribute,appealUp_acStart_everyone	3.2		3,7.2	100
+672	rina	ぴょんぴょん	虹色のワルツ	SR	pure	sp	6664	3332	7541	spGaugeGainRate_probability_none	大人な気分……♪	sp,7	30	techniquePlus_passive_myself,spGaugeGainRate_acSuccess_none	7		technique,3	30
+673	niko	あ、足がしびれて、もうだめ……	パンキッシュ☆にこ	UR	natural	sp	13371	6684	15129	spGaugeGainRate_probability_none	まかせなさい！	sp,9	33	appealPlusAndTechniquePlus_passive_sameAttribute,appealUp_spSkill_everyone	5.2,2.6		5,12	100
+674	ai	これくらい余裕余裕♪	月夜のいざない	UR	cool	sp	13178	6242	15259	spGaugeGainRate_probability_none	素顔はあなただけ	sp,9	33	appealPlus_passive_sameTeam,spSkillOverChargeAndSpSkillUpEx_sameAttribute_none	7		200,30	100
+675	mia	今のみた？？ すごい！！	Colorful Dreams! Colorful Smiles!	SR	smile	guard	6272	8782	5854	staminaRecovery_probability_none	ベイビーちゃん、行くよ	stamina,32	30	staminaPlus_passive_sameSchool,staminaRecovery_acSuccess_none	5		stamina,6.6	100
+676	hanamaru	あっという間だったずら	未来の僕らは知ってるよ	SR	cool	skill	7735	4182	8990	criticalRateUp_probability_sameAttribute	夢のカタチを探して	5,4.2	30	techniquePlus_passive_sameAttribute,criticalRateUp_changeTeam_sameAttribute	3.2		5,4	100
+677	honoka	私、お医者さんだから！	ミラクルスペシャリスト	UR	natural	guard	11274	14692	8200	damageReduction_probability_none	痛いの痛いの、飛んでいけ〜♪	5,27	33	staminaPlus_passive_sameAttribute,staminaRecovery_acStart_none	5.2		stamina,7.2	100
+678	dia	燃えているのは2階です！	ミラクルスペシャリスト	UR	active	voltage	14007	8200	11958	voltageUp_probability_sameSchool	放水！はじめ！	5,7.2	33	appealPlus_passive_sameTeam,voltageUpAc_acStart_sameTeam	7		5	100
+679	karin	こっちも似合ってるかしら？	Colorful Dreams! Colorful Smiles!	SR	active	skill	7317	4808	8782	appealUp_probability_sameSchool	一緒に始めましょう？	5,7	30	appealPlus_passive_sameSchool,criticalPlus_musicStart_sameSchool	7		1	100
+680	ayumu	働くのって楽しいな	ミラクルスペシャリスト	UR	elegant	guard	7266	13080	8720	staminaRecovery_probability_none	街の平和を守りましょう！	stamina,28	33	staminaPlus_passive_everyone,staminaRecovery_changeTeamOnce_none	4.2		stamina,60	100
+681	yoshiko	お荷物をお届けに参りました	未来の僕らは知ってるよ	SR	pure	voltage	7140	5355	5355	voltageGain_probability_none	きっと大きな夢にあえるはず	appeal,37	30	appealPlus_passive_sameType,appealUp_acSuccess_everyone	4.2		5,4	100
+682	eri	麺棒を使って、薄く、まぁるく	A song for You! You? You!!	SR	cool	sp	5175	4998	7674	spGaugeGainRate_probability_none	大切なタカラモノ	sp,7	30	techniquePlus_passive_sameAttribute,spGaugeGainRate_musicStart_none	3.2		technique,4	100
+683	mari	乗ってみたくなったかしら？	パッションステージ	UR	pure	sp	13325	6834	14007	spGaugeGainRate_probability_none	パッション、届いてる〜？	sp,9	33	appealPlusAndTechniquePlus_passive_everyone,skillInvocationUp_spSkill_sameTeam	5.2,2.6		5,15	100
+684	setsuna	おまけですっ！ えいっ！	Colorful Dreams! Colorful Smiles!	SR	active	voltage	8782	5854	6272	appealUp_probability_sameSchool	夢を響かせましょう！	5,7	30	appealPlus_passive_sameSchool,voltagePlus_musicStart_sameSchool	3.2		1	100
+685	you	やっほー。お目覚めかな？	ゆめかわ♡ワンダーランド	UR	natural	sp	13325	7173	13668	spSkillUp_probability_none	たまにはのんびりもいいよね？	technique,32	33	appealPlus_passive_sameAttribute,spSkillUp_acSuccess_none	5.2		technique,7.5	100
+686	kasumi	プリンセスになれるんですね！	ゆめかわ♡ワンダーランド	UR	pure	guard	9760	14472	9424	damageReduction_probability_none	ゆめかわかすみんになれちゃう！	5,27	33	staminaPlus_passive_sameSchool,staminaRecovery_acSuccess_none	5.2		stamina,8.5	100
+687	chika	ふああ……とろけちゃう〜	未来の僕らは知ってるよ	SR	elegant	guard	5018	9200	6691	damageReduction_probability_none	未来をどうしようかな！	5,20	30	staminaPlus_passive_sameSchool,staminaRecovery_stamina_none	3.2		stamina,20	50,100
+688	rin	お花の冠？ かわいいにゃ……	ゆめかわ♡ワンダーランド	UR	smile	sp	10465	6394	12208	spSkillUp_probability_none	かわいいでいっぱいにゃ！	technique,32	33	techniquePlus_passive_friends,spGaugeGainRate_musicStart_none	5.2		technique,9	30
+689	shioriko	かわいいです……	Colorful Dreams! Colorful Smiles!	SR	cool	guard	5263	7191	5086	shieldGain_probability_none	心を繋いで行きましょう	stamina,27	30	staminaPlus_passive_sameGrade,shieldGain_acSuccess_none	3.2		stamina,2.4	100
+690	nozomi	気に入っちゃった♪	A song for You! You? You!!	SR	smile	skill	4461	6069	7317	staminaRecovery_probability_none	希パワー注入！	technique,29	30	techniquePlus_passive_sameTeam,staminaRecovery_acSuccess_none	5		technique,6.6	100
+691	lanzhu	最っ高のドリンクの完成よ！	悠々スクランブル	UR	active	sp	13872	6242	14565	spGaugeGainRate_probability_none	ランジュの虜になりなさい？	sp,9	33	appealPlusAndTechniquePlus_passive_sameAttribute,spSkillUp_spSkillTimes_none	5.2,2.6		appeal,30	100,10
+692	kotori	えへへ、柔軟は得意なんだ！	エレガントナイトパーティー	UR	pure	voltage	14565	7976	12138	voltageGain_probability_none	ことりと踊ってくれる？	appeal,42	33	appealPlusAndTechniquePlus_passive_sameTeam,appealUp_appeal_sameTeam	7,3.5		3,5	50
+693	emma	順番に全部読んじゃおう！	Colorful Dreams! Colorful Smiles!	SR	natural	voltage	8990	3763	8153	voltageGain_probability_none	心をつないで歌いましょう	appeal,37	30	appealPlus_passive_sameAttribute,appealUp_musicStart_sameAttribute	3.2		10,4.2	100
+694	kanan	さあプリンセス、なんてね♪	未来の僕らは知ってるよ	SR	pure	sp	8782	5018	7109	spSkillUp_probability_none	期待ではじけ飛ぼう！	appeal,22	30	appealPlus_passive_sameAttribute,spSkillUp_acStart_none	3.2		appeal,2.6	100
+695	kanata	遥ちゃんが大好きなのだ〜♪	Powerful☆Rock Girls	UR	active	voltage	13799	7405	12453	voltageUp_probability_everyone	彼方ちゃんの音を聴け〜	5,6.2	33	appealPlus_passive_sameAttribute,appealUp_acSuccess_sameAttribute	5.2		5,4	100
+696	eri	握る時はあまり力を入れずに……	Powerful☆Rock Girls	UR	smile	guard	8883	14350	10934	damageReduction_probability_none	さあ、ついて来なさい！	4,33	33	staminaPlus_passive_sameAttribute,shieldGain_acSuccess_none	5.2		stamina,3.2	100
+697	mari	ロックは熱い魂の叫び！	未来の僕らは知ってるよ	SR	natural	skill	7317	4390	9200	spGaugeGainRate_probability_none	雲の間に間に	sp,7	30	techniquePlus_passive_sameAttribute,skillInvocationUp_acStart_sameAttribute	3.2		5,3.5	100
+698	karin	今から聴かせてあげる	Powerful☆Rock Girls	UR	cool	sp	10281	6283	11995	spSkillUp_probability_none	ビートを刻むわよ♪	technique,32	33	techniquePlus_passive_sameAttribute,spGaugeGainRate_acStart_none	5.2		technique,2	30
+699	honoka	じゃーん！ギターも穂乃果です！	A song for You! You? You!!	SR	elegant	guard	4998	7497	5355	damageReduction_probability_none	夢は消えないよ	3,35	30	staminaPlus_passive_sameTeam,staminaRecovery_acStart_none	5		stamina,4.5	100
+700	dia	こんな感じはどうでしょう	未来の僕らは知ってるよ	SR	active	voltage	6960	4641	6246	spSkillUp_probability_none	ひとつひとつ乗り越えて	appeal,22	30	appealPlus_passive_sameGrade,voltageGain_acSuccess_none	3.2		appeal,7.6	100
+701	riko	だーめ。まだ途中だからあとでね	Forest Symphony	UR	elegant	voltage	14350	8540	11274	voltageGainAndAppealUp_probability_sameAttribute	いちにのさんはいっ♪	appeal,45,3,12	33	appealPlusAndTechniquePlus_passive_everyone,criticalUpAc_acStart_sameAttribute	5.2,2.6		10	50
+702	kotori	今度また一緒に行こうよ！	A song for You! You? You!!	SR	pure	voltage	8782	4182	7945	voltageUp_probability_sameSchool	あなたからもらったね	5,5.4	30	appealPlus_passive_sameSchool,voltagePlus_musicStart_sameSchool	3.2		1	100
+703	chika	ほら、あそこ！	マリッジ♡アプローチ	UR	active	guard	9907	15034	9224	staminaRecovery_probability_none	あなたと輝く未来へ！	stamina,32	33	staminaPlus_passive_sameSchool,staminaRecovery_changeTeamTimes_none	5.2		stamina,30	100,2
+704	maki	こっちまで幸せな気分よ	マリッジ♡アプローチ	UR	pure	skill	12640	8540	12983	spGaugeGainRate_probability_none	誓いの言葉、もう1度言って？	sp,12	11	appealPlus_passive_sameAttribute,skillInvocationUpAc_acStart_myself	5.2		16	100
+705	rin	わあ、すっごく綺麗……！	A song for You! You? You!!	SR	cool	sp	7527	5018	8364	spGaugeGainUp_probability_sameAttribute	いつもの場所へ	10,2.2	30	techniquePlus_passive_sameAttribute,spGaugeGainUp_spSkillOnce_sameAttribute	3.2		20,12	100
+706	mia	ボクの歌を歌わせてもらうね	マリッジ♡アプローチ	UR	smile	guard	7557	13080	8429	shieldGain_probability_none	ボクのこと待っててくれるかい？	stamina,29	33	staminaPlus_passive_sameAttribute,staminaRecovery_acStart_none	5.2		stamina,7.5	100
+707	you	ん〜！ おいし〜！	未来の僕らは知ってるよ	SR	active	guard	5712	7674	4461	staminaRecovery_probability_none	ぜったい晴れる！	stamina,32	30	staminaPlus_passive_sameAttribute,staminaRecovery_spSkillTimes_none	3.2		stamina,6.6	100,8
+708	ayumu	いつか私も、大切な人と	Colorful Dreams! Colorful Smiles!	SR	pure	skill	6246	4104	7497	criticalRateUp_probability_sameSchool	カラフルに奏でていこう	3,12	30	techniquePlus_passive_sameSchool,criticalPlus_musicStart_sameSchool	3.2		1	100
+709	ruby	ルビィの気持ち、届いたかな？	➡︎⬅︎⬇︎⬆︎アドベンチャー	UR	elegant	skill	13525	6936	14218	criticalUp_probability_sameTeam	ルビィの大冒険！	5,20	33	appealPlusAndTechniquePlus_passive_sameTeam,voltageLimitPlusCritical_musicStart_myself	3.5,7		15	100
+710	rina	瑠奈ちゃんボード「ムムム」	らぶ♡▽♡りな	UR	active	voltage	14912	5895	13872	voltageGain_probability_none	瑠奈ちゃんボード「らぶらぶ」	appeal,42	33	appealPlusAndTechniquePlus_passive_sameSchool,appealPlus_musicStart_sameSchool	5.2,2.6		2	100
+711	niko	まったく子供ってこれだからね〜	A song for You! You? You!!	SR	smile	sp	7317	4808	8782	spGaugeGainRate_probability_none	精一杯生きてるんだよ	sp,7	30	techniquePlus_passive_myself,spGaugeGainRate_musicStart_none	7		technique,4	100
+712	hanayo	あ、凛ちゃん！	A song for You! You? You!!	SR	elegant	skill	8782	4182	7945	voltageUp_probability_sameAttribute	君へ届けたい	5,5.2	30	techniquePlus_passive_myself,voltageGain_criticalTimes_none	7		appeal,10	100,10
+713	setsuna	最高の友なのですか！！	スターシーカー	UR	pure	voltage	13464	9087	11106	voltageGain_probability_none	大魔術師、優木せつ菜です！	appeal,37	33	appealPlus_passive_everyone,appealPlus_acStartOnce_everyone	4.2		5	30
+714	umi	見てください、この空を	スターシーカー	UR	natural	skill	12983	6834	14350	criticalRateUp_probability_sameTeam	どの星をお好みですか？	3,30	33	appealPlus_passive_sameAttribute,staminaRecovery_acStart_none	5.2		technique,6	100
+715	kanata	見て見て！浴衣だよ〜！	Colorful Dreams! Colorful Smiles!	SR	active	sp	7317	5644	7944	spSkillUp_probability_none	夢色の未来をみんなでつくろ〜	technique,22	30	techniquePlus_passive_sameSchool,spGaugeGainRate_musicStart_none	3.2		appeal,8	50
+716	yoshiko	できないことなんてないの！	スターシーカー	UR	cool	skill	7266	9302	12498	staminaRecovery_probability_none	星よ！我が呼びかけに応えよ！	technique,32	33	techniquePlus_passive_sameAttribute,criticalPlus_musicStart_sameAttribute	5.2		5	30
+717	ruby	衣装をみんなに見てもらいたい！	未来の僕らは知ってるよ	SR	pure	voltage	6603	5355	5889	appealUp_probability_sameGrade	元気な声で呼んでみよう！	10,2.4	30	appealPlus_passive_sameGrade,appealPlus_musicStart_sameGrade	3.2		3	30
+718	lanzhu	ランジュたちお揃いね！	Colorful Dreams! Colorful Smiles!	SR	cool	guard	5889	6246	5712	shieldGain_probability_none	新しい出会いがくれたの	stamina,27	30	staminaPlus_passive_sameSchool,revival_musicStart_none	5		10	30
+719	hanayo	光の雪が降ってるみたい	カラフルストリ➡︎ト	UR	pure	voltage	14692	8540	10934	voltageGain_probability_none	モデルさんらしくできてるよね？	appeal,42	33	appealPlusAndStaminaPlus_passive_everyone,voltagePlus_musicStart_sameAttribute	5.2,2.6		2	100
+720	shizuku	いっぱいもらってきちゃいました	Colorful Dreams! Colorful Smiles!	SR	elegant	sp	6272	5854	8782	spGaugeGainRate_probability_none	一緒なら笑顔になれます	sp,7	30	techniquePlus_passive_everyone,staminaRecovery_spSkill_none	2.2		technique,3	100
+721	hanamaru	あれが目的地の砂浜だよ	サンサン☆フラワーマーク	UR	cool	guard	13668	14007	6491	damageReduction_probability_none	溶けちゃう前に食べるずら！	5,27	33	staminaPlus_passive_sameAttribute,damageReductionAc_acStart_none	5.2		12	50
+722	shioriko	妙にしんみりしてしまいます	サンサン☆フラワーマーク	UR	smile	skill	13126	7067	13464	spGaugeGainRate_probability_none	冷たくって、気持ちいいです！	sp,8	33	appealPlus_passive_sameAttribute,voltageUp_acSuccess_sameAttribute	5.2		5,3.9	100
+723	maki	今なら、いい曲が書けそう	A song for You! You? You!!	SR	natural	guard	5226	8364	7317	damageReduction_probability_none	必然？いや当然かも	10,10	30	staminaPlus_passive_sameAttribute,damageReductionPlus_musicStart_none	3.2		1.2	30
+724	kanan	うーん、おいしい！	サンサン☆フラワーマーク	UR	active	sp	8720	7846	12498	spGaugeGainUp_probability_everyone	夏ならではって感じだね♪	10,6.2	33	techniquePlus_passive_everyone,spGaugeGainUp_acSuccess_everyone	4.2		5,12	50
+725	ai	みてみて、やきそば！	Colorful Dreams! Colorful Smiles!	SR	elegant	skill	6603	4104	7140	criticalRateUp_probability_sameAttribute	愛 go！We go！！	5,4.2	30	techniquePlus_passive_sameAttribute,criticalPlus_musicStart_sameAttribute	3.2		1	100
+726	kasumi	ぷはー！生き返ったー！	Colorful Dreams! Colorful Smiles!	SR	active	sp	5532	6069	6246	spGaugeGainUp_probability_everyone	なんどでも描いちゃいますよ〜！	5,4.5	30	techniquePlus_passive_sameType,spGaugeGainUp_changeTeamOnce_sameType	4.2		30,8	100
+727	emma	いっちにー、さんしー	スプラッシュ♡マーメイド	UR	pure	guard	13325	14350	6491	appealUpAndStaminaRecovery_probability_sameTeam	冷たくて気持ちいいね〜	5,4.5,stamina,20	33	staminaPlus_passive_everyone,appealUp_changeTeamTimes_sameAttribute	4.2		5,10	100,10
+728	nozomi	ほーら、じっとしてて……	アニミズム・メッセンジャー	UR	natural	voltage	14218	6589	13872	appealUp_probability_sameTeam	じっとしてて欲しいんや	5,7.6	33	appealPlusAndTechniquePlus_passive_sameTeam,voltageUp_appeal_sameTeam	7,3.5		3,2.5	100
+729	riko	悩んでる想いをそのまま歌に…	未来の僕らは知ってるよ	SR	natural	guard	6272	8990	5644	staminaRecovery_probability_none	歌いながら、雨に濡れながら	stamina,32	30	staminaPlus_passive_myself,staminaRecovery_acFailed_none	7		stamina,20	50
+730	rina	璃奈ちゃんボード「はわわ」	Colorful Dreams! Colorful Smiles!	SR	smile	voltage	9200	4600	7109	voltageGain_probability_none	高鳴り、感じる……	appeal,37	30	appealPlus_passive_sameAttribute,appealUp_acStart_sameAttribute	3.2		5,3.8	100
+731	kotori	どんな夢見てるのかな	ロイヤルナイトプール	UR	smile	sp	13525	7282	13872	spGaugeGainRate_probability_none	ステキな景色だね	sp,9	33	techniquePlus_passive_sameAttribute,spGaugeGainUpAc_acStart_sameAttribute	5.2		10	100
+732	you	ぷはっ！気持ちいい〜！	ロイヤルナイトプール	UR	elegant	guard	9363	14912	10404	shieldGain_probability_none	たまにはこういうのもアリだね！	stamina,32	33	staminaPlus_passive_everyone,staminaRecovery_acSuccess_none	4.2		stamina,8.5	100
+733	ayumu	はい、あ〜ん	未来ハーモニー	SR	active	sp	7425	5515	8272	spGaugeGainUp_probability_sameAttribute	踏み出してねほんと良かった！	3,7.2	30	techniquePlus_passive_sameAttribute,spGaugeGainRate_musicStart_none	3.2		appeal,10	30
+734	rina	ちょっと顔を水につけてみる……	ロイヤルナイトプール	UR	cool	skill	10648	7394	11535	spGaugeGainRate_probability_none	このあと、泳ぐ……？	sp,8	33	techniquePlus_passive_sameAttribute,skillInvocationUpAc_acStart_myself	5.2		10	100
+735	umi	あははっ、やりましたね！	Mermaid festa vol.1	SR	smile	guard	5627	7262	5263	staminaRecovery_probability_none	二度とこない切ないフェスタ	stamina,32	30	staminaPlus_passive_sameType,staminaRecovery_acSuccess_none	4.2		stamina,6.6	100
+736	setsuna	もう1度滑りに行きませんか？	未来ハーモニー	SR	pure	skill	6171	4719	7262	skillInvocationUp_probability_sameSchool	奇跡を叶えましょう！	5,4	30	techniquePlus_passive_sameSchool,skillInvocationUp_acStart_sameGrade	3.2		5,3.5	100
+737	mia	今の見た！？すごかったでしょ！	Miracle Fast Diner	UR	elegant	voltage	14565	6589	13525	voltageGain_probability_none	おまたせ、ベイビーちゃん	appeal,42	33	appealPlus_passive_sameTeam,voltageGain_appeal_none	8.4		appeal,15	50
+738	ruby	辛い！辛いよ！	Thank you, FRIENDS!!	SR	natural	skill	5939	6787	8486	staminaRecovery_probability_none	どんな時でも感じてたよ	technique,29	30	techniquePlus_passive_sameAttribute,staminaRecovery_acSuccess_none	3.2		technique,6.6	100
+739	mari	唇や口はナチュラルな状態で…	祭囃子の使者	UR	elegant	guard	10404	14912	9363	staminaRecovery_probability_none	酔いしれちゃったかしら？	stamina,32	33	appealPlusAndStaminaPlus_passive_sameAttribute,staminaRecovery_acSuccess_none	2.6,5.2		stamina,30	30
+740	shizuku	なんとなくコツがつかめました	祭囃子の使者	UR	cool	skill	13325	6834	14007	criticalUp_probability_sameTeam	お腹に響く音を届けます！	5,15	33	appealPlus_passive_sameAttribute,appealPlus_musicStart_sameAttribute	5.2		2	100
+741	niko	よし、今度こそ……ふーっ！！	Mermaid festa vol.1	SR	active	voltage	9121	4454	7636	appealUp_probability_sameAttribute	緊張してる？	3,6.4	30	appealPlus_passive_sameAttribute,voltagePlus_musicStart_sameAttribute	3.2		1	100
+742	eri	みんな、最後までついてきて！	祭囃子の使者	UR	active	voltage	12718	7394	9465	voltageGain_probability_none	祭りを盛り上げて見せるわ！	appeal,35	33	appealPlus_passive_sameAttribute,voltageUpAc_acStart_myself	4.2		10	100
+743	kanan	えいっ、それっ！	Thank you, FRIENDS!!	SR	elegant	voltage	6898	5263	5990	spSkillUp_probability_none	キミもおなじ夢見てたんだね	appeal,22	30	appealPlus_passive_sameSchool,appealUp_acStart_sameSchool	3.2		5,3.8	100
+744	emma	今すっごく楽しいんだ！	未来ハーモニー	SR	pure	guard	4900	7442	5807	shieldGain_probability_none	ずっと寂しかったけど	stamina,27	30	staminaPlus_passive_sameGrade,damageReduction_changeTeamTimes_none	3.2		2,12	100,2
+745	umi	今回は結構手応えがあるんです！	KAWAII最前線！	UR	smile	guard	13019	14778	7388	shieldGain_probability_none	一番かわいい、ですか？	stamina,40	33	staminaPlus_passive_sameType,voltageGain_damage_none	9.3		stamina,10	1000,30
+746	karin	目も閉じてちょうだい	紅き艶麗	UR	pure	skill	13872	6589	14218	criticalRateUpAndCriticalUp_probability_sameTeam	こんな世界もいいものね	5,5,15	33	appealPlusAndTechniquePlus_passive_sameTeam,voltageLimitPlusCritical_musicStart_myself	3.5,7		15	100
+747	ai	今日は自分でもうまくできた！	未来ハーモニー	SR	smile	voltage	9333	4454	7425	voltageGain_probability_none	縮こまってちゃらしくない！	appeal,37	30	appealPlus_passive_sameSchool,appealPlus_musicStart_sameSchool	3.2		1	100
+748	yoshiko	もうちょっとだけ休ませて〜	Thank you, FRIENDS!!	SR	cool	sp	7425	4243	9547	spGaugeGainRate_probability_none	これはなんの奇跡かしら？	sp,7	30	techniquePlus_passive_myself,spSkillUp_spSkillTimes_none	7		technique,8.6	100,2
+749	setsuna	その悪しき野望、打ち砕く！	月夜の煌めき	UR	active	sp	13325	6461	14350	spSkillUp_probability_none	うさぎに代わっておしおきです！	technique,32	33	techniquePlus_passive_sameAttribute,spGaugeGainUp_changeTeam_sameAttribute	5.2		10,12	50
+750	kanan	きっと綺麗な月が見られるよ！	月夜の煌めき	UR	natural	guard	10404	13525	10750	damageReduction_probability_none	一緒にあそこまで競争だよ♪	3,45	33	staminaPlus_passive_everyone,staminaRecovery_staminaTimes_none	4.2		stamina,28	80,100,2
+751	dia	食べられるなんて感無量ですわ！	Thank you, FRIENDS!!	SR	cool	skill	7425	5304	8486	skillInvocationUp_probability_sameAttribute	もう、過ぎた日はかえらないけど	5,3.5	30	techniquePlus_passive_everyone,skillInvocationPlus_acStartOnce_everyone	2.2		1.2	30
+752	shioriko	私、本当に幸せです	月夜の煌めき	UR	pure	voltage	12208	6364	10465	voltageGain_probability_none	皆さんには内緒ですよ	appeal,35	33	appealPlus_passive_sameGrade,appealPlus_musicStart_sameGrade	5.2		2	100
+753	rin	へ、変じゃない？	Mermaid festa vol.1	SR	natural	skill	6171	4900	7078	criticalRateUp_probability_sameAttribute	また、会えるよね？	10,5	30	techniquePlus_passive_sameAttribute,criticalRateUp_changeTeam_sameAttribute	3.2		5,4	100
+754	lanzhu	ランジュ何回でも見返したいわ！	夜明珠	SR	active	voltage	8170	3631	6354	appealUp_probability_sameTeam	Hey! make me excited!!	10,3.5	30	appealPlus_passive_myself,voltageGain_acSuccess_none	7		appeal,7.6	100
+755	maki	あれ、次はこっち！？	エンカウント★ライバル	UR	smile	sp	13525	6589	14565	spGaugeGainRate_probability_none	調子、良さそうじゃない	sp,9	33	appealPlusAndTechniquePlus_passive_sameAttribute,spSkillOverChargeAndSpSkillUpEx_sameAttribute_none	6.5,3.2		200,30	100
+756	kanata	一緒に撮ったんだ〜？	未来ハーモニー	SR	pure	sp	7847	4454	8908	spGaugeGainUp_probability_everyone	目覚める度に夢が咲いていく	5,4.2	30	techniquePlus_passive_sameAttribute,spGaugeGainRate_acSuccess_none	3.2		technique,1	100
+757	hanayo	えっと、ニ、ニコ〜ッ！	ウエスタン・アーツ	UR	smile	skill	13872	7282	13525	voltageUp_probability_sameAttribute	ミラクルショットをご堪能あれ♪	10,4	33	appealPlus_passive_everyone,appealUp_changeTeamTimes_sameAttribute	4.2		5,7.2	100,10
+758	kasumi	かすみんの虜にしてやりますよ〜	ウエスタン・アーツ	UR	natural	sp	12640	7858	13668	spGaugeGainUp_probability_everyone	次はハートを狙い打ちですぅ♪	10,6.2	33	appealPlus_passive_sameAttribute,spGaugeGainUp_changeTeam_everyone	5.2		10,18	100
+759	hanamaru	こんなに次々踊るなんて……！	Thank you, FRIENDS!!	SR	smile	guard	6575	9121	5515	shieldGain_probability_none	感じてたんだ君がいると	stamina,27	30	staminaPlus_passive_sameAttribute,shieldGain_staminaTimes_none	3.2		stamina,13.2	80,100,1
+760	dia	全て終わらせて差し上げますわ！	ウエスタン・アーツ	UR	smile	guard	8874	13310	7394	staminaRecovery_probability_none	どんな的も打ち抜いて見せますわ	stamina,28	33	staminaPlus_passive_everyone,skillInvocationUp_acStart_everyone	4.2		5,6	100
+761	karin	うっ、また外れた……！	未来ハーモニー	SR	elegant	skill	5807	5446	6898	staminaRecovery_probability_none	瞳を開ければ見えてくる	technique,29	30	techniquePlus_passive_sameAttribute,staminaRecovery_acStart_none	3.2		technique,4.5	100
+762	nozomi	罰ゲームでも設定しちゃう？	Mermaid festa vol.1	SR	cool	guard	5627	7623	4900	staminaRecovery_probability_none	夏の恋鳴らしてよ	stamina,32	30	staminaPlus_passive_myself,staminaRecovery_staminaTimes_none	7		stamina,10	80,100,1
+763	chika	しいたけ降りて～～！	くノ一・千歌	UR	pure	sp	14426	5981	14778	spGaugeGainRate_probability_none	ちかっち忍法！なんてね！	sp,9	33	appealPlus_passive_sameAttribute,appealPlus_spSkill_sameAttribute	5.2		1.2	50
+764	ayumu	あなたも近くにいてくれない？	ALL STAR Princess	UR	smile	guard	9148	16537	9499	staminaRecovery_probability_none	輝けてるかな…私	stamina,40	33	appealPlus_passive_sameAttribute,appealPlus_musicStart_sameAttribute	5.2		2	100
+765	mari	レモンかミルクはいる？	Thank you, FRIENDS!!	SR	smile	sp	8272	4029	8908	spGaugeGainRate_probability_none	どこへどこへ向かえばいいの？	sp,7	30	techniquePlus_passive_myself,spGaugeGainRate_changeTeamTimes_none	7		technique,1	9,30
+766	rina	ボードが濡れちゃった……	未来ハーモニー	SR	active	voltage	9121	4243	7847	spSkillUp_probability_none	こんな出会いもあるんだね	appeal,22	30	appealPlus_passive_sameTeam,voltagePlus_musicStart_sameAttribute	5		1	100

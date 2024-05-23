@@ -1,0 +1,3078 @@
+[
+  {
+    "id": "appealPlus_acStart_everyone_UR_small",
+    "skillId": "appealPlus_acStart_everyone",
+    "title": "",
+    "rank": "small",
+    "rarity": "UR",
+    "skillFields": [
+      1
+    ],
+    "conditionFields": [
+      30
+    ],
+    "places": [
+      "dance"
+    ]
+  },
+  {
+    "id": "appealPlus_acStart_friends_SR_medium",
+    "skillId": "appealPlus_acStart_friends",
+    "title": "",
+    "rank": "medium",
+    "rarity": "SR",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [
+      26
+    ],
+    "places": []
+  },
+  {
+    "id": "appealPlus_acStart_sameAttribute_SR_medium",
+    "skillId": "appealPlus_acStart_sameAttribute",
+    "title": "",
+    "rank": "medium",
+    "rarity": "SR",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [
+      26
+    ],
+    "places": []
+  },
+  {
+    "id": "appealPlus_acStart_sameGrade_SR_medium",
+    "skillId": "appealPlus_acStart_sameGrade",
+    "title": "",
+    "rank": "medium",
+    "rarity": "SR",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [
+      26
+    ],
+    "places": []
+  },
+  {
+    "id": "appealPlus_acStart_sameSchool_R_medium",
+    "skillId": "appealPlus_acStart_sameSchool",
+    "title": "",
+    "rank": "medium",
+    "rarity": "R",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "appealPlus_acStart_sameSchool_SR_medium",
+    "skillId": "appealPlus_acStart_sameSchool",
+    "title": "",
+    "rank": "medium",
+    "rarity": "SR",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [
+      26
+    ],
+    "places": []
+  },
+  {
+    "id": "appealPlus_acStart_sameTeam_R_medium",
+    "skillId": "appealPlus_acStart_sameTeam",
+    "title": "",
+    "rank": "medium",
+    "rarity": "R",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "appealPlus_acStart_sameTeam_SR_medium",
+    "skillId": "appealPlus_acStart_sameTeam",
+    "title": "",
+    "rank": "medium",
+    "rarity": "SR",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [
+      26
+    ],
+    "places": []
+  },
+  {
+    "id": "appealPlus_passive_everyone_NR_small",
+    "skillId": "appealPlus_passive_everyone",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      1
+    ],
+    "conditionFields": [],
+    "places": [
+      "meditation",
+      "dance"
+    ]
+  },
+  {
+    "id": "appealPlus_passive_friends_N_small",
+    "skillId": "appealPlus_passive_friends",
+    "title": "",
+    "rank": "small",
+    "rarity": "N",
+    "skillFields": [
+      1
+    ],
+    "conditionFields": [],
+    "places": [
+      "meditation"
+    ]
+  },
+  {
+    "id": "appealPlus_passive_friends_NR_medium",
+    "skillId": "appealPlus_passive_friends",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [],
+    "places": [
+      "pushUp"
+    ]
+  },
+  {
+    "id": "appealPlus_passive_myself_N_small",
+    "skillId": "appealPlus_passive_myself",
+    "title": "",
+    "rank": "small",
+    "rarity": "N",
+    "skillFields": [
+      1
+    ],
+    "conditionFields": [],
+    "places": [
+      "running"
+    ]
+  },
+  {
+    "id": "appealPlus_passive_myself_NR_large",
+    "skillId": "appealPlus_passive_myself",
+    "title": "",
+    "rank": "large",
+    "rarity": "NR",
+    "skillFields": [
+      3
+    ],
+    "conditionFields": [],
+    "places": [
+      "running"
+    ]
+  },
+  {
+    "id": "appealPlus_passive_sameAttribute_NR_medium",
+    "skillId": "appealPlus_passive_sameAttribute",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [],
+    "places": [
+      "running"
+    ]
+  },
+  {
+    "id": "appealPlus_passive_sameAttribute_NR_small",
+    "skillId": "appealPlus_passive_sameAttribute",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      1
+    ],
+    "conditionFields": [],
+    "places": []
+  },
+  {
+    "id": "appealPlus_passive_sameGrade_NR_medium",
+    "skillId": "appealPlus_passive_sameGrade",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [],
+    "places": [
+      "running"
+    ]
+  },
+  {
+    "id": "appealPlus_passive_sameGrade_NR_small",
+    "skillId": "appealPlus_passive_sameGrade",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      1
+    ],
+    "conditionFields": [],
+    "places": [
+      "running"
+    ]
+  },
+  {
+    "id": "appealPlus_passive_sameSchool_NR_medium",
+    "skillId": "appealPlus_passive_sameSchool",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [],
+    "places": [
+      "running"
+    ]
+  },
+  {
+    "id": "appealPlus_passive_sameSchool_NR_small",
+    "skillId": "appealPlus_passive_sameSchool",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      1
+    ],
+    "conditionFields": [],
+    "places": []
+  },
+  {
+    "id": "appealPlus_passive_sameTeam_NR_medium",
+    "skillId": "appealPlus_passive_sameTeam",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [],
+    "places": [
+      "running"
+    ]
+  },
+  {
+    "id": "appealPlus_passive_sameTeam_NR_small",
+    "skillId": "appealPlus_passive_sameTeam",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      1
+    ],
+    "conditionFields": [],
+    "places": [
+      "running"
+    ]
+  },
+  {
+    "id": "appealPlus_passive_sameType_NR_medium",
+    "skillId": "appealPlus_passive_sameType",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [],
+    "places": [
+      "stretch"
+    ]
+  },
+  {
+    "id": "appealPlus_passive_sameType_NR_small",
+    "skillId": "appealPlus_passive_sameType",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      1
+    ],
+    "conditionFields": [],
+    "places": []
+  },
+  {
+    "id": "appealPlus_stamina_sameSchool_R_medium",
+    "skillId": "appealPlus_stamina_sameSchool",
+    "title": "",
+    "rank": "medium",
+    "rarity": "R",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [
+      30,
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_acSuccess_myself_N_large",
+    "skillId": "appealUp_acSuccess_myself",
+    "title": "",
+    "rank": "large",
+    "rarity": "N",
+    "skillFields": [
+      5,
+      3
+    ],
+    "conditionFields": [
+      14
+    ],
+    "places": [
+      "dance"
+    ]
+  },
+  {
+    "id": "appealUp_stamina_myself_N_large",
+    "skillId": "appealUp_stamina_myself",
+    "title": "",
+    "rank": "large",
+    "rarity": "N",
+    "skillFields": [
+      5,
+      3
+    ],
+    "conditionFields": [
+      14,
+      80
+    ],
+    "places": [
+      "swim"
+    ]
+  },
+  {
+    "id": "appealUp_targetVoltage_myself_N_large",
+    "skillId": "appealUp_targetVoltage_myself",
+    "title": "",
+    "rank": "large",
+    "rarity": "N",
+    "skillFields": [
+      5,
+      3
+    ],
+    "conditionFields": [
+      14,
+      30
+    ],
+    "places": [
+      "dance"
+    ]
+  },
+  {
+    "id": "appealUp_acStart_myself_NR_large",
+    "skillId": "appealUp_acStart_myself",
+    "title": "",
+    "rank": "large",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      3
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": [
+      "dance"
+    ]
+  },
+  {
+    "id": "appealUp_acSuccess_friends_NR_medium",
+    "skillId": "appealUp_acSuccess_friends",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_acSuccess_myself_NR_large",
+    "skillId": "appealUp_acSuccess_myself",
+    "title": "",
+    "rank": "large",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      3
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_acSuccess_sameSchool_NR_medium",
+    "skillId": "appealUp_acSuccess_sameSchool",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_acSuccess_sameGrade_NR_medium",
+    "skillId": "appealUp_acSuccess_sameGrade",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": [
+      "dance"
+    ]
+  },
+  {
+    "id": "appealUp_acSuccess_sameAttribute_NR_medium",
+    "skillId": "appealUp_acSuccess_sameAttribute",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": [
+      "dance"
+    ]
+  },
+  {
+    "id": "appealUp_acSuccess_sameTeam_NR_medium",
+    "skillId": "appealUp_acSuccess_sameTeam",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_acSuccess_sameType_NR_medium",
+    "skillId": "appealUp_acSuccess_sameType",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_stamina_friends_NR_medium",
+    "skillId": "appealUp_stamina_friends",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      80,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_stamina_sameAttribute_NR_medium",
+    "skillId": "appealUp_stamina_sameAttribute",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      80,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_stamina_sameSchool_NR_medium",
+    "skillId": "appealUp_stamina_sameSchool",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      80,
+      18
+    ],
+    "places": [
+      "swim"
+    ]
+  },
+  {
+    "id": "appealUp_stamina_sameGrade_NR_medium",
+    "skillId": "appealUp_stamina_sameGrade",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      80,
+      18
+    ],
+    "places": [
+      "swim"
+    ]
+  },
+  {
+    "id": "appealUp_stamina_sameTeam_NR_medium",
+    "skillId": "appealUp_stamina_sameTeam",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      80,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_stamina_sameType_NR_medium",
+    "skillId": "appealUp_stamina_sameType",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      80,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_targetVoltage_friends_NR_medium",
+    "skillId": "appealUp_targetVoltage_friends",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": [
+      "dance"
+    ]
+  },
+  {
+    "id": "appealUp_targetVoltage_sameAttribute_NR_medium",
+    "skillId": "appealUp_targetVoltage_sameAttribute",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_targetVoltage_sameSchool_NR_medium",
+    "skillId": "appealUp_targetVoltage_sameSchool",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_targetVoltage_sameGrade_NR_medium",
+    "skillId": "appealUp_targetVoltage_sameGrade",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_targetVoltage_sameTeam_NR_medium",
+    "skillId": "appealUp_targetVoltage_sameTeam",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_targetVoltage_sameType_NR_medium",
+    "skillId": "appealUp_targetVoltage_sameType",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_acSuccess_everyone_R_small",
+    "skillId": "appealUp_acSuccess_everyone",
+    "title": "",
+    "rank": "small",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      1
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_stamina_everyone_R_small",
+    "skillId": "appealUp_stamina_everyone",
+    "title": "",
+    "rank": "small",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      1
+    ],
+    "conditionFields": [
+      80,
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_targetVoltage_everyone_R_small",
+    "skillId": "appealUp_targetVoltage_everyone",
+    "title": "",
+    "rank": "small",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      1
+    ],
+    "conditionFields": [
+      30,
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_acStart_friends_R_small",
+    "skillId": "appealUp_acStart_friends",
+    "title": "",
+    "rank": "small",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_acStart_sameAttribute_R_small",
+    "skillId": "appealUp_acStart_sameAttribute",
+    "title": "",
+    "rank": "small",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_acStart_sameSchool_R_small",
+    "skillId": "appealUp_acStart_sameSchool",
+    "title": "",
+    "rank": "small",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": [
+      "dance"
+    ]
+  },
+  {
+    "id": "appealUp_acStart_sameGrade_R_small",
+    "skillId": "appealUp_acStart_sameGrade",
+    "title": "",
+    "rank": "small",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_acStart_sameTeam_R_small",
+    "skillId": "appealUp_acStart_sameTeam",
+    "title": "",
+    "rank": "small",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_acStart_sameType_R_small",
+    "skillId": "appealUp_acStart_sameType",
+    "title": "",
+    "rank": "small",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "appealUp_acStart_everyone_SR_small",
+    "skillId": "appealUp_acStart_everyone",
+    "title": "",
+    "rank": "small",
+    "rarity": "SR",
+    "skillFields": [
+      5,
+      1
+    ],
+    "conditionFields": [
+      26
+    ],
+    "places": []
+  },
+  {
+    "id": "comboCount_acStart_none_R_small",
+    "skillId": "comboCount_acStart_none",
+    "title": "",
+    "rank": "small",
+    "rarity": "R",
+    "skillFields": [
+      5
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "comboCount_acSuccess_none_NR_small",
+    "skillId": "comboCount_acSuccess_none",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      5
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": [
+      "pushUp"
+    ]
+  },
+  {
+    "id": "comboCount_musicStart_none_NR_small",
+    "skillId": "comboCount_musicStart_none",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      5
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "comboCount_stamina_none_NR_small",
+    "skillId": "comboCount_stamina_none",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      5
+    ],
+    "conditionFields": [
+      80,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "comboCount_targetVoltage_none_NR_small",
+    "skillId": "comboCount_targetVoltage_none",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      5
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": [
+      "pushUp"
+    ]
+  },
+  {
+    "id": "criticalPlus_acStart_everyone_UR_small",
+    "skillId": "criticalPlus_acStart_everyone",
+    "title": "",
+    "rank": "small",
+    "rarity": "UR",
+    "skillFields": [
+      1
+    ],
+    "conditionFields": [
+      30
+    ],
+    "places": [
+      "stretch"
+    ]
+  },
+  {
+    "id": "criticalPlus_acStart_friends_SR_medium",
+    "skillId": "criticalPlus_acStart_friends",
+    "title": "",
+    "rank": "medium",
+    "rarity": "SR",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [
+      26
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalPlus_acStart_myself_R_large",
+    "skillId": "criticalPlus_acStart_myself",
+    "title": "",
+    "rank": "large",
+    "rarity": "R",
+    "skillFields": [
+      3
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": [
+      "stretch"
+    ]
+  },
+  {
+    "id": "criticalPlus_acStart_sameTeam_SR_medium",
+    "skillId": "criticalPlus_acStart_sameTeam",
+    "title": "",
+    "rank": "medium",
+    "rarity": "SR",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [
+      26
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalPlus_passive_everyone_NR_small",
+    "skillId": "criticalPlus_passive_everyone",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      1
+    ],
+    "conditionFields": [],
+    "places": []
+  },
+  {
+    "id": "criticalPlus_passive_friends_N_small",
+    "skillId": "criticalPlus_passive_friends",
+    "title": "",
+    "rank": "small",
+    "rarity": "N",
+    "skillFields": [
+      1
+    ],
+    "conditionFields": [],
+    "places": [
+      "leaflet"
+    ]
+  },
+  {
+    "id": "criticalPlus_passive_friends_NR_medium",
+    "skillId": "criticalPlus_passive_friends",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [],
+    "places": [
+      "stretch"
+    ]
+  },
+  {
+    "id": "criticalPlus_passive_myself_N_small",
+    "skillId": "criticalPlus_passive_myself",
+    "title": "",
+    "rank": "small",
+    "rarity": "N",
+    "skillFields": [
+      1
+    ],
+    "conditionFields": [],
+    "places": [
+      "leaflet"
+    ]
+  },
+  {
+    "id": "criticalPlus_passive_myself_NR_large",
+    "skillId": "criticalPlus_passive_myself",
+    "title": "",
+    "rank": "large",
+    "rarity": "NR",
+    "skillFields": [
+      3
+    ],
+    "conditionFields": [],
+    "places": [
+      "leaflet"
+    ]
+  },
+  {
+    "id": "criticalPlus_passive_sameAttribute_NR_medium",
+    "skillId": "criticalPlus_passive_sameAttribute",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [],
+    "places": []
+  },
+  {
+    "id": "criticalPlus_passive_sameAttribute_NR_small",
+    "skillId": "criticalPlus_passive_sameAttribute",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      1
+    ],
+    "conditionFields": [],
+    "places": []
+  },
+  {
+    "id": "criticalPlus_passive_sameGrade_NR_medium",
+    "skillId": "criticalPlus_passive_sameGrade",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [],
+    "places": []
+  },
+  {
+    "id": "criticalPlus_passive_sameGrade_NR_small",
+    "skillId": "criticalPlus_passive_sameGrade",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      1
+    ],
+    "conditionFields": [],
+    "places": []
+  },
+  {
+    "id": "criticalPlus_passive_sameSchool_NR_medium",
+    "skillId": "criticalPlus_passive_sameSchool",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [],
+    "places": [
+      "leaflet"
+    ]
+  },
+  {
+    "id": "criticalPlus_passive_sameSchool_NR_small",
+    "skillId": "criticalPlus_passive_sameSchool",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      1
+    ],
+    "conditionFields": [],
+    "places": [
+      "stretch"
+    ]
+  },
+  {
+    "id": "criticalPlus_passive_sameTeam_NR_medium",
+    "skillId": "criticalPlus_passive_sameTeam",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [],
+    "places": []
+  },
+  {
+    "id": "criticalPlus_passive_sameTeam_NR_small",
+    "skillId": "criticalPlus_passive_sameTeam",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      1
+    ],
+    "conditionFields": [],
+    "places": []
+  },
+  {
+    "id": "criticalPlus_passive_sameType_NR_medium",
+    "skillId": "criticalPlus_passive_sameType",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [],
+    "places": []
+  },
+  {
+    "id": "criticalPlus_passive_sameType_NR_small",
+    "skillId": "criticalPlus_passive_sameType",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      1
+    ],
+    "conditionFields": [],
+    "places": []
+  },
+  {
+    "id": "criticalPlus_targetVoltage_myself_NR_large",
+    "skillId": "criticalPlus_targetVoltage_myself",
+    "title": "",
+    "rank": "large",
+    "rarity": "NR",
+    "skillFields": [
+      3
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalRateUp_acSuccess_everyone_R_small",
+    "skillId": "criticalRateUp_acSuccess_everyone",
+    "title": "",
+    "rank": "small",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      1
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalRateUp_targetVoltage_everyone_R_small",
+    "skillId": "criticalRateUp_targetVoltage_everyone",
+    "title": "",
+    "rank": "small",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      1
+    ],
+    "conditionFields": [
+      30,
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalUp_acStart_everyone_SR_large",
+    "skillId": "criticalUp_acStart_everyone",
+    "title": "",
+    "rank": "large",
+    "rarity": "SR",
+    "skillFields": [
+      5,
+      1
+    ],
+    "conditionFields": [
+      26
+    ],
+    "places": [
+      "meditation"
+    ]
+  },
+  {
+    "id": "criticalUp_acStart_friends_R_medium",
+    "skillId": "criticalUp_acStart_friends",
+    "title": "",
+    "rank": "medium",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalUp_acStart_myself_NR_large",
+    "skillId": "criticalUp_acStart_myself",
+    "title": "",
+    "rank": "large",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      3
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": [
+      "meditation",
+      "stretch"
+    ]
+  },
+  {
+    "id": "criticalUp_acStart_sameAttribute_R_medium",
+    "skillId": "criticalUp_acStart_sameAttribute",
+    "title": "",
+    "rank": "medium",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalUp_acStart_sameGrade_R_medium",
+    "skillId": "criticalUp_acStart_sameGrade",
+    "title": "",
+    "rank": "medium",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalUp_acStart_sameSchool_R_medium",
+    "skillId": "criticalUp_acStart_sameSchool",
+    "title": "",
+    "rank": "medium",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": [
+      "meditation"
+    ]
+  },
+  {
+    "id": "criticalUp_acStart_sameTeam_R_medium",
+    "skillId": "criticalUp_acStart_sameTeam",
+    "title": "",
+    "rank": "medium",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalUp_acStart_sameType_R_medium",
+    "skillId": "criticalUp_acStart_sameType",
+    "title": "",
+    "rank": "medium",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalUp_acSuccess_everyone_R_small",
+    "skillId": "criticalUp_acSuccess_everyone",
+    "title": "",
+    "rank": "small",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      1
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalUp_acSuccess_friends_NR_medium",
+    "skillId": "criticalUp_acSuccess_friends",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalUp_acSuccess_myself_N_large",
+    "skillId": "criticalUp_acSuccess_myself",
+    "title": "",
+    "rank": "large",
+    "rarity": "N",
+    "skillFields": [
+      5,
+      3
+    ],
+    "conditionFields": [
+      14
+    ],
+    "places": [
+      "voice"
+    ]
+  },
+  {
+    "id": "criticalUp_acSuccess_sameAttribute_NR_medium",
+    "skillId": "criticalUp_acSuccess_sameAttribute",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalUp_acSuccess_sameGrade_NR_medium",
+    "skillId": "criticalUp_acSuccess_sameGrade",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalUp_acSuccess_sameSchool_NR_medium",
+    "skillId": "criticalUp_acSuccess_sameSchool",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalUp_acSuccess_sameTeam_NR_medium",
+    "skillId": "criticalUp_acSuccess_sameTeam",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": [
+      "voice"
+    ]
+  },
+  {
+    "id": "criticalUp_acSuccess_sameType_NR_medium",
+    "skillId": "criticalUp_acSuccess_sameType",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalUp_stamina_everyone_R_small",
+    "skillId": "criticalUp_stamina_everyone",
+    "title": "",
+    "rank": "small",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      1
+    ],
+    "conditionFields": [
+      80,
+      22
+    ],
+    "places": [
+      "meditation"
+    ]
+  },
+  {
+    "id": "criticalUp_stamina_friends_NR_medium",
+    "skillId": "criticalUp_stamina_friends",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      80,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalUp_stamina_myself_N_large",
+    "skillId": "criticalUp_stamina_myself",
+    "title": "",
+    "rank": "large",
+    "rarity": "N",
+    "skillFields": [
+      5,
+      3
+    ],
+    "conditionFields": [
+      80,
+      14
+    ],
+    "places": [
+      "meditation"
+    ]
+  },
+  {
+    "id": "criticalUp_stamina_sameAttribute_NR_medium",
+    "skillId": "criticalUp_stamina_sameAttribute",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      80,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalUp_stamina_sameGrade_NR_medium",
+    "skillId": "criticalUp_stamina_sameGrade",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      80,
+      18
+    ],
+    "places": [
+      "meditation"
+    ]
+  },
+  {
+    "id": "criticalUp_stamina_sameSchool_NR_medium",
+    "skillId": "criticalUp_stamina_sameSchool",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      80,
+      18
+    ],
+    "places": [
+      "meditation"
+    ]
+  },
+  {
+    "id": "criticalUp_stamina_sameTeam_NR_medium",
+    "skillId": "criticalUp_stamina_sameTeam",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      80,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalUp_stamina_sameType_NR_medium",
+    "skillId": "criticalUp_stamina_sameType",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      80,
+      18
+    ],
+    "places": [
+      "meditation"
+    ]
+  },
+  {
+    "id": "criticalUp_targetVoltage_everyone_R_small",
+    "skillId": "criticalUp_targetVoltage_everyone",
+    "title": "",
+    "rank": "small",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      1
+    ],
+    "conditionFields": [
+      30,
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalUp_targetVoltage_friends_NR_medium",
+    "skillId": "criticalUp_targetVoltage_friends",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": [
+      "pushUp"
+    ]
+  },
+  {
+    "id": "criticalUp_targetVoltage_myself_N_large",
+    "skillId": "criticalUp_targetVoltage_myself",
+    "title": "",
+    "rank": "large",
+    "rarity": "N",
+    "skillFields": [
+      5,
+      3
+    ],
+    "conditionFields": [
+      30,
+      14
+    ],
+    "places": [
+      "pushUp"
+    ]
+  },
+  {
+    "id": "criticalUp_targetVoltage_sameAttribute_NR_medium",
+    "skillId": "criticalUp_targetVoltage_sameAttribute",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalUp_targetVoltage_sameGrade_NR_medium",
+    "skillId": "criticalUp_targetVoltage_sameGrade",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalUp_targetVoltage_sameSchool_NR_medium",
+    "skillId": "criticalUp_targetVoltage_sameSchool",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalUp_targetVoltage_sameTeam_NR_medium",
+    "skillId": "criticalUp_targetVoltage_sameTeam",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "criticalUp_targetVoltage_sameType_NR_medium",
+    "skillId": "criticalUp_targetVoltage_sameType",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "shieldGain_acStart_none_R_small",
+    "skillId": "shieldGain_acStart_none",
+    "title": "",
+    "rank": "small",
+    "rarity": "R",
+    "skillFields": [
+      "stamina",
+      20
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "shieldGain_acSuccess_none_NR_small",
+    "skillId": "shieldGain_acSuccess_none",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      "stamina",
+      20
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "shieldGain_targetVoltage_none_NR_small",
+    "skillId": "shieldGain_targetVoltage_none",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      "stamina",
+      20
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "skillInvocationPlus_passive_everyone_NR_small",
+    "skillId": "skillInvocationPlus_passive_everyone",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      0.3
+    ],
+    "conditionFields": [],
+    "places": [
+      "stretch"
+    ]
+  },
+  {
+    "id": "skillInvocationPlus_passive_friends_N_small",
+    "skillId": "skillInvocationPlus_passive_friends",
+    "title": "",
+    "rank": "small",
+    "rarity": "N",
+    "skillFields": [
+      0.3
+    ],
+    "conditionFields": [],
+    "places": [
+      "voice"
+    ]
+  },
+  {
+    "id": "skillInvocationPlus_passive_friends_NR_medium",
+    "skillId": "skillInvocationPlus_passive_friends",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      0.5
+    ],
+    "conditionFields": [],
+    "places": []
+  },
+  {
+    "id": "skillInvocationPlus_passive_myself_N_small",
+    "skillId": "skillInvocationPlus_passive_myself",
+    "title": "",
+    "rank": "small",
+    "rarity": "N",
+    "skillFields": [
+      0.3
+    ],
+    "conditionFields": [],
+    "places": [
+      "stretch"
+    ]
+  },
+  {
+    "id": "skillInvocationPlus_passive_myself_NR_large",
+    "skillId": "skillInvocationPlus_passive_myself",
+    "title": "",
+    "rank": "large",
+    "rarity": "NR",
+    "skillFields": [
+      1
+    ],
+    "conditionFields": [],
+    "places": [
+      "voice"
+    ]
+  },
+  {
+    "id": "skillInvocationPlus_passive_sameAttribute_NR_medium",
+    "skillId": "skillInvocationPlus_passive_sameAttribute",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      0.5
+    ],
+    "conditionFields": [],
+    "places": []
+  },
+  {
+    "id": "skillInvocationPlus_passive_sameAttribute_NR_small",
+    "skillId": "skillInvocationPlus_passive_sameAttribute",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      0.3
+    ],
+    "conditionFields": [],
+    "places": []
+  },
+  {
+    "id": "skillInvocationPlus_passive_sameGrade_NR_medium",
+    "skillId": "skillInvocationPlus_passive_sameGrade",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      0.5
+    ],
+    "conditionFields": [],
+    "places": []
+  },
+  {
+    "id": "skillInvocationPlus_passive_sameGrade_NR_small",
+    "skillId": "skillInvocationPlus_passive_sameGrade",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      0.3
+    ],
+    "conditionFields": [],
+    "places": []
+  },
+  {
+    "id": "skillInvocationPlus_passive_sameSchool_NR_medium",
+    "skillId": "skillInvocationPlus_passive_sameSchool",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      0.5
+    ],
+    "conditionFields": [],
+    "places": []
+  },
+  {
+    "id": "skillInvocationPlus_passive_sameSchool_NR_small",
+    "skillId": "skillInvocationPlus_passive_sameSchool",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      0.3
+    ],
+    "conditionFields": [],
+    "places": []
+  },
+  {
+    "id": "skillInvocationPlus_passive_sameTeam_NR_medium",
+    "skillId": "skillInvocationPlus_passive_sameTeam",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      0.5
+    ],
+    "conditionFields": [],
+    "places": [
+      "meditation",
+      "pushUp"
+    ]
+  },
+  {
+    "id": "skillInvocationPlus_passive_sameTeam_NR_small",
+    "skillId": "skillInvocationPlus_passive_sameTeam",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      0.3
+    ],
+    "conditionFields": [],
+    "places": []
+  },
+  {
+    "id": "skillInvocationPlus_passive_sameType_NR_medium",
+    "skillId": "skillInvocationPlus_passive_sameType",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      0.5
+    ],
+    "conditionFields": [],
+    "places": [
+      "voice"
+    ]
+  },
+  {
+    "id": "skillInvocationPlus_passive_sameType_NR_small",
+    "skillId": "skillInvocationPlus_passive_sameType",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      0.3
+    ],
+    "conditionFields": [],
+    "places": [
+      "stretch"
+    ]
+  },
+  {
+    "id": "skillInvocationUp_acStart_everyone_UR_small",
+    "skillId": "skillInvocationUp_acStart_everyone",
+    "title": "",
+    "rank": "small",
+    "rarity": "UR",
+    "skillFields": [
+      5,
+      1
+    ],
+    "conditionFields": [
+      30
+    ],
+    "places": [
+      "voice"
+    ]
+  },
+  {
+    "id": "skillInvocationUp_acStart_friends_SR_medium",
+    "skillId": "skillInvocationUp_acStart_friends",
+    "title": "",
+    "rank": "medium",
+    "rarity": "SR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      26
+    ],
+    "places": []
+  },
+  {
+    "id": "skillInvocationUp_acStart_myself_R_large",
+    "skillId": "skillInvocationUp_acStart_myself",
+    "title": "",
+    "rank": "large",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      3
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "skillInvocationUp_acStart_sameGrade_SR_medium",
+    "skillId": "skillInvocationUp_acStart_sameGrade",
+    "title": "",
+    "rank": "medium",
+    "rarity": "SR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      26
+    ],
+    "places": []
+  },
+  {
+    "id": "skillInvocationUp_acStart_sameSchool_SR_medium",
+    "skillId": "skillInvocationUp_acStart_sameSchool",
+    "title": "",
+    "rank": "medium",
+    "rarity": "SR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      26
+    ],
+    "places": []
+  },
+  {
+    "id": "skillInvocationUp_acStart_sameTeam_SR_medium",
+    "skillId": "skillInvocationUp_acStart_sameTeam",
+    "title": "",
+    "rank": "medium",
+    "rarity": "SR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      26
+    ],
+    "places": []
+  },
+  {
+    "id": "skillInvocationUp_acStart_sameType_SR_medium",
+    "skillId": "skillInvocationUp_acStart_sameType",
+    "title": "",
+    "rank": "medium",
+    "rarity": "SR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      26
+    ],
+    "places": []
+  },
+  {
+    "id": "skillInvocationUp_musicStart_everyone_SR_small",
+    "skillId": "skillInvocationUp_musicStart_everyone",
+    "title": "",
+    "rank": "small",
+    "rarity": "SR",
+    "skillFields": [
+      5,
+      1
+    ],
+    "conditionFields": [
+      26
+    ],
+    "places": []
+  },
+  {
+    "id": "skillInvocationUp_stamina_everyone_SR_small",
+    "skillId": "skillInvocationUp_stamina_everyone",
+    "title": "",
+    "rank": "small",
+    "rarity": "SR",
+    "skillFields": [
+      5,
+      1
+    ],
+    "conditionFields": [
+      80,
+      26
+    ],
+    "places": []
+  },
+  {
+    "id": "skillInvocationUp_targetVoltage_everyone_SR_small",
+    "skillId": "skillInvocationUp_targetVoltage_everyone",
+    "title": "",
+    "rank": "small",
+    "rarity": "SR",
+    "skillFields": [
+      5,
+      1
+    ],
+    "conditionFields": [
+      30,
+      26
+    ],
+    "places": []
+  },
+  {
+    "id": "spSkillUp_acStartOnce_none_NR_small",
+    "skillId": "spSkillUp_acStartOnce_none",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      "appeal",
+      3
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": [
+      "pushUp"
+    ]
+  },
+  {
+    "id": "spSkillUp_acSuccessOnce_none_N_small",
+    "skillId": "spSkillUp_acSuccessOnce_none",
+    "title": "",
+    "rank": "small",
+    "rarity": "N",
+    "skillFields": [
+      "appeal",
+      3
+    ],
+    "conditionFields": [
+      14
+    ],
+    "places": [
+      "leaflet",
+      "pushUp"
+    ]
+  },
+  {
+    "id": "spSkillUp_musicStart_none_NR_small",
+    "skillId": "spSkillUp_musicStart_none",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      "appeal",
+      3
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "spSkillUp_stamina_none_N_small",
+    "skillId": "spSkillUp_stamina_none",
+    "title": "",
+    "rank": "small",
+    "rarity": "N",
+    "skillFields": [
+      "appeal",
+      3
+    ],
+    "conditionFields": [
+      80,
+      14
+    ],
+    "places": [
+      "swim"
+    ]
+  },
+  {
+    "id": "spSkillUp_targetVoltage_none_N_small",
+    "skillId": "spSkillUp_targetVoltage_none",
+    "title": "",
+    "rank": "small",
+    "rarity": "N",
+    "skillFields": [
+      "appeal",
+      3
+    ],
+    "conditionFields": [
+      30,
+      14
+    ],
+    "places": [
+      "dance"
+    ]
+  },
+  {
+    "id": "staminaRecovery_acStart_none_R_small",
+    "skillId": "staminaRecovery_acStart_none",
+    "title": "",
+    "rank": "small",
+    "rarity": "R",
+    "skillFields": [
+      "stamina",
+      22
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": [
+      "voice"
+    ]
+  },
+  {
+    "id": "staminaRecovery_acSuccess_none_NR_small",
+    "skillId": "staminaRecovery_acSuccess_none",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      "stamina",
+      20
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "staminaRecovery_stamina_none_NR_small",
+    "skillId": "staminaRecovery_stamina_none",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      "stamina",
+      20
+    ],
+    "conditionFields": [
+      80,
+      18
+    ],
+    "places": [
+      "dance"
+    ]
+  },
+  {
+    "id": "staminaRecovery_targetVoltage_none_NR_small",
+    "skillId": "staminaRecovery_targetVoltage_none",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      "stamina",
+      20
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageGain_musicStart_none_N_small",
+    "skillId": "voltageGain_musicStart_none",
+    "title": "",
+    "rank": "small",
+    "rarity": "N",
+    "skillFields": [
+      "appeal",
+      20
+    ],
+    "conditionFields": [
+      14
+    ],
+    "places": [
+      "running",
+      "leaflet",
+      "meditation",
+      "dance",
+      "voice",
+      "pushUp",
+      "stretch",
+      "swim"
+    ]
+  },
+  {
+    "id": "voltageGain_musicStart_none_NR_medium",
+    "skillId": "voltageGain_musicStart_none",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      "appeal",
+      25
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": [
+      "leaflet",
+      "voice"
+    ]
+  },
+  {
+    "id": "voltageGain_musicStart_none_R_small",
+    "skillId": "voltageGain_musicStart_none",
+    "title": "",
+    "rank": "small",
+    "rarity": "R",
+    "skillFields": [
+      "appeal",
+      20
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageGain_musicStart_none_SR_special",
+    "skillId": "voltageGain_musicStart_none",
+    "title": "",
+    "rank": "special",
+    "rarity": "SR",
+    "skillFields": [
+      "appeal",
+      35
+    ],
+    "conditionFields": [
+      26
+    ],
+    "places": [
+      "running",
+      "leaflet",
+      "meditation",
+      "voice",
+      "pushUp",
+      "stretch",
+      "swim"
+    ]
+  },
+  {
+    "id": "voltageGain_musicStart_none_UR_extreme",
+    "skillId": "voltageGain_musicStart_none",
+    "title": "",
+    "rank": "extreme",
+    "rarity": "UR",
+    "skillFields": [
+      "appeal",
+      40
+    ],
+    "conditionFields": [
+      30
+    ],
+    "places": [
+      "running",
+      "leaflet",
+      "stretch"
+    ]
+  },
+  {
+    "id": "voltageGain_acSuccess_none_NR_small",
+    "skillId": "voltageGain_acSuccess_none",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      "appeal",
+      20
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": [
+      "swim"
+    ]
+  },
+  {
+    "id": "voltageGain_stamina_none_NR_small",
+    "skillId": "voltageGain_stamina_none",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      "appeal",
+      20
+    ],
+    "conditionFields": [
+      80,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageGain_targetVoltage_none_NR_small",
+    "skillId": "voltageGain_targetVoltage_none",
+    "title": "",
+    "rank": "small",
+    "rarity": "NR",
+    "skillFields": [
+      "appeal",
+      20
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": [
+      "swim"
+    ]
+  },
+  {
+    "id": "voltageUp_acStart_everyone_SR_small",
+    "skillId": "voltageUp_acStart_everyone",
+    "title": "",
+    "rank": "small",
+    "rarity": "SR",
+    "skillFields": [
+      5,
+      1
+    ],
+    "conditionFields": [
+      26
+    ],
+    "places": [
+      "running"
+    ]
+  },
+  {
+    "id": "voltageUp_acStart_friends_R_medium",
+    "skillId": "voltageUp_acStart_friends",
+    "title": "",
+    "rank": "medium",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageUp_acStart_myself_NR_large",
+    "skillId": "voltageUp_acStart_myself",
+    "title": "",
+    "rank": "large",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": [
+      "running"
+    ]
+  },
+  {
+    "id": "voltageUp_acStart_sameAttribute_R_medium",
+    "skillId": "voltageUp_acStart_sameAttribute",
+    "title": "",
+    "rank": "medium",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageUp_acStart_sameGrade_R_medium",
+    "skillId": "voltageUp_acStart_sameGrade",
+    "title": "",
+    "rank": "medium",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageUp_acStart_sameSchool_R_medium",
+    "skillId": "voltageUp_acStart_sameSchool",
+    "title": "",
+    "rank": "medium",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageUp_acStart_sameTeam_R_medium",
+    "skillId": "voltageUp_acStart_sameTeam",
+    "title": "",
+    "rank": "medium",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageUp_acStart_sameType_R_medium",
+    "skillId": "voltageUp_acStart_sameType",
+    "title": "",
+    "rank": "medium",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageUp_acSuccess_everyone_R_small",
+    "skillId": "voltageUp_acSuccess_everyone",
+    "title": "",
+    "rank": "small",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      1
+    ],
+    "conditionFields": [
+      22
+    ],
+    "places": [
+      "stretch"
+    ]
+  },
+  {
+    "id": "voltageUp_acSuccess_friends_NR_medium",
+    "skillId": "voltageUp_acSuccess_friends",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageUp_acSuccess_myself_N_large",
+    "skillId": "voltageUp_acSuccess_myself",
+    "title": "",
+    "rank": "large",
+    "rarity": "N",
+    "skillFields": [
+      5,
+      3
+    ],
+    "conditionFields": [
+      14
+    ],
+    "places": [
+      "stretch"
+    ]
+  },
+  {
+    "id": "voltageUp_acSuccess_sameAttribute_NR_medium",
+    "skillId": "voltageUp_acSuccess_sameAttribute",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageUp_acSuccess_sameGrade_NR_medium",
+    "skillId": "voltageUp_acSuccess_sameGrade",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageUp_acSuccess_sameSchool_NR_medium",
+    "skillId": "voltageUp_acSuccess_sameSchool",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageUp_acSuccess_sameTeam_NR_medium",
+    "skillId": "voltageUp_acSuccess_sameTeam",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageUp_acSuccess_sameType_NR_medium",
+    "skillId": "voltageUp_acSuccess_sameType",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageUp_stamina_friends_NR_medium",
+    "skillId": "voltageUp_stamina_friends",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      80,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageUp_stamina_myself_N_large",
+    "skillId": "voltageUp_stamina_myself",
+    "title": "",
+    "rank": "large",
+    "rarity": "N",
+    "skillFields": [
+      5,
+      3
+    ],
+    "conditionFields": [
+      80,
+      14
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageUp_stamina_sameAttribute_NR_medium",
+    "skillId": "voltageUp_stamina_sameAttribute",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      80,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageUp_stamina_sameGrade_NR_medium",
+    "skillId": "voltageUp_stamina_sameGrade",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      80,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageUp_stamina_sameSchool_NR_medium",
+    "skillId": "voltageUp_stamina_sameSchool",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      80,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageUp_stamina_sameTeam_NR_medium",
+    "skillId": "voltageUp_stamina_sameTeam",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      80,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageUp_stamina_sameType_NR_medium",
+    "skillId": "voltageUp_stamina_sameType",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      80,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageUp_targetVoltage_everyone_R_small",
+    "skillId": "voltageUp_targetVoltage_everyone",
+    "title": "",
+    "rank": "small",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      1
+    ],
+    "conditionFields": [
+      30,
+      22
+    ],
+    "places": [
+      "running"
+    ]
+  },
+  {
+    "id": "voltageUp_targetVoltage_friends_NR_medium",
+    "skillId": "voltageUp_targetVoltage_friends",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": []
+  },
+  {
+    "id": "voltageUp_targetVoltage_myself_N_large",
+    "skillId": "voltageUp_targetVoltage_myself",
+    "title": "",
+    "rank": "large",
+    "rarity": "N",
+    "skillFields": [
+      5,
+      3
+    ],
+    "conditionFields": [
+      30,
+      14
+    ],
+    "places": [
+      "running"
+    ]
+  },
+  {
+    "id": "voltageUp_targetVoltage_sameAttribute_NR_medium",
+    "skillId": "voltageUp_targetVoltage_sameAttribute",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": [
+      "running"
+    ]
+  },
+  {
+    "id": "voltageUp_targetVoltage_sameGrade_NR_medium",
+    "skillId": "voltageUp_targetVoltage_sameGrade",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": [
+      "running"
+    ]
+  },
+  {
+    "id": "voltageUp_targetVoltage_sameSchool_NR_medium",
+    "skillId": "voltageUp_targetVoltage_sameSchool",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": [
+      "running"
+    ]
+  },
+  {
+    "id": "voltageUp_targetVoltage_sameTeam_NR_medium",
+    "skillId": "voltageUp_targetVoltage_sameTeam",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": [
+      "running"
+    ]
+  },
+  {
+    "id": "voltageUp_targetVoltage_sameType_NR_medium",
+    "skillId": "voltageUp_targetVoltage_sameType",
+    "title": "",
+    "rank": "medium",
+    "rarity": "NR",
+    "skillFields": [
+      5,
+      2
+    ],
+    "conditionFields": [
+      30,
+      18
+    ],
+    "places": [
+      "running"
+    ]
+  },
+  {
+    "id": "voltagePlus_acStartOnce_sameTeam_R_none",
+    "skillId": "voltagePlus_acStartOnce_sameTeam",
+    "title": "思い出の流れ星",
+    "rank": "none",
+    "rarity": "R",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": [
+      50
+    ],
+    "places": [
+      "summer"
+    ]
+  },
+  {
+    "id": "appealUp_acSuccessOnce_sameTeam_R_none",
+    "skillId": "appealUp_acSuccessOnce_sameTeam",
+    "title": "トロピカルスマイル",
+    "rank": "none",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      5
+    ],
+    "conditionFields": [
+      50
+    ],
+    "places": [
+      "summer"
+    ]
+  },
+  {
+    "id": "spGaugeGain_acSuccessOnce_none_R_none",
+    "skillId": "spGaugeGain_acSuccessOnce_none",
+    "title": "ビーチサバイバー",
+    "rank": "none",
+    "rarity": "R",
+    "skillFields": [
+      200
+    ],
+    "conditionFields": [
+      50
+    ],
+    "places": [
+      "summer"
+    ]
+  },
+  {
+    "id": "appealUpType_acSuccessOnce_sameTeam_R_none",
+    "skillId": "appealUpType_acSuccessOnce_sameTeam",
+    "title": "ボンダンス",
+    "rank": "none",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      0.4
+    ],
+    "conditionFields": [
+      50
+    ],
+    "places": [
+      "summer"
+    ]
+  },
+  {
+    "id": "criticalUpType_acSuccessOnce_sameTeam_R_none",
+    "skillId": "criticalUpType_acSuccessOnce_sameTeam",
+    "title": "スイカスマッシャー",
+    "rank": "none",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      0.6
+    ],
+    "conditionFields": [
+      50
+    ],
+    "places": [
+      "summer"
+    ]
+  },
+  {
+    "id": "spGaugeGainUp_acSuccessTimes_sameTeam_R_none",
+    "skillId": "spGaugeGainUp_acSuccessTimes_sameTeam",
+    "title": "サマーラバー",
+    "rank": "none",
+    "rarity": "R",
+    "skillFields": [
+      5,
+      5
+    ],
+    "conditionFields": [
+      40,
+      2
+    ],
+    "places": [
+      "summer"
+    ]
+  },
+  {
+    "id": "spGaugeGain_acSuccessOnce_none_R_none",
+    "skillId": "spGaugeGain_acSuccessOnce_none",
+    "title": "ビーチダッシュ",
+    "rank": "none",
+    "rarity": "R",
+    "skillFields": [
+      50
+    ],
+    "conditionFields": [
+      50
+    ],
+    "places": [
+      "summer"
+    ]
+  }
+]

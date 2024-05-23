@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#e3027f" />
+  <meta name="description" content="ライブ編成シミュレーターやガチャシュミレーターなど、ラブライブ！スクールアイドルフェスティバル All Starsをより楽しむためのツールを提供しています。" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:creator" content="@lovelivelab" />
+  <meta name="twitter:site" content="@lovelivelab" />
+  <meta property="og:image" content="https://as.lovelive-lab.fans/assets/ogp.png" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://as.lovelive-lab.fans" />
+  <meta property="og:title" content="ライブ編成シミュレーター | スクスタ Lab" />
+  <meta property="og:description" content="スクスタをより楽しむためのツールを提供しています。" />
+
+  <link rel="icon" href="%PUBLIC_URL%/assets/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="%PUBLIC_URL%/assets/apple-touch-icon.png" />
+  <link rel="manifest" href="%PUBLIC_URL%/assets/manifest.json" />
+
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css" />
+  <link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP" rel="stylesheet" />
+
+  <title>スクスタ Lab - スクスタライブ編成シミュレーター | AS Lab</title>
+
+  <!-- Google Adsense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6652387691580643"
+    crossorigin="anonymous">
+    </script>
+</head>
+
+<body style="margin: 0">
+  <noscript>このサイトをご覧になるには、JavaScriptを有効にする必要があります。</noscript>
+  <div id="root"></div>
+</body>
+
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="%REACT_APP_GSTATIC_DOMAIN%/8.2.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="%REACT_APP_GSTATIC_DOMAIN%/8.2.1/firebase-analytics.js"></script>
+
+<!-- Add Firebase products that you want to use -->
+<script src="%REACT_APP_GSTATIC_DOMAIN%/8.2.1/firebase-auth.js"></script>
+<script src="%REACT_APP_GSTATIC_DOMAIN%/8.2.1/firebase-firestore.js"></script>
+
+<!-- Initialize Firebase -->
+<script>
+  const str = '%REACT_APP_FIREBASE_CONFIG%';
+  const config = str.startsWith('%') ? null : JSON.parse(str);
+  if (config) {
+    firebase.initializeApp(config);
+  }
+</script>
+
+</html>

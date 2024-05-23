@@ -1,0 +1,182 @@
+[
+  {
+    "id": "hanayo",
+    "name": "小泉 花陽",
+    "school": "muse",
+    "grade": 1
+  },
+  {
+    "id": "maki",
+    "name": "西木野 真姫",
+    "school": "muse",
+    "grade": 1
+  },
+  {
+    "id": "umi",
+    "name": "園田 海未",
+    "school": "muse",
+    "grade": 2
+  },
+  {
+    "id": "eri",
+    "name": "絢瀬 絵里",
+    "school": "muse",
+    "grade": 3
+  },
+  {
+    "id": "honoka",
+    "name": "高坂 穂乃果",
+    "school": "muse",
+    "grade": 2
+  },
+  {
+    "id": "kotori",
+    "name": "南 ことり",
+    "school": "muse",
+    "grade": 2
+  },
+  {
+    "id": "rin",
+    "name": "星空 凛",
+    "school": "muse",
+    "grade": 1
+  },
+  {
+    "id": "nozomi",
+    "name": "東條 希",
+    "school": "muse",
+    "grade": 3
+  },
+  {
+    "id": "niko",
+    "name": "矢澤 にこ",
+    "school": "muse",
+    "grade": 3
+  },
+  {
+    "id": "mari",
+    "name": "小原 鞠莉",
+    "school": "aqua",
+    "grade": 3
+  },
+  {
+    "id": "yoshiko",
+    "name": "津島 善子",
+    "school": "aqua",
+    "grade": 1
+  },
+  {
+    "id": "dia",
+    "name": "黒澤 ダイヤ",
+    "school": "aqua",
+    "grade": 3
+  },
+  {
+    "id": "riko",
+    "name": "桜内 梨子",
+    "school": "aqua",
+    "grade": 2
+  },
+  {
+    "id": "chika",
+    "name": "高海 千歌",
+    "school": "aqua",
+    "grade": 2
+  },
+  {
+    "id": "kanan",
+    "name": "松浦 果南",
+    "school": "aqua",
+    "grade": 3
+  },
+  {
+    "id": "you",
+    "name": "渡辺 曜",
+    "school": "aqua",
+    "grade": 2
+  },
+  {
+    "id": "hanamaru",
+    "name": "国木田 花丸",
+    "school": "aqua",
+    "grade": 1
+  },
+  {
+    "id": "ruby",
+    "name": "黒澤 ルビィ",
+    "school": "aqua",
+    "grade": 1
+  },
+  {
+    "id": "kanata",
+    "name": "近江 彼方",
+    "school": "niji",
+    "grade": 3
+  },
+  {
+    "id": "mia",
+    "name": "ミア・テイラー",
+    "school": "niji",
+    "grade": 3
+  },
+  {
+    "id": "karin",
+    "name": "朝香 果林",
+    "school": "niji",
+    "grade": 3
+  },
+  {
+    "id": "rina",
+    "name": "天王寺 璃奈",
+    "school": "niji",
+    "grade": 1
+  },
+  {
+    "id": "kasumi",
+    "name": "中須 かすみ",
+    "school": "niji",
+    "grade": 1
+  },
+  {
+    "id": "setsuna",
+    "name": "優木 せつ菜",
+    "school": "niji",
+    "grade": 2
+  },
+  {
+    "id": "ayumu",
+    "name": "上原 歩夢",
+    "school": "niji",
+    "grade": 2
+  },
+  {
+    "id": "emma",
+    "name": "エマ・ヴェルデ",
+    "school": "niji",
+    "grade": 3
+  },
+  {
+    "id": "shizuku",
+    "name": "桜坂 しずく",
+    "school": "niji",
+    "grade": 1
+  },
+  {
+    "id": "shioriko",
+    "name": "三船 栞子",
+    "school": "niji",
+    "grade": 1
+  },
+  {
+    "id": "ai",
+    "name": "宮下 愛",
+    "school": "niji",
+    "grade": 2
+  },
+  {
+    "id": "lanzhu",
+    "name": "ショウ・ランジュ",
+    "school": "niji",
+    "grade": 2
+  }
+]

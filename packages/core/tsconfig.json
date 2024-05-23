@@ -1,0 +1,4 @@
+{
+  "extends": "../../tsconfig.json",
+  "include": ["core.d.ts", "index.ts", "entities", "data", "gulp", "test"]
+}

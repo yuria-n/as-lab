@@ -1,0 +1,10 @@
+id	title	skillId	skillFields	conditionFields	color
+criticalRatePlus	クリティカル発動率アップ	criticalRatePlus_passive_myself	0		#73B4F7
+criticalPlus	クリティカル値アップ	criticalPlus_passive_myself	0		#4198F2
+spGaugeGainPlus	SPゲージ獲得量アップ	spGaugeGainPlus_passive_myself	0		#82D8E6
+spSkillPlus	SP特技の獲得ボルテージアップ	spSkillPlus_passive_myself	0		#E8912A
+teamEffectReductionPlusVo	ボルテージタイプのマイナス作戦効果軽減	teamEffectReductionPlus_passive_myself	voltage,0		#CF403D
+teamEffectReductionPlusSp	SPタイプのマイナス作戦効果軽減	teamEffectReductionPlus_passive_myself	sp,0		#2389C8
+teamEffectReductionPlusGd	ガードタイプのマイナス作戦効果軽減	teamEffectReductionPlus_passive_myself	guard,0		#3EA15B
+teamEffectReductionPlusSk	スキルタイプのマイナス作戦効果軽減	teamEffectReductionPlus_passive_myself	skill,0		#E4B642
+attributeBonusPlus	属性一致ボーナスアップ	attributeBonusPlus_passive_myself	0		#FD5A5D

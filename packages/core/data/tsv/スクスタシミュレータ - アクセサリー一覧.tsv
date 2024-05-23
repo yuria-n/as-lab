@@ -1,0 +1,14 @@
+type	title	rarities	attributes	appeal	stamina	technique	skillId	skillFields	conditionFields
+earrings	星のイヤリング	UR,SR,R	smile,pure,cool	1040	780	780	spGaugeGainPlusStamina_music_myself	2	
+necklace	星のネックレス	UR,SR,R	active,natural,elegant	1040	780	780	damageReductionPlusStamina_music_none	2	
+brooch	音符のブローチ	UR,SR,R	smile,cool,natural	1040	780	780	appealPlusStamina_music_myself	5	
+keyHolder	音符のキーホルダー	UR,SR,R	pure,active,elegant	1040	780	780	skillInvocationPlusStamina_music_myself	5	
+bracelet	フラワーのブレスレット	UR,SR,R	smile,active,elegant	1040	780	780	spGaugeGainRate_acSuccess_none	appeal,5	100
+hairpin	フラワーのヘアピン	UR,SR,R	pure,cool,natural	1040	780	780	criticalPlusCombo_music_myself	5	
+ribbon	チェックのリボン	UR,SR,R	smile,pure,natural	1040	780	780	shieldGainValueCombo_acSuccess_none	500	100
+porch	チェックのポーチ	UR,SR,R	cool,active,elegant	1040	780	780	staminaRecoveryCombo_acSuccess_none	500	100
+wristband	ボーダーのリストバンド	UR,SR,R	smile,cool,elegant	1040	780	780	appealUp_musicStart_myself	10,5	30
+towel	ボーダーのタオル	UR,SR,R	pure,active,natural	1040	780	780	skillInvocationUp_musicStart_myself	10,5	30
+belt	ハートのベルト	UR	pure,cool,natural	780	650	1170	spSkillPlusParam_music_myself	technique,5	
+choker	四葉のチョーカー	UR	smile,active,elegant	780	650	1170	voltageLimitPlus_music_myself	10	
+bangle	雪結晶のバングル	UR	pure,active	780	650	1170	criticalPlusStamina_music_myself	20	

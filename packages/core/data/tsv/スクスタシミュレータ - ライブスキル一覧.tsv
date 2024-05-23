@@ -1,0 +1,14 @@
+id	title	effect	effectParam	condition	target	rate	effectType	effectValue	oneTime	memo
+live_spGaugeGainIncrease_acStart_everyone	SPゲージ獲得+:AC時/全員	spGaugeGainIncrease		acStart	everyone	30	rate	5	TRUE	ゲーム終了まで基本SPゲージ獲得量が5%上昇
+live_spGaugeGainIncrease_changeTeam_everyone	SPゲージ獲得UP:作戦切替時/全員	spGaugeGainIncrease	15	changeTeam	everyone	30	rate	10	FALSE	15ノーツの間SPゲージ獲得量が10%上昇
+live_appealPlus_acStart_everyone	アピール+:AC成功時/全員	appealPlus		acStart	everyone	30	rate	5	TRUE	ゲーム終了まで基本アピールが5%増加
+live_appealPlus_musicStart_everyone	アピール+:曲開始時/全員	appealPlus		musicStart	everyone	30	rate	4	TRUE	ゲーム終了まで基本アピールが5%増加
+live_shieldGain_acSuccess_none	シールド獲得:AC成功時	shieldGain	appeal	acSuccess	none	20	rate	10	FALSE	自身のアピールの10%シールドを獲得する
+live_staminaRecovery_acSuccess_none	スタミナ回復:AC成功時	staminaRecovery	technique	acSuccess	none	30	rate	20	FALSE	自身のテクニックの20%スタミナを回復
+live_staminaRecovery_damage_none	スタミナ回復:ダメージ時	staminaRecovery	stamina	damage	none	40	rate	20	FALSE	1000ダメージ以上受けたとき自身のスタミナの20%スタミナを回復
+live_damageReduction_spSkill_none	ダメージ軽減:SP特技発動時	damageReduction	10	spSkill	none	50	rate	5	FALSE	10ノーツの間スタミナダメージを5%軽減
+live_voltageGain_acSuccess_none	ボルテージ獲得:AC成功時	voltageGain		acSuccess	none	30	rate	35	FALSE	自身のアピールの35%ボルテージを獲得
+live_voltageGain_musicStart_none	ボルテージ獲得:曲開始時	voltageGain		musicStart	none	26	rate	35	FALSE	自身のアピールの35%ボルテージを獲得
+live_deactivation_changeTeam_everyone	効果解除:作戦切替時/全員	deactivation		changeTeam	everyone	30	rate	100	FALSE	すべての低下/減少状態を解除（基本低下/基本減少は除く）
+live_skillInvocationUp_acSuccess_sameAttribute	特技発動率UP:AC時/同属性	skillInvocationUp	10	acSuccess	sameAttribute	30	rate	15	FALSE	10ノーツの間特技発動率が15%上昇
+live_voltageUp_acSuccess_everyone	ボルテージUP:AC成功時	voltageUp	5	acSuccess	everyone	22	rate	1	FALSE	5ノーツの間獲得ボルテージが1%増加

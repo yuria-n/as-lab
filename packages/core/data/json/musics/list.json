@@ -1,0 +1,16 @@
+{
+  "musics": [
+    {
+      "id": "no_exit_orion_cool_hard",
+      "title": "No Exit Orion",
+      "attribute": "cool",
+      "difficulty": "hard"
+    },
+    {
+      "id": "like_it_love_it_cool_hard",
+      "title": "LIKE IT ! LOVE IT !",
+      "attribute": "cool",
+      "difficulty": "hard"
+    }
+  ]
+}

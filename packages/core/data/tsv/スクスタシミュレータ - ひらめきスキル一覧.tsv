@@ -1,0 +1,200 @@
+id	skillId	title	rank	rarity	skillFields	conditionFields	places
+appealPlus_acStart_everyone_UR_small	appealPlus_acStart_everyone		small	UR	1	30	dance
+appealPlus_acStart_friends_SR_medium	appealPlus_acStart_friends		medium	SR	2	26	
+appealPlus_acStart_sameAttribute_SR_medium	appealPlus_acStart_sameAttribute		medium	SR	2	26	
+appealPlus_acStart_sameGrade_SR_medium	appealPlus_acStart_sameGrade		medium	SR	2	26	
+appealPlus_acStart_sameSchool_R_medium	appealPlus_acStart_sameSchool		medium	R	2	22	
+appealPlus_acStart_sameSchool_SR_medium	appealPlus_acStart_sameSchool		medium	SR	2	26	
+appealPlus_acStart_sameTeam_R_medium	appealPlus_acStart_sameTeam		medium	R	2	22	
+appealPlus_acStart_sameTeam_SR_medium	appealPlus_acStart_sameTeam		medium	SR	2	26	
+appealPlus_passive_everyone_NR_small	appealPlus_passive_everyone		small	NR	1		meditation,dance
+appealPlus_passive_friends_N_small	appealPlus_passive_friends		small	N	1		meditation
+appealPlus_passive_friends_NR_medium	appealPlus_passive_friends		medium	NR	2		pushUp
+appealPlus_passive_myself_N_small	appealPlus_passive_myself		small	N	1		running
+appealPlus_passive_myself_NR_large	appealPlus_passive_myself		large	NR	3		running
+appealPlus_passive_sameAttribute_NR_medium	appealPlus_passive_sameAttribute		medium	NR	2		running
+appealPlus_passive_sameAttribute_NR_small	appealPlus_passive_sameAttribute		small	NR	1		
+appealPlus_passive_sameGrade_NR_medium	appealPlus_passive_sameGrade		medium	NR	2		running
+appealPlus_passive_sameGrade_NR_small	appealPlus_passive_sameGrade		small	NR	1		running
+appealPlus_passive_sameSchool_NR_medium	appealPlus_passive_sameSchool		medium	NR	2		running
+appealPlus_passive_sameSchool_NR_small	appealPlus_passive_sameSchool		small	NR	1		
+appealPlus_passive_sameTeam_NR_medium	appealPlus_passive_sameTeam		medium	NR	2		running
+appealPlus_passive_sameTeam_NR_small	appealPlus_passive_sameTeam		small	NR	1		running
+appealPlus_passive_sameType_NR_medium	appealPlus_passive_sameType		medium	NR	2		stretch
+appealPlus_passive_sameType_NR_small	appealPlus_passive_sameType		small	NR	1		
+appealPlus_stamina_sameSchool_R_medium	appealPlus_stamina_sameSchool		medium	R	2	30,22	
+appealUp_acSuccess_myself_N_large	appealUp_acSuccess_myself		large	N	5,3	14	dance
+appealUp_stamina_myself_N_large	appealUp_stamina_myself		large	N	5,3	14,80	swim
+appealUp_targetVoltage_myself_N_large	appealUp_targetVoltage_myself		large	N	5,3	14,30	dance
+appealUp_acStart_myself_NR_large	appealUp_acStart_myself		large	NR	5,3	18	dance
+appealUp_acSuccess_friends_NR_medium	appealUp_acSuccess_friends		medium	NR	5,2	18	
+appealUp_acSuccess_myself_NR_large	appealUp_acSuccess_myself		large	NR	5,3	18	
+appealUp_acSuccess_sameSchool_NR_medium	appealUp_acSuccess_sameSchool		medium	NR	5,2	18	
+appealUp_acSuccess_sameGrade_NR_medium	appealUp_acSuccess_sameGrade		medium	NR	5,2	18	dance
+appealUp_acSuccess_sameAttribute_NR_medium	appealUp_acSuccess_sameAttribute		medium	NR	5,2	18	dance
+appealUp_acSuccess_sameTeam_NR_medium	appealUp_acSuccess_sameTeam		medium	NR	5,2	18	
+appealUp_acSuccess_sameType_NR_medium	appealUp_acSuccess_sameType		medium	NR	5,2	18	
+appealUp_stamina_friends_NR_medium	appealUp_stamina_friends		medium	NR	5,2	80,18	
+appealUp_stamina_sameAttribute_NR_medium	appealUp_stamina_sameAttribute		medium	NR	5,2	80,18	
+appealUp_stamina_sameSchool_NR_medium	appealUp_stamina_sameSchool		medium	NR	5,2	80,18	swim
+appealUp_stamina_sameGrade_NR_medium	appealUp_stamina_sameGrade		medium	NR	5,2	80,18	swim
+appealUp_stamina_sameTeam_NR_medium	appealUp_stamina_sameTeam		medium	NR	5,2	80,18	
+appealUp_stamina_sameType_NR_medium	appealUp_stamina_sameType		medium	NR	5,2	80,18	
+appealUp_targetVoltage_friends_NR_medium	appealUp_targetVoltage_friends		medium	NR	5,2	30,18	dance
+appealUp_targetVoltage_sameAttribute_NR_medium	appealUp_targetVoltage_sameAttribute		medium	NR	5,2	30,18	
+appealUp_targetVoltage_sameSchool_NR_medium	appealUp_targetVoltage_sameSchool		medium	NR	5,2	30,18	
+appealUp_targetVoltage_sameGrade_NR_medium	appealUp_targetVoltage_sameGrade		medium	NR	5,2	30,18	
+appealUp_targetVoltage_sameTeam_NR_medium	appealUp_targetVoltage_sameTeam		medium	NR	5,2	30,18	
+appealUp_targetVoltage_sameType_NR_medium	appealUp_targetVoltage_sameType		medium	NR	5,2	30,18	
+appealUp_acSuccess_everyone_R_small	appealUp_acSuccess_everyone		small	R	5,1	22	
+appealUp_stamina_everyone_R_small	appealUp_stamina_everyone		small	R	5,1	80,22	
+appealUp_targetVoltage_everyone_R_small	appealUp_targetVoltage_everyone		small	R	5,1	30,22	
+appealUp_acStart_friends_R_small	appealUp_acStart_friends		small	R	5,2	22	
+appealUp_acStart_sameAttribute_R_small	appealUp_acStart_sameAttribute		small	R	5,2	22	
+appealUp_acStart_sameSchool_R_small	appealUp_acStart_sameSchool		small	R	5,2	22	dance
+appealUp_acStart_sameGrade_R_small	appealUp_acStart_sameGrade		small	R	5,2	22	
+appealUp_acStart_sameTeam_R_small	appealUp_acStart_sameTeam		small	R	5,2	22	
+appealUp_acStart_sameType_R_small	appealUp_acStart_sameType		small	R	5,2	22	
+appealUp_acStart_everyone_SR_small	appealUp_acStart_everyone		small	SR	5,1	26	
+comboCount_acStart_none_R_small	comboCount_acStart_none		small	R	5	22	
+comboCount_acSuccess_none_NR_small	comboCount_acSuccess_none		small	NR	5	18	pushUp
+comboCount_musicStart_none_NR_small	comboCount_musicStart_none		small	NR	5	18	
+comboCount_stamina_none_NR_small	comboCount_stamina_none		small	NR	5	80,18	
+comboCount_targetVoltage_none_NR_small	comboCount_targetVoltage_none		small	NR	5	30,18	pushUp
+criticalPlus_acStart_everyone_UR_small	criticalPlus_acStart_everyone		small	UR	1	30	stretch
+criticalPlus_acStart_friends_SR_medium	criticalPlus_acStart_friends		medium	SR	2	26	
+criticalPlus_acStart_myself_R_large	criticalPlus_acStart_myself		large	R	3	22	stretch
+criticalPlus_acStart_sameTeam_SR_medium	criticalPlus_acStart_sameTeam		medium	SR	2	26	
+criticalPlus_passive_everyone_NR_small	criticalPlus_passive_everyone		small	NR	1		
+criticalPlus_passive_friends_N_small	criticalPlus_passive_friends		small	N	1		leaflet
+criticalPlus_passive_friends_NR_medium	criticalPlus_passive_friends		medium	NR	2		stretch
+criticalPlus_passive_myself_N_small	criticalPlus_passive_myself		small	N	1		leaflet
+criticalPlus_passive_myself_NR_large	criticalPlus_passive_myself		large	NR	3		leaflet
+criticalPlus_passive_sameAttribute_NR_medium	criticalPlus_passive_sameAttribute		medium	NR	2		
+criticalPlus_passive_sameAttribute_NR_small	criticalPlus_passive_sameAttribute		small	NR	1		
+criticalPlus_passive_sameGrade_NR_medium	criticalPlus_passive_sameGrade		medium	NR	2		
+criticalPlus_passive_sameGrade_NR_small	criticalPlus_passive_sameGrade		small	NR	1		
+criticalPlus_passive_sameSchool_NR_medium	criticalPlus_passive_sameSchool		medium	NR	2		leaflet
+criticalPlus_passive_sameSchool_NR_small	criticalPlus_passive_sameSchool		small	NR	1		stretch
+criticalPlus_passive_sameTeam_NR_medium	criticalPlus_passive_sameTeam		medium	NR	2		
+criticalPlus_passive_sameTeam_NR_small	criticalPlus_passive_sameTeam		small	NR	1		
+criticalPlus_passive_sameType_NR_medium	criticalPlus_passive_sameType		medium	NR	2		
+criticalPlus_passive_sameType_NR_small	criticalPlus_passive_sameType		small	NR	1		
+criticalPlus_targetVoltage_myself_NR_large	criticalPlus_targetVoltage_myself		large	NR	3	30,18	
+criticalRateUp_acSuccess_everyone_R_small	criticalRateUp_acSuccess_everyone		small	R	5,1	22	
+criticalRateUp_targetVoltage_everyone_R_small	criticalRateUp_targetVoltage_everyone		small	R	5,1	30,22	
+criticalUp_acStart_everyone_SR_large	criticalUp_acStart_everyone		large	SR	5,1	26	meditation
+criticalUp_acStart_friends_R_medium	criticalUp_acStart_friends		medium	R	5,2	22	
+criticalUp_acStart_myself_NR_large	criticalUp_acStart_myself		large	NR	5,3	18	meditation,stretch
+criticalUp_acStart_sameAttribute_R_medium	criticalUp_acStart_sameAttribute		medium	R	5,2	22	
+criticalUp_acStart_sameGrade_R_medium	criticalUp_acStart_sameGrade		medium	R	5,2	22	
+criticalUp_acStart_sameSchool_R_medium	criticalUp_acStart_sameSchool		medium	R	5,2	22	meditation
+criticalUp_acStart_sameTeam_R_medium	criticalUp_acStart_sameTeam		medium	R	5,2	22	
+criticalUp_acStart_sameType_R_medium	criticalUp_acStart_sameType		medium	R	5,2	22	
+criticalUp_acSuccess_everyone_R_small	criticalUp_acSuccess_everyone		small	R	5,1	22	
+criticalUp_acSuccess_friends_NR_medium	criticalUp_acSuccess_friends		medium	NR	5,2	18	
+criticalUp_acSuccess_myself_N_large	criticalUp_acSuccess_myself		large	N	5,3	14	voice
+criticalUp_acSuccess_sameAttribute_NR_medium	criticalUp_acSuccess_sameAttribute		medium	NR	5,2	18	
+criticalUp_acSuccess_sameGrade_NR_medium	criticalUp_acSuccess_sameGrade		medium	NR	5,2	18	
+criticalUp_acSuccess_sameSchool_NR_medium	criticalUp_acSuccess_sameSchool		medium	NR	5,2	18	
+criticalUp_acSuccess_sameTeam_NR_medium	criticalUp_acSuccess_sameTeam		medium	NR	5,2	18	voice
+criticalUp_acSuccess_sameType_NR_medium	criticalUp_acSuccess_sameType		medium	NR	5,2	18	
+criticalUp_stamina_everyone_R_small	criticalUp_stamina_everyone		small	R	5,1	80,22	meditation
+criticalUp_stamina_friends_NR_medium	criticalUp_stamina_friends		medium	NR	5,2	80,18	
+criticalUp_stamina_myself_N_large	criticalUp_stamina_myself		large	N	5,3	80,14	meditation
+criticalUp_stamina_sameAttribute_NR_medium	criticalUp_stamina_sameAttribute		medium	NR	5,2	80,18	
+criticalUp_stamina_sameGrade_NR_medium	criticalUp_stamina_sameGrade		medium	NR	5,2	80,18	meditation
+criticalUp_stamina_sameSchool_NR_medium	criticalUp_stamina_sameSchool		medium	NR	5,2	80,18	meditation
+criticalUp_stamina_sameTeam_NR_medium	criticalUp_stamina_sameTeam		medium	NR	5,2	80,18	
+criticalUp_stamina_sameType_NR_medium	criticalUp_stamina_sameType		medium	NR	5,2	80,18	meditation
+criticalUp_targetVoltage_everyone_R_small	criticalUp_targetVoltage_everyone		small	R	5,1	30,22	
+criticalUp_targetVoltage_friends_NR_medium	criticalUp_targetVoltage_friends		medium	NR	5,2	30,18	pushUp
+criticalUp_targetVoltage_myself_N_large	criticalUp_targetVoltage_myself		large	N	5,3	30,14	pushUp
+criticalUp_targetVoltage_sameAttribute_NR_medium	criticalUp_targetVoltage_sameAttribute		medium	NR	5,2	30,18	
+criticalUp_targetVoltage_sameGrade_NR_medium	criticalUp_targetVoltage_sameGrade		medium	NR	5,2	30,18	
+criticalUp_targetVoltage_sameSchool_NR_medium	criticalUp_targetVoltage_sameSchool		medium	NR	5,2	30,18	
+criticalUp_targetVoltage_sameTeam_NR_medium	criticalUp_targetVoltage_sameTeam		medium	NR	5,2	30,18	
+criticalUp_targetVoltage_sameType_NR_medium	criticalUp_targetVoltage_sameType		medium	NR	5,2	30,18	
+shieldGain_acStart_none_R_small	shieldGain_acStart_none		small	R	stamina,20	22	
+shieldGain_acSuccess_none_NR_small	shieldGain_acSuccess_none		small	NR	stamina,20	18	
+shieldGain_targetVoltage_none_NR_small	shieldGain_targetVoltage_none		small	NR	stamina,20	30,18	
+skillInvocationPlus_passive_everyone_NR_small	skillInvocationPlus_passive_everyone		small	NR	0.3		stretch
+skillInvocationPlus_passive_friends_N_small	skillInvocationPlus_passive_friends		small	N	0.3		voice
+skillInvocationPlus_passive_friends_NR_medium	skillInvocationPlus_passive_friends		medium	NR	0.5		
+skillInvocationPlus_passive_myself_N_small	skillInvocationPlus_passive_myself		small	N	0.3		stretch
+skillInvocationPlus_passive_myself_NR_large	skillInvocationPlus_passive_myself		large	NR	1		voice
+skillInvocationPlus_passive_sameAttribute_NR_medium	skillInvocationPlus_passive_sameAttribute		medium	NR	0.5		
+skillInvocationPlus_passive_sameAttribute_NR_small	skillInvocationPlus_passive_sameAttribute		small	NR	0.3		
+skillInvocationPlus_passive_sameGrade_NR_medium	skillInvocationPlus_passive_sameGrade		medium	NR	0.5		
+skillInvocationPlus_passive_sameGrade_NR_small	skillInvocationPlus_passive_sameGrade		small	NR	0.3		
+skillInvocationPlus_passive_sameSchool_NR_medium	skillInvocationPlus_passive_sameSchool		medium	NR	0.5		
+skillInvocationPlus_passive_sameSchool_NR_small	skillInvocationPlus_passive_sameSchool		small	NR	0.3		
+skillInvocationPlus_passive_sameTeam_NR_medium	skillInvocationPlus_passive_sameTeam		medium	NR	0.5		meditation,pushUp
+skillInvocationPlus_passive_sameTeam_NR_small	skillInvocationPlus_passive_sameTeam		small	NR	0.3		
+skillInvocationPlus_passive_sameType_NR_medium	skillInvocationPlus_passive_sameType		medium	NR	0.5		voice
+skillInvocationPlus_passive_sameType_NR_small	skillInvocationPlus_passive_sameType		small	NR	0.3		stretch
+skillInvocationUp_acStart_everyone_UR_small	skillInvocationUp_acStart_everyone		small	UR	5,1	30	voice
+skillInvocationUp_acStart_friends_SR_medium	skillInvocationUp_acStart_friends		medium	SR	5,2	26	
+skillInvocationUp_acStart_myself_R_large	skillInvocationUp_acStart_myself		large	R	5,3	22	
+skillInvocationUp_acStart_sameGrade_SR_medium	skillInvocationUp_acStart_sameGrade		medium	SR	5,2	26	
+skillInvocationUp_acStart_sameSchool_SR_medium	skillInvocationUp_acStart_sameSchool		medium	SR	5,2	26	
+skillInvocationUp_acStart_sameTeam_SR_medium	skillInvocationUp_acStart_sameTeam		medium	SR	5,2	26	
+skillInvocationUp_acStart_sameType_SR_medium	skillInvocationUp_acStart_sameType		medium	SR	5,2	26	
+skillInvocationUp_musicStart_everyone_SR_small	skillInvocationUp_musicStart_everyone		small	SR	5,1	26	
+skillInvocationUp_stamina_everyone_SR_small	skillInvocationUp_stamina_everyone		small	SR	5,1	80,26	
+skillInvocationUp_targetVoltage_everyone_SR_small	skillInvocationUp_targetVoltage_everyone		small	SR	5,1	30,26	
+spSkillUp_acStartOnce_none_NR_small	spSkillUp_acStartOnce_none		small	NR	appeal,3	18	pushUp
+spSkillUp_acSuccessOnce_none_N_small	spSkillUp_acSuccessOnce_none		small	N	appeal,3	14	leaflet,pushUp
+spSkillUp_musicStart_none_NR_small	spSkillUp_musicStart_none		small	NR	appeal,3	18	
+spSkillUp_stamina_none_N_small	spSkillUp_stamina_none		small	N	appeal,3	80,14	swim
+spSkillUp_targetVoltage_none_N_small	spSkillUp_targetVoltage_none		small	N	appeal,3	30,14	dance
+staminaRecovery_acStart_none_R_small	staminaRecovery_acStart_none		small	R	stamina,22	22	voice
+staminaRecovery_acSuccess_none_NR_small	staminaRecovery_acSuccess_none		small	NR	stamina,20	18	
+staminaRecovery_stamina_none_NR_small	staminaRecovery_stamina_none		small	NR	stamina,20	80,18	dance
+staminaRecovery_targetVoltage_none_NR_small	staminaRecovery_targetVoltage_none		small	NR	stamina,20	30,18	
+voltageGain_musicStart_none_N_small	voltageGain_musicStart_none		small	N	appeal,20	14	running,leaflet,meditation,dance,voice,pushUp,stretch,swim
+voltageGain_musicStart_none_NR_medium	voltageGain_musicStart_none		medium	NR	appeal,25	18	leaflet,voice
+voltageGain_musicStart_none_R_small	voltageGain_musicStart_none		small	R	appeal,20	22	
+voltageGain_musicStart_none_SR_special	voltageGain_musicStart_none		special	SR	appeal,35	26	running,leaflet,meditation,voice,pushUp,stretch,swim
+voltageGain_musicStart_none_UR_extreme	voltageGain_musicStart_none		extreme	UR	appeal,40	30	running,leaflet,stretch
+voltageGain_acSuccess_none_NR_small	voltageGain_acSuccess_none		small	NR	appeal,20	18	swim
+voltageGain_stamina_none_NR_small	voltageGain_stamina_none		small	NR	appeal,20	80,18	
+voltageGain_targetVoltage_none_NR_small	voltageGain_targetVoltage_none		small	NR	appeal,20	30,18	swim
+voltageUp_acStart_everyone_SR_small	voltageUp_acStart_everyone		small	SR	5,1	26	running
+voltageUp_acStart_friends_R_medium	voltageUp_acStart_friends		medium	R	5,2	22	
+voltageUp_acStart_myself_NR_large	voltageUp_acStart_myself		large	NR	5,2	18	running
+voltageUp_acStart_sameAttribute_R_medium	voltageUp_acStart_sameAttribute		medium	R	5,2	22	
+voltageUp_acStart_sameGrade_R_medium	voltageUp_acStart_sameGrade		medium	R	5,2	22	
+voltageUp_acStart_sameSchool_R_medium	voltageUp_acStart_sameSchool		medium	R	5,2	22	
+voltageUp_acStart_sameTeam_R_medium	voltageUp_acStart_sameTeam		medium	R	5,2	22	
+voltageUp_acStart_sameType_R_medium	voltageUp_acStart_sameType		medium	R	5,2	22	
+voltageUp_acSuccess_everyone_R_small	voltageUp_acSuccess_everyone		small	R	5,1	22	stretch
+voltageUp_acSuccess_friends_NR_medium	voltageUp_acSuccess_friends		medium	NR	5,2	18	
+voltageUp_acSuccess_myself_N_large	voltageUp_acSuccess_myself		large	N	5,3	14	stretch
+voltageUp_acSuccess_sameAttribute_NR_medium	voltageUp_acSuccess_sameAttribute		medium	NR	5,2	18	
+voltageUp_acSuccess_sameGrade_NR_medium	voltageUp_acSuccess_sameGrade		medium	NR	5,2	18	
+voltageUp_acSuccess_sameSchool_NR_medium	voltageUp_acSuccess_sameSchool		medium	NR	5,2	18	
+voltageUp_acSuccess_sameTeam_NR_medium	voltageUp_acSuccess_sameTeam		medium	NR	5,2	18	
+voltageUp_acSuccess_sameType_NR_medium	voltageUp_acSuccess_sameType		medium	NR	5,2	18	
+voltageUp_stamina_friends_NR_medium	voltageUp_stamina_friends		medium	NR	5,2	80,18	
+voltageUp_stamina_myself_N_large	voltageUp_stamina_myself		large	N	5,3	80,14	
+voltageUp_stamina_sameAttribute_NR_medium	voltageUp_stamina_sameAttribute		medium	NR	5,2	80,18	
+voltageUp_stamina_sameGrade_NR_medium	voltageUp_stamina_sameGrade		medium	NR	5,2	80,18	
+voltageUp_stamina_sameSchool_NR_medium	voltageUp_stamina_sameSchool		medium	NR	5,2	80,18	
+voltageUp_stamina_sameTeam_NR_medium	voltageUp_stamina_sameTeam		medium	NR	5,2	80,18	
+voltageUp_stamina_sameType_NR_medium	voltageUp_stamina_sameType		medium	NR	5,2	80,18	
+voltageUp_targetVoltage_everyone_R_small	voltageUp_targetVoltage_everyone		small	R	5,1	30,22	running
+voltageUp_targetVoltage_friends_NR_medium	voltageUp_targetVoltage_friends		medium	NR	5,2	30,18	
+voltageUp_targetVoltage_myself_N_large	voltageUp_targetVoltage_myself		large	N	5,3	30,14	running
+voltageUp_targetVoltage_sameAttribute_NR_medium	voltageUp_targetVoltage_sameAttribute		medium	NR	5,2	30,18	running
+voltageUp_targetVoltage_sameGrade_NR_medium	voltageUp_targetVoltage_sameGrade		medium	NR	5,2	30,18	running
+voltageUp_targetVoltage_sameSchool_NR_medium	voltageUp_targetVoltage_sameSchool		medium	NR	5,2	30,18	running
+voltageUp_targetVoltage_sameTeam_NR_medium	voltageUp_targetVoltage_sameTeam		medium	NR	5,2	30,18	running
+voltageUp_targetVoltage_sameType_NR_medium	voltageUp_targetVoltage_sameType		medium	NR	5,2	30,18	running
+voltagePlus_acStartOnce_sameTeam_R_none	voltagePlus_acStartOnce_sameTeam	思い出の流れ星	none	R	2	50	summer
+appealUp_acSuccessOnce_sameTeam_R_none	appealUp_acSuccessOnce_sameTeam	トロピカルスマイル	none	R	5,5	50	summer
+spGaugeGain_acSuccessOnce_none_R_none	spGaugeGain_acSuccessOnce_none	ビーチサバイバー	none	R	200	50	summer
+appealUpType_acSuccessOnce_sameTeam_R_none	appealUpType_acSuccessOnce_sameTeam	ボンダンス	none	R	5,0.4	50	summer
+criticalUpType_acSuccessOnce_sameTeam_R_none	criticalUpType_acSuccessOnce_sameTeam	スイカスマッシャー	none	R	5,0.6	50	summer
+spGaugeGainUp_acSuccessTimes_sameTeam_R_none	spGaugeGainUp_acSuccessTimes_sameTeam	サマーラバー	none	R	5,5	40,2	summer
+spGaugeGain_acSuccessOnce_none_R_none	spGaugeGain_acSuccessOnce_none	ビーチダッシュ	none	R	50	50	summer

@@ -1,0 +1,30 @@
+type	title	fields	description	once	memo
+passive	パッシブ			FALSE	パッシブ
+always	必ず発動		必ず発動	FALSE	必ず発動
+success	成功時		成功時	FALSE	成功時
+successType	成功時	type: Type	${'type'}で成功時	FALSE	${'type'}で成功時
+music	楽曲中	parameter: Parameter	楽曲中	FALSE	楽曲中、アクセサリー、効果が変動する
+probability	発動確率	rate: number	発動確率: ${'rate'}％	FALSE	確率のみで発動
+damage	ダメージ時	damage: number, rate: number	${'damage'}ダメージ以上受けた時に${'rate'}％の確率で発動	FALSE	Xダメージ以上受けたとき
+damageTimes	ダメージ時	damage: number, rate: number, times: number	${'damage'}ダメージ以上受けた時に${'rate'}％の確率で${'times'}回だけ発動	FALSE	Xダメージ以上受けたときY回だけ発動
+targetVoltage	目標ボルテージ達成時	voltage: number, rate: number	目標ボルテージ${'voltage'}％達成時に${'rate'}％の確率で１回だけ発動	TRUE	目標ボルテージX%達成で１回だけ発動
+stamina	残スタミナ	stamina: number, rate: number	スタミナが${'stamina'}％以下で${'rate'}％の確率で１回だけ発動	TRUE	スタミナがX%以下で１回だけ発動
+staminaTimes	残スタミナ	stamina: number, rate: number, times: number	スタミナが${'stamina'}％以下で${'rate'}％の確率で${'times'}回だけ発動	FALSE	スタミナがX%以下でY回だけ発動
+changeTeam	作戦切替時	rate: number	作戦切替時に${'rate'}％の確率で発動	FALSE	作戦切替時
+changeTeamOnce	作戦切替時１回だけ	rate: number	作戦切替時に${'rate'}％の確率で１回だけ発動	TRUE	作戦切替時
+changeTeamTimes	作戦切替時	rate: number, times: number	作戦切替時に${'rate'}％の確率で${'times'}回だけ発動	FALSE	作戦切替時
+musicStart	曲開始時	rate: number	曲開始時に${'rate'}％の確率で発動	TRUE	曲開始時
+acStart	AC開始時	rate: number	AC開始時に${'rate'}％の確率で発動	FALSE	AC開始時
+acStartOnce	AC開始時１回だけ	rate: number	AC開始時に${'rate'}％の確率で１回だけ発動	TRUE	AC開始時１回だけ
+acStartTimes	AC開始時	rate: number, times: number	AC開始時に${'rate'}％の確率で${'times'}回だけ発動	FALSE	AC開始時X回だけ
+acSuccess	AC成功時	rate: number	AC成功時に${'rate'}％の確率で発動	FALSE	AC成功時
+acSuccessOnce	AC成功時１回だけ	rate: number	AC成功時に${'rate'}％の確率で１回だけ発動	TRUE	AC成功時１回だけ
+acSuccessTimes	AC成功時	rate: number, times: number	AC成功時に${'rate'}％の確率で${'times'}回だけ発動	FALSE	AC成功時２回だけ
+acFailed	AC失敗時	rate: number	AC失敗時に${'rate'}％の確率で発動	FALSE	アピールチャンス(AC)失敗時
+spSkill	SP特技発動時	rate: number	SP特技発動時に${'rate'}％の確率で発動	FALSE	SP特技発動時
+spSkillOnce	SP特技発動時１回だけ	rate: number	SP特技発動時に${'rate'}％の確率で１回だけ発動	TRUE	SP特技発動時１回だけ
+spSkillTimes	SP特技発動時	rate: number, times: number	SP特技発動時に${'rate'}％の確率で${'times'}回だけ発動	FALSE	SP特技発動時X回だけ
+appeal	アピール時	rate: number	自身のアピール時の${'rate'}％の確率で発動	FALSE	自身のアピール時
+critical	クリティカル時	rate: number	自身のクリティカル時の${'rate'}％の確率で発動	FALSE	自身のクリティカル時
+criticalTimes	クリティカル時	rate: number, times: number	自身のクリティカル時の${'rate'}％の確率で${'times'}回だけ発動	FALSE	自身のクリティカル時10回だけ発動
+sameAttribute	楽曲と属性一致時	rate: number	楽曲と属性一致時に${'rate'}％の確率で発動	TRUE	楽曲と属性一致時

@@ -1,0 +1,475 @@
+[
+  {
+    "chars": [
+      " ",
+      "　"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "！",
+      "!"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "?",
+      "？"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "…"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "·",
+      "・"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "‘",
+      "'"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "＋",
+      "+",
+      "十"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "~",
+      "〜"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "♡",
+      "つ",
+      "©"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "ー",
+      "一"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "a",
+      "A"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "b",
+      "B"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "c",
+      "C"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "d",
+      "D"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "e",
+      "E"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "f",
+      "F"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "g",
+      "G"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "h",
+      "H"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "i",
+      "I"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "j",
+      "J"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "k",
+      "K"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "l",
+      "L"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "m",
+      "M"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "n",
+      "N"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "o",
+      "O"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "p",
+      "P"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "q",
+      "Q"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "r",
+      "R"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "s",
+      "S"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "t",
+      "T"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "u",
+      "U"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "v",
+      "V"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "w",
+      "W"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "x",
+      "X"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "y",
+      "Y"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "z",
+      "Z"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "ぁ",
+      "あ"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "ァ",
+      "ア"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "っ",
+      "つ"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "ッ",
+      "ツ"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "ぱ",
+      "ば"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "パ",
+      "バ"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "ぴ",
+      "び"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "ピ",
+      "ビ"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "ぷ",
+      "ぶ"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "プ",
+      "ブ"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "ぺ",
+      "べ"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "ペ",
+      "ベ"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "ぽ",
+      "ぼ"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "ポ",
+      "ボ"
+    ],
+    "skip": false
+  },
+  {
+    "chars": [
+      "ゃ",
+      "や"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "ャ",
+      "ヤ"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "ゅ",
+      "ゆ"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "ュ",
+      "ユ"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "ょ",
+      "よ"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "ョ",
+      "ヨ"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "凛",
+      "源",
+      "導"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "栞",
+      "柔"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "澤",
+      "響",
+      "導",
+      "潔"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "綺",
+      "締"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "莉",
+      "刺"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "菜",
+      "葉"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "鞠",
+      "鞘"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "巫",
+      "基"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "薔",
+      "蓄"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "薇",
+      "蔽"
+    ],
+    "skip": true
+  },
+  {
+    "chars": [
+      "穂",
+      "穗"
+    ],
+    "skip": true
+  }
+]

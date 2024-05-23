@@ -1,0 +1,771 @@
+[
+  {
+    "id": "party",
+    "hashKey": 37,
+    "title": "パーティーガチャ",
+    "costs": [
+      10,
+      50,
+      500
+    ],
+    "bundles": [
+      "party_sr",
+      "party_normal"
+    ],
+    "picks": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "lab1",
+    "hashKey": 38,
+    "title": "未来のラボは大騒ぎ【前編】",
+    "costs": [
+      10,
+      50,
+      500
+    ],
+    "bundles": [
+      "lab1_sr",
+      "lab1_normal"
+    ],
+    "picks": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "lab2",
+    "hashKey": 39,
+    "title": "未来のラボは大騒ぎ【後編】",
+    "costs": [
+      10,
+      50,
+      500
+    ],
+    "bundles": [
+      "lab2_sr",
+      "lab2_normal"
+    ],
+    "picks": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "niji",
+    "hashKey": 32,
+    "title": "ニジガクスカウトガチャ",
+    "costs": [
+      10,
+      50,
+      500
+    ],
+    "bundles": [
+      "niji_only",
+      "niji_scout_normal"
+    ],
+    "picks": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "hatsuyume",
+    "hashKey": 36,
+    "title": "2021初夢ガチャ",
+    "costs": [
+      500
+    ],
+    "bundles": [
+      "hatsuyume_ur",
+      "hatsuyume_normal"
+    ],
+    "picks": [
+      [
+        1,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "niji_kanata",
+    "hashKey": 27,
+    "title": "近江彼方スカウトガチャ",
+    "costs": [
+      10,
+      50,
+      500
+    ],
+    "bundles": [
+      "niji_kanata_sr",
+      "niji_scout_normal"
+    ],
+    "picks": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "niji_rina",
+    "hashKey": 25,
+    "title": "天王寺璃奈スカウトガチャ",
+    "costs": [
+      10,
+      50,
+      500
+    ],
+    "bundles": [
+      "niji_rina_sr",
+      "niji_scout_normal"
+    ],
+    "picks": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "niji_ema",
+    "hashKey": 22,
+    "title": "エマ・ヴェルデスカウトガチャ",
+    "costs": [
+      10,
+      50,
+      500
+    ],
+    "bundles": [
+      "niji_ema_sr",
+      "niji_scout_normal"
+    ],
+    "picks": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "niji_ai",
+    "hashKey": 21,
+    "title": "宮下愛スカウトガチャ",
+    "costs": [
+      10,
+      50,
+      500
+    ],
+    "bundles": [
+      "niji_ai_sr",
+      "niji_scout_normal"
+    ],
+    "picks": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "niji_setsuna",
+    "hashKey": 18,
+    "title": "優木せつ菜スカウトガチャ",
+    "costs": [
+      10,
+      50,
+      500
+    ],
+    "bundles": [
+      "niji_setsuna_sr",
+      "niji_scout_normal"
+    ],
+    "picks": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "niji_kasumi",
+    "hashKey": 17,
+    "title": "中須かすみスカウトガチャ",
+    "costs": [
+      10,
+      50,
+      500
+    ],
+    "bundles": [
+      "niji_kasumi_sr",
+      "niji_scout_normal"
+    ],
+    "picks": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "niji_ayumu",
+    "hashKey": 16,
+    "title": "上原歩夢スカウトガチャ",
+    "costs": [
+      10,
+      50,
+      500
+    ],
+    "bundles": [
+      "niji_ayumu_sr",
+      "niji_scout_normal"
+    ],
+    "picks": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "allstars",
+    "hashKey": 1,
+    "title": "オールスターガチャ",
+    "costs": [
+      10,
+      50,
+      500
+    ],
+    "bundles": [
+      "allstars_sr_202012",
+      "allstars_normal_202012"
+    ],
+    "picks": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "startdash",
+    "hashKey": 2,
+    "title": "１枠UR確定！スタートダッシュ１０連ガチャ",
+    "costs": [
+      500
+    ],
+    "bundles": [
+      "startdash_ur",
+      "startdash_normal"
+    ],
+    "picks": [
+      [
+        1,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "stepup_1st_fes",
+    "hashKey": 11,
+    "title": "1st Anniversary フェスステップアップガチャ",
+    "costs": [
+      200,
+      300,
+      400,
+      500
+    ],
+    "bundles": [
+      "stepup_1st_fes_ur",
+      "stepup_1st_fes_sr",
+      "stepup_1st_fes_normal"
+    ],
+    "picks": [
+      [
+        0,
+        1,
+        9
+      ],
+      [
+        0,
+        1,
+        9
+      ],
+      [
+        0,
+        1,
+        9
+      ],
+      [
+        1,
+        0,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "1st_muse",
+    "hashKey": 12,
+    "title": "1st Anniversary μ’ｓフェスガチャ",
+    "costs": [
+      10,
+      50,
+      500
+    ],
+    "bundles": [
+      "1st_muse_sr",
+      "1st_muse_normal"
+    ],
+    "picks": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "xmas1",
+    "hashKey": 30,
+    "title": "１番のクリスマスプレゼントガチャ【前編】",
+    "costs": [
+      10,
+      50,
+      500
+    ],
+    "bundles": [
+      "xmas1_sr",
+      "xmas1_normal"
+    ],
+    "picks": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "stepup_xmas",
+    "hashKey": 35,
+    "title": "クリスマスステップアップガチャ",
+    "costs": [
+      10,
+      40,
+      100,
+      300,
+      500,
+      500,
+      500,
+      500
+    ],
+    "bundles": [
+      "fes",
+      "fes_ur",
+      "fes_sr",
+      "fes_normal"
+    ],
+    "picks": [
+      [
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        0,
+        8
+      ],
+      [
+        0,
+        1,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        1,
+        9
+      ],
+      [
+        0,
+        0,
+        1,
+        9
+      ],
+      [
+        1,
+        0,
+        0,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "pickup",
+    "hashKey": 4,
+    "title": "にこ・ダイヤメンバーピックアップガチャ",
+    "costs": [
+      10,
+      50,
+      500
+    ],
+    "bundles": [
+      "pickup_sr",
+      "pickup_normal"
+    ],
+    "picks": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "1st_aqours",
+    "hashKey": 13,
+    "title": "1st Anniversary Aqoursフェスガチャ",
+    "costs": [
+      10,
+      50,
+      500
+    ],
+    "bundles": [
+      "1st_aqours_sr",
+      "1st_aqours_normal"
+    ],
+    "picks": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "xmas2",
+    "hashKey": 31,
+    "title": "１番のクリスマスプレゼントガチャ【後編】",
+    "costs": [
+      10,
+      50,
+      500
+    ],
+    "bundles": [
+      "xmas2_sr",
+      "xmas2_normal"
+    ],
+    "picks": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "stepup_moco",
+    "hashKey": 34,
+    "title": "もこもこステップアップガチャ",
+    "costs": [
+      10,
+      40,
+      100,
+      300,
+      500,
+      500,
+      500,
+      500
+    ],
+    "bundles": [
+      "moco_new_ur",
+      "moco_ur",
+      "moco_sr",
+      "moco_normal"
+    ],
+    "picks": [
+      [
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        0,
+        8
+      ],
+      [
+        0,
+        1,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        1,
+        9
+      ],
+      [
+        0,
+        0,
+        1,
+        9
+      ],
+      [
+        1,
+        0,
+        0,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "stepup_after_fes",
+    "hashKey": 10,
+    "title": "後夜祭ステップアップガチャ",
+    "costs": [
+      400,
+      500
+    ],
+    "bundles": [
+      "stepup_after_fes_ur",
+      "stepup_after_fes_sr",
+      "stepup_after_fes_normal"
+    ],
+    "picks": [
+      [
+        0,
+        1,
+        9
+      ],
+      [
+        1,
+        0,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "blue_sky",
+    "hashKey": 33,
+    "title": "青空Jumping Heartガチャ",
+    "costs": [
+      50,
+      500
+    ],
+    "bundles": [
+      "blue_sky_sr",
+      "blue_sky_normal"
+    ],
+    "picks": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "fes",
+    "hashKey": 3,
+    "title": "スクスタフェス（栞子・歩夢）",
+    "costs": [
+      10,
+      50,
+      500
+    ],
+    "bundles": [
+      "fes_sr",
+      "fes_normal"
+    ],
+    "picks": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        9
+      ]
+    ]
+  }
+]

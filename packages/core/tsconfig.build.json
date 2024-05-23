@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "dist",
+    "noEmit": false
+  },
+  "include": ["core.d.ts", "index.ts", "entities", "data"],
+  "exclude": ["gulp", "test"]
+}

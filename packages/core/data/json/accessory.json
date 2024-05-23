@@ -1,0 +1,295 @@
+[
+  {
+    "type": "earrings",
+    "title": "星のイヤリング",
+    "attributes": [
+      "smile",
+      "pure",
+      "cool"
+    ],
+    "rarities": [
+      "UR",
+      "SR",
+      "R"
+    ],
+    "appeal": 1040,
+    "stamina": 780,
+    "technique": 780,
+    "skillId": "spGaugeGainPlusStamina_music_myself",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": []
+  },
+  {
+    "type": "necklace",
+    "title": "星のネックレス",
+    "attributes": [
+      "active",
+      "natural",
+      "elegant"
+    ],
+    "rarities": [
+      "UR",
+      "SR",
+      "R"
+    ],
+    "appeal": 1040,
+    "stamina": 780,
+    "technique": 780,
+    "skillId": "damageReductionPlusStamina_music_none",
+    "skillFields": [
+      2
+    ],
+    "conditionFields": []
+  },
+  {
+    "type": "brooch",
+    "title": "音符のブローチ",
+    "attributes": [
+      "smile",
+      "cool",
+      "natural"
+    ],
+    "rarities": [
+      "UR",
+      "SR",
+      "R"
+    ],
+    "appeal": 1040,
+    "stamina": 780,
+    "technique": 780,
+    "skillId": "appealPlusStamina_music_myself",
+    "skillFields": [
+      5
+    ],
+    "conditionFields": []
+  },
+  {
+    "type": "keyHolder",
+    "title": "音符のキーホルダー",
+    "attributes": [
+      "pure",
+      "active",
+      "elegant"
+    ],
+    "rarities": [
+      "UR",
+      "SR",
+      "R"
+    ],
+    "appeal": 1040,
+    "stamina": 780,
+    "technique": 780,
+    "skillId": "skillInvocationPlusStamina_music_myself",
+    "skillFields": [
+      5
+    ],
+    "conditionFields": []
+  },
+  {
+    "type": "bracelet",
+    "title": "フラワーのブレスレット",
+    "attributes": [
+      "smile",
+      "active",
+      "elegant"
+    ],
+    "rarities": [
+      "UR",
+      "SR",
+      "R"
+    ],
+    "appeal": 1040,
+    "stamina": 780,
+    "technique": 780,
+    "skillId": "spGaugeGainRate_acSuccess_none",
+    "skillFields": [
+      "appeal",
+      5
+    ],
+    "conditionFields": [
+      100
+    ]
+  },
+  {
+    "type": "hairpin",
+    "title": "フラワーのヘアピン",
+    "attributes": [
+      "pure",
+      "cool",
+      "natural"
+    ],
+    "rarities": [
+      "UR",
+      "SR",
+      "R"
+    ],
+    "appeal": 1040,
+    "stamina": 780,
+    "technique": 780,
+    "skillId": "criticalPlusCombo_music_myself",
+    "skillFields": [
+      5
+    ],
+    "conditionFields": []
+  },
+  {
+    "type": "ribbon",
+    "title": "チェックのリボン",
+    "attributes": [
+      "smile",
+      "pure",
+      "natural"
+    ],
+    "rarities": [
+      "UR",
+      "SR",
+      "R"
+    ],
+    "appeal": 1040,
+    "stamina": 780,
+    "technique": 780,
+    "skillId": "shieldGainValueCombo_acSuccess_none",
+    "skillFields": [
+      500
+    ],
+    "conditionFields": [
+      100
+    ]
+  },
+  {
+    "type": "porch",
+    "title": "チェックのポーチ",
+    "attributes": [
+      "cool",
+      "active",
+      "elegant"
+    ],
+    "rarities": [
+      "UR",
+      "SR",
+      "R"
+    ],
+    "appeal": 1040,
+    "stamina": 780,
+    "technique": 780,
+    "skillId": "staminaRecoveryCombo_acSuccess_none",
+    "skillFields": [
+      500
+    ],
+    "conditionFields": [
+      100
+    ]
+  },
+  {
+    "type": "wristband",
+    "title": "ボーダーのリストバンド",
+    "attributes": [
+      "smile",
+      "cool",
+      "elegant"
+    ],
+    "rarities": [
+      "UR",
+      "SR",
+      "R"
+    ],
+    "appeal": 1040,
+    "stamina": 780,
+    "technique": 780,
+    "skillId": "appealUp_musicStart_myself",
+    "skillFields": [
+      10,
+      5
+    ],
+    "conditionFields": [
+      30
+    ]
+  },
+  {
+    "type": "towel",
+    "title": "ボーダーのタオル",
+    "attributes": [
+      "pure",
+      "active",
+      "natural"
+    ],
+    "rarities": [
+      "UR",
+      "SR",
+      "R"
+    ],
+    "appeal": 1040,
+    "stamina": 780,
+    "technique": 780,
+    "skillId": "skillInvocationUp_musicStart_myself",
+    "skillFields": [
+      10,
+      5
+    ],
+    "conditionFields": [
+      30
+    ]
+  },
+  {
+    "type": "belt",
+    "title": "ハートのベルト",
+    "attributes": [
+      "pure",
+      "cool",
+      "natural"
+    ],
+    "rarities": [
+      "UR"
+    ],
+    "appeal": 780,
+    "stamina": 650,
+    "technique": 1170,
+    "skillId": "spSkillPlusParam_music_myself",
+    "skillFields": [
+      "technique",
+      5
+    ],
+    "conditionFields": []
+  },
+  {
+    "type": "choker",
+    "title": "四葉のチョーカー",
+    "attributes": [
+      "smile",
+      "active",
+      "elegant"
+    ],
+    "rarities": [
+      "UR"
+    ],
+    "appeal": 780,
+    "stamina": 650,
+    "technique": 1170,
+    "skillId": "voltageLimitPlus_music_myself",
+    "skillFields": [
+      10
+    ],
+    "conditionFields": []
+  },
+  {
+    "type": "bangle",
+    "title": "雪結晶のバングル",
+    "attributes": [
+      "pure",
+      "active"
+    ],
+    "rarities": [
+      "UR"
+    ],
+    "appeal": 780,
+    "stamina": 650,
+    "technique": 1170,
+    "skillId": "criticalPlusStamina_music_myself",
+    "skillFields": [
+      20
+    ],
+    "conditionFields": []
+  }
+]

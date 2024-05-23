@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "esnext"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "es6",
+    "noEmit": true,
+    "strictNullChecks": true,
+    "sourceMap": true,
+    "declaration": true,
+    "noImplicitReturns": true,
+    "resolveJsonModule": true
+  }
+}

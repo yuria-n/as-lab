@@ -1,0 +1,6 @@
+id	type	title	fields	description
+1	voltage	目標ボルテージ	value: number	合計${'value'}ボルテージを獲得する
+2	idol	作戦切替	value: number	${'value'}人のアイドルでアピールする
+6	sp	SP特技	value: number	SP特技で合計${'value'}ボルテージを獲得する
+8	critical	クリティカル判定	times: number	クリティカル判定を${'times'}回出す
+9	skill	特技	times: number	特技を${'times'}回出す
